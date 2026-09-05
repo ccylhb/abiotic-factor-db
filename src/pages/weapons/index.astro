@@ -1,0 +1,79 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import weapons from "../../data/weapons.json";
+
+const rows = weapons
+  .map((w) => ({
+    name: w.name,
+    type: w.weaponType || "-",
+    damage: w.weaponDamage || "-",
+    damageType: w.weaponDamageType || "-",
+    weight: w.weight || "-",
+    tier: w.tier || "-",
+    href: `/weapons/${w.slug}/`,
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const byType = {};
+for (const w of weapons) {
+  const g = w.weaponType || "Other";
+  (byType[g] ||= []).push(w);
+}
+---
+
+<Base
+  title="Abiotic Factor Weapons Database – Damage, Types & Tiers"
+  description={`Complete list of all ${weapons.length} weapons and ammo in Abiotic Factor: melee and ranged weapons with damage values, damage types, weight and tiers.`}
+>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <span>Weapons</span>
+  </nav>
+  <h1>Abiotic Factor Weapons Database</h1>
+  <p>
+    All <strong>{weapons.length} weapons & ammo</strong> in Abiotic Factor — melee, ranged and thrown,
+    with exact damage values, damage types, weight and tiers.
+  </p>
+
+  <div class="card" style="margin:1rem 0">
+    <h2 style="margin-top:0">Browse by Type</h2>
+    <ul class="cols2">
+      {Object.entries(byType)
+        .sort(([a], [b]) => a.localeCompare(b))
+        .map(([g, list]) => (
+          <li>
+            <a href={`/weapons/type/${g.toLowerCase().replace(/[^a-z0-9]+/g, "-")}/`}>{g}</a>
+            <span class="muted"> ({list.length})</span>
+          </li>
+        ))}
+    </ul>
+  </div>
+
+  <h2>All Weapons</h2>
+  <DataTable
+    id="weapons"
+    rows={rows}
+    searchPlaceholder="Search weapons..."
+    columns={[
+      { key: "name", label: "Weapon", href: "href" },
+      { key: "type", label: "Type" },
+      { key: "damage", label: "Damage" },
+      { key: "damageType", label: "Damage Type" },
+      { key: "weight", label: "Weight" },
+      { key: "tier", label: "Tier" },
+    ]}
+  />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Abiotic Factor Weapons Database",
+    numberOfItems: weapons.length,
+    itemListElement: weapons.slice(0, 30).map((w, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: w.name,
+      url: `/weapons/${w.slug}/`,
+    })),
+  })} />
+</Base>

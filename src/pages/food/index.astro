@@ -1,0 +1,59 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import food from "../../data/food.json";
+
+const rows = food
+  .map((f) => ({
+    name: f.name,
+    stage: f.cookingStage || "-",
+    hunger: f.hunger || "-",
+    thirst: f.thirst || "-",
+    sanity: f.sanity || "-",
+    weight: f.weight || "-",
+    href: `/food/${f.slug}/`,
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<Base
+  title="Abiotic Factor Food & Cooking Database – Hunger, Thirst & Sanity"
+  description={`Complete list of all ${food.length} food and drink items in Abiotic Factor: exact hunger, thirst and sanity restore values, weight and cooking stage.`}
+>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <span>Food & Cooking</span>
+  </nav>
+  <h1>Abiotic Factor Food & Cooking Database</h1>
+  <p>
+    All <strong>{food.length} food & drink items</strong> in Abiotic Factor with exact
+    hunger / thirst / sanity restore values — from raw ingredients to cooked meals and soups.
+  </p>
+
+  <h2>All Food & Drinks</h2>
+  <DataTable
+    id="food"
+    rows={rows}
+    searchPlaceholder="Search food..."
+    columns={[
+      { key: "name", label: "Item", href: "href" },
+      { key: "stage", label: "Stage" },
+      { key: "hunger", label: "Hunger" },
+      { key: "thirst", label: "Thirst" },
+      { key: "sanity", label: "Sanity" },
+      { key: "weight", label: "Weight" },
+    ]}
+  />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Abiotic Factor Food & Cooking Database",
+    numberOfItems: food.length,
+    itemListElement: food.slice(0, 30).map((f, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: f.name,
+      url: `/food/${f.slug}/`,
+    })),
+  })} />
+</Base>

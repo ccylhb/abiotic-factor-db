@@ -1,0 +1,38 @@
+---
+import Base from "../../../layouts/Base.astro";
+import weapons from "../../../data/weapons.json";
+
+export function getStaticPaths() {
+  const types = [...new Set(weapons.map((w) => w.weaponType).filter(Boolean))];
+  const slugify = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+  return types.map((t) => ({
+    params: { type: slugify(t) },
+    props: {
+      type: t,
+      items: weapons.filter((w) => w.weaponType === t),
+    },
+  }));
+}
+
+const { type, items } = Astro.props;
+const title = `${type} weapons in Abiotic Factor`;
+---
+
+<Base title={`${title} – FactorDB`} description={`All ${items.length} ${type.toLowerCase()} weapons in Abiotic Factor with damage values, damage types, weight and tiers.`}>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <a href="/weapons/">Weapons</a> › <span>{type}</span>
+  </nav>
+  <h1>{title}</h1>
+  <p>{items.length} weapons in the <strong>{type}</strong> category:</p>
+  <ul class="cols2">
+    {items
+      .sort((a, b) => a.name.localeCompare(b.name))
+      .map((w) => (
+        <li>
+          <a href={`/weapons/${w.slug}/`}>{w.name}</a>
+          {w.weaponDamage ? <span class="muted"> ({w.weaponDamage} dmg)</span> : ""}
+        </li>
+      ))}
+  </ul>
+  <p><a href="/weapons/">← Back to all weapons</a></p>
+</Base>

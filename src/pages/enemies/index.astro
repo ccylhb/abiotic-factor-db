@@ -1,0 +1,77 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import enemies from "../../data/enemies.json";
+
+const rows = enemies
+  .map((e) => ({
+    name: e.name,
+    type: e.type || "-",
+    health: e.healthTorso || e.healthHead || "-",
+    melee: e.meleeDamage || "-",
+    weakness: e.weakness || "-",
+    href: `/enemies/${e.slug}/`,
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const byType = {};
+for (const e of enemies) {
+  const g = e.type || "Other";
+  (byType[g] ||= []).push(e);
+}
+---
+
+<Base
+  title="Abiotic Factor Enemies Database – Health, Weaknesses & Drops"
+  description={`Complete list of all ${enemies.length} enemies in Abiotic Factor: creatures, military and workers with health, weaknesses, resistances and drops.`}
+>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <span>Enemies</span>
+  </nav>
+  <h1>Abiotic Factor Enemies Database</h1>
+  <p>
+    All <strong>{enemies.length} enemies</strong> in Abiotic Factor — sector creatures, Anteverse
+    threats and hostile personnel, with health, weaknesses, resistances and drops.
+  </p>
+
+  <div class="card" style="margin:1rem 0">
+    <h2 style="margin-top:0">Browse by Type</h2>
+    <ul class="cols2">
+      {Object.entries(byType)
+        .sort(([a], [b]) => a.localeCompare(b))
+        .map(([g, list]) => (
+          <li>
+            <a href={`/enemies/type/${g.toLowerCase().replace(/[^a-z0-9]+/g, "-")}/`}>{g}</a>
+            <span class="muted"> ({list.length})</span>
+          </li>
+        ))}
+    </ul>
+  </div>
+
+  <h2>All Enemies</h2>
+  <DataTable
+    id="enemies"
+    rows={rows}
+    searchPlaceholder="Search enemies..."
+    columns={[
+      { key: "name", label: "Enemy", href: "href" },
+      { key: "type", label: "Type" },
+      { key: "health", label: "Health" },
+      { key: "melee", label: "Melee Dmg" },
+      { key: "weakness", label: "Weakness" },
+    ]}
+  />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Abiotic Factor Enemies Database",
+    numberOfItems: enemies.length,
+    itemListElement: enemies.slice(0, 30).map((e, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: e.name,
+      url: `/enemies/${e.slug}/`,
+    })),
+  })} />
+</Base>

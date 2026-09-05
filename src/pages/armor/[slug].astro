@@ -1,0 +1,78 @@
+---
+import Base from "../../layouts/Base.astro";
+import armor from "../../data/armor.json";
+
+export function getStaticPaths() {
+  return armor.map((a) => ({
+    params: { slug: a.slug },
+    props: { item: a },
+  }));
+}
+
+const { item } = Astro.props;
+const sameSlot = armor
+  .filter((a) => a.gearSlot && item.gearSlot && a.gearSlot === item.gearSlot && a.slug !== item.slug)
+  .slice(0, 8);
+const slotSlug = (item.gearSlot || "other").toLowerCase().replace(/[^a-z0-9]+/g, "-");
+const title = `${item.name} – Abiotic Factor Armor`;
+const desc =
+  item.description || item.summary ||
+  `${item.name} is ${/^[aeiou]/i.test(item.gearSlot || "") ? "an" : "a"} ${item.gearSlot || "gear"} item in Abiotic Factor. See armor value, resistances and set bonuses.`;
+---
+
+<Base title={title} description={`Abiotic Factor ${item.name}: armor value, heat and radiation resistance, set bonuses, weight and how to repair it. ${desc.slice(0, 100)}`}>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <a href="/armor/">Armor & Gear</a> ›
+    <a href={`/armor/slot/${slotSlug}/`}>{item.gearSlot || "Other"}</a> ›
+    <span>{item.name}</span>
+  </nav>
+  <h1>{item.name}</h1>
+  {item.description && <p>{item.description}</p>}
+
+  <div class="card" style="margin:1rem 0">
+    <table>
+      {item.gearSlot && <tr><th>Slot</th><td>{item.gearSlot}</td></tr>}
+      {item.gearArmor && <tr><th>Armor</th><td><strong>{item.gearArmor}</strong></td></tr>}
+      {item.gearHeatResist && <tr><th>Heat Resist</th><td>{item.gearHeatResist}</td></tr>}
+      {item.gearRadResist && <tr><th>Radiation Resist</th><td>{item.gearRadResist}</td></tr>}
+      {item.setBonusHalf && <tr><th>Set Bonus (2+ pieces)</th><td>{item.setBonusHalf}</td></tr>}
+      {item.setBonusFull && <tr><th>Set Bonus (full set)</th><td><strong>{item.setBonusFull}</strong></td></tr>}
+      {item.durability && <tr><th>Durability</th><td>{item.durability}</td></tr>}
+      {item.weight && <tr><th>Weight</th><td>{item.weight}</td></tr>}
+      {item.tier && <tr><th>Tier</th><td>{item.tier}</td></tr>}
+    </table>
+  </div>
+
+  {item.summary && (
+    <>
+      <h2>About {item.name}</h2>
+      <p>{item.summary}</p>
+    </>
+  )}
+
+  <p class="muted">
+    Armor pieces from the same set grant a bonus when worn together — check the set bonus rows
+    above. Pair heavy armor with <a href="/weapons/type/overworld-ranged/">ranged weapons</a> for
+    the safest engagement against <a href="/enemies/">sector enemies</a>.
+  </p>
+
+  {sameSlot.length > 0 && (
+    <>
+      <h2>More {item.gearSlot}</h2>
+      <ul class="cols2">
+        {sameSlot.map((a) => (
+          <li><a href={`/armor/${a.slug}/`}>{a.name}</a>{a.gearArmor ? <span class="muted"> ({a.gearArmor} armor)</span> : ""}</li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description: desc,
+    about: { "@type": "Thing", name: item.name },
+    isPartOf: { "@type": "WebSite", name: "FactorDB" },
+  })} />
+</Base>

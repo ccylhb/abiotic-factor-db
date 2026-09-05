@@ -1,0 +1,77 @@
+---
+import Base from "../../layouts/Base.astro";
+import weapons from "../../data/weapons.json";
+
+export function getStaticPaths() {
+  return weapons.map((w) => ({
+    params: { slug: w.slug },
+    props: { weapon: w },
+  }));
+}
+
+const { weapon } = Astro.props;
+const sameType = weapons
+  .filter((w) => w.weaponType && weapon.weaponType && w.weaponType === weapon.weaponType && w.slug !== weapon.slug)
+  .slice(0, 8);
+const typeSlug = (weapon.weaponType || "other").toLowerCase().replace(/[^a-z0-9]+/g, "-");
+const title = `${weapon.name} – Abiotic Factor Weapon`;
+const desc =
+  weapon.description || weapon.summary ||
+  `${weapon.name} is ${/^[aeiou]/i.test(weapon.weaponType || "") ? "an" : "a"} ${weapon.weaponType || "weapon"} in Abiotic Factor. See damage, weight, durability and tier.`;
+---
+
+<Base title={title} description={`Abiotic Factor ${weapon.name}: damage, damage type, weight, durability and tier. How to obtain it and what it's best used against. ${desc.slice(0, 100)}`}>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <a href="/weapons/">Weapons</a> ›
+    <a href={`/weapons/type/${typeSlug}/`}>{weapon.weaponType || "Other"}</a> ›
+    <span>{weapon.name}</span>
+  </nav>
+  <h1>{weapon.name}</h1>
+  {weapon.description && <p>{weapon.description}</p>}
+  {weapon.flavor && weapon.flavor !== weapon.description && <p class="muted"><em>{weapon.flavor}</em></p>}
+
+  <div class="card" style="margin:1rem 0">
+    <table>
+      {weapon.weaponType && <tr><th>Type</th><td>{weapon.weaponType}</td></tr>}
+      {weapon.weaponDamage && <tr><th>Damage</th><td><strong>{weapon.weaponDamage}</strong></td></tr>}
+      {weapon.weaponDamageType && <tr><th>Damage Type</th><td>{weapon.weaponDamageType}</td></tr>}
+      {weapon.durability && <tr><th>Durability</th><td>{weapon.durability}</td></tr>}
+      {weapon.weight && <tr><th>Weight</th><td>{weapon.weight}</td></tr>}
+      {weapon.stack && <tr><th>Max Stack</th><td>{weapon.stack}</td></tr>}
+      {weapon.tier && <tr><th>Tier</th><td>{weapon.tier}</td></tr>}
+    </table>
+  </div>
+
+  {weapon.summary && (
+    <>
+      <h2>About {weapon.name}</h2>
+      <p>{weapon.summary}</p>
+    </>
+  )}
+
+  <p class="muted">
+    Choosing between weapons: match the damage type to enemy weaknesses — check the
+    <a href="/enemies/">enemies database</a> for what each creature resists. Armor matters too,
+    see the <a href="/armor/">armor database</a> for set bonuses.
+  </p>
+
+  {sameType.length > 0 && (
+    <>
+      <h2>More {weapon.weaponType}</h2>
+      <ul class="cols2">
+        {sameType.map((w) => (
+          <li><a href={`/weapons/${w.slug}/`}>{w.name}</a>{w.weaponDamage ? <span class="muted"> ({w.weaponDamage} dmg)</span> : ""}</li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description: desc,
+    about: { "@type": "Thing", name: weapon.name },
+    isPartOf: { "@type": "WebSite", name: "FactorDB" },
+  })} />
+</Base>

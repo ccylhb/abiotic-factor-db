@@ -1,0 +1,38 @@
+---
+import Base from "../../../layouts/Base.astro";
+import enemies from "../../../data/enemies.json";
+
+export function getStaticPaths() {
+  const types = [...new Set(enemies.map((e) => e.type).filter(Boolean))];
+  const slugify = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+  return types.map((t) => ({
+    params: { type: slugify(t) },
+    props: {
+      type: t,
+      items: enemies.filter((e) => e.type === t),
+    },
+  }));
+}
+
+const { type, items } = Astro.props;
+const title = `${type} enemies in Abiotic Factor`;
+---
+
+<Base title={`${title} – FactorDB`} description={`All ${items.length} ${type.toLowerCase()} enemies in Abiotic Factor with health, weaknesses, resistances and drops.`}>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <a href="/enemies/">Enemies</a> › <span>{type}</span>
+  </nav>
+  <h1>{title}</h1>
+  <p>{items.length} enemies in the <strong>{type}</strong> category:</p>
+  <ul class="cols2">
+    {items
+      .sort((a, b) => a.name.localeCompare(b.name))
+      .map((e) => (
+        <li>
+          <a href={`/enemies/${e.slug}/`}>{e.name}</a>
+          {e.weakness ? <span class="muted"> (weak to {e.weakness})</span> : ""}
+        </li>
+      ))}
+  </ul>
+  <p><a href="/enemies/">← Back to all enemies</a></p>
+</Base>

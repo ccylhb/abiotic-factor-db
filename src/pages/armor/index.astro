@@ -1,0 +1,79 @@
+---
+import Base from "../../layouts/Base.astro";
+import DataTable from "../../components/DataTable.astro";
+import armor from "../../data/armor.json";
+
+const rows = armor
+  .map((a) => ({
+    name: a.name,
+    slot: a.gearSlot || "-",
+    armor: a.gearArmor || "-",
+    heat: a.gearHeatResist || "-",
+    rad: a.gearRadResist || "-",
+    weight: a.weight || "-",
+    href: `/armor/${a.slug}/`,
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const bySlot = {};
+for (const a of armor) {
+  const g = a.gearSlot || "Other";
+  (bySlot[g] ||= []).push(a);
+}
+---
+
+<Base
+  title="Abiotic Factor Armor & Gear Database – Armor Values & Set Bonuses"
+  description={`Complete list of all ${armor.length} armor and gear items in Abiotic Factor: armor values, heat and radiation resistance, weight and set bonuses.`}
+>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <span>Armor & Gear</span>
+  </nav>
+  <h1>Abiotic Factor Armor & Gear Database</h1>
+  <p>
+    All <strong>{armor.length} armor & gear items</strong> in Abiotic Factor with armor values,
+    heat / radiation resistance and set bonuses.
+  </p>
+
+  <div class="card" style="margin:1rem 0">
+    <h2 style="margin-top:0">Browse by Slot</h2>
+    <ul class="cols2">
+      {Object.entries(bySlot)
+        .sort(([a], [b]) => a.localeCompare(b))
+        .map(([g, list]) => (
+          <li>
+            <a href={`/armor/slot/${g.toLowerCase().replace(/[^a-z0-9]+/g, "-")}/`}>{g}</a>
+            <span class="muted"> ({list.length})</span>
+          </li>
+        ))}
+    </ul>
+  </div>
+
+  <h2>All Armor & Gear</h2>
+  <DataTable
+    id="armor"
+    rows={rows}
+    searchPlaceholder="Search armor..."
+    columns={[
+      { key: "name", label: "Item", href: "href" },
+      { key: "slot", label: "Slot" },
+      { key: "armor", label: "Armor" },
+      { key: "heat", label: "Heat Resist" },
+      { key: "rad", label: "Rad Resist" },
+      { key: "weight", label: "Weight" },
+    ]}
+  />
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Abiotic Factor Armor & Gear Database",
+    numberOfItems: armor.length,
+    itemListElement: armor.slice(0, 30).map((a, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: a.name,
+      url: `/armor/${a.slug}/`,
+    })),
+  })} />
+</Base>

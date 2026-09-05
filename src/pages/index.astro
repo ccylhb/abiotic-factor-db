@@ -1,0 +1,22 @@
+---
+import Base from "../layouts/Base.astro";
+import GuideLink from "../components/GuideLink.astro";
+import site from "../../site.config.json";
+import weapons from "../data/weapons.json";
+import food from "../data/food.json";
+import armor from "../data/armor.json";
+import enemies from "../data/enemies.json";
+---
+
+<Base title={`${site.siteName} - ${site.tagline}`} description={site.description}>
+  <h1>{site.siteName}</h1>
+  <p class="muted">{site.tagline}</p>
+  <div class="grid grid-3">
+    <GuideLink title="Weapons Database" desc={`All ${weapons.length} weapons & ammo with damage and tiers.`} href="/weapons/" badge="Weapons" />
+    <GuideLink title="Food & Cooking" desc={`All ${food.length} food and drinks with hunger, thirst and sanity values.`} href="/food/" badge="Food" />
+    <GuideLink title="Armor & Gear" desc={`All ${armor.length} armor pieces with values and set bonuses.`} href="/armor/" badge="Armor" />
+    <GuideLink title="Enemies Database" desc={`All ${enemies.length} enemies with health, weaknesses and drops.`} href="/enemies/" badge="Enemies" />
+    <GuideLink title="Guides & Walkthroughs" desc="Step-by-step guides and survival tips." href="/guides/" badge="Guides" />
+    <GuideLink title="About This Site" desc="Who we are and how data is sourced." href="/about/" badge="Info" />
+  </div>
+</Base>

@@ -1,0 +1,59 @@
+---
+import Base from "../../layouts/Base.astro";
+import food from "../../data/food.json";
+
+export function getStaticPaths() {
+  return food.map((f) => ({
+    params: { slug: f.slug },
+    props: { item: f },
+  }));
+}
+
+const { item } = Astro.props;
+const title = `${item.name} – Abiotic Factor Food`;
+const desc =
+  item.description || item.summary ||
+  `${item.name} is a food item in Abiotic Factor. See hunger, thirst and sanity restore values, weight and how to cook it.`;
+---
+
+<Base title={title} description={`Abiotic Factor ${item.name}: hunger, thirst and sanity effects, weight, cooking stage and how to obtain it. ${desc.slice(0, 100)}`}>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <a href="/food/">Food & Cooking</a> › <span>{item.name}</span>
+  </nav>
+  <h1>{item.name}</h1>
+  {item.description && <p>{item.description}</p>}
+
+  <div class="card" style="margin:1rem 0">
+    <table>
+      {item.hunger && <tr><th>Hunger Restored</th><td><strong>{item.hunger}</strong></td></tr>}
+      {item.thirst && <tr><th>Thirst Restored</th><td><strong>{item.thirst}</strong></td></tr>}
+      {item.sanity && <tr><th>Sanity Restored</th><td><strong>{item.sanity}</strong></td></tr>}
+      {item.cookingStage && <tr><th>Cooking Stage</th><td>{item.cookingStage}</td></tr>}
+      {item.weight && <tr><th>Weight</th><td>{item.weight}</td></tr>}
+      {item.stack && <tr><th>Max Stack</th><td>{item.stack}</td></tr>}
+      {item.tier && <tr><th>Tier</th><td>{item.tier}</td></tr>}
+    </table>
+  </div>
+
+  {item.summary && (
+    <>
+      <h2>About {item.name}</h2>
+      <p>{item.summary}</p>
+    </>
+  )}
+
+  <p class="muted">
+    Managing hunger and thirst is the core survival loop in Abiotic Factor — cooked meals from a
+    Chef's Counter give the best value per ingredient. For weapons to hunt with, see the
+    <a href="/weapons/">weapons database</a>; for protection, the <a href="/armor/">armor database</a>.
+  </p>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description: desc,
+    about: { "@type": "Thing", name: item.name },
+    isPartOf: { "@type": "WebSite", name: "FactorDB" },
+  })} />
+</Base>

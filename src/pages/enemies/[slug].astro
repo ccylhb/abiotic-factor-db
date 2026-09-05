@@ -1,0 +1,79 @@
+---
+import Base from "../../layouts/Base.astro";
+import enemies from "../../data/enemies.json";
+
+export function getStaticPaths() {
+  return enemies.map((e) => ({
+    params: { slug: e.slug },
+    props: { enemy: e },
+  }));
+}
+
+const { enemy } = Astro.props;
+const sameType = enemies
+  .filter((e) => e.type && enemy.type && e.type === enemy.type && e.slug !== enemy.slug)
+  .slice(0, 8);
+const typeSlug = (enemy.type || "other").toLowerCase().replace(/[^a-z0-9]+/g, "-");
+const title = `${enemy.name} – Abiotic Factor Enemy`;
+const desc =
+  enemy.summary ||
+  `${enemy.name} is ${/^[aeiou]/i.test(enemy.type || "") ? "an" : "a"} ${enemy.type || "enemy"} in Abiotic Factor. See health, weaknesses, resistances and drops.`;
+---
+
+<Base title={title} description={`Abiotic Factor ${enemy.name}: head and torso health, melee and special attacks, weaknesses, resistances, drops and where to find it. ${desc.slice(0, 100)}`}>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <a href="/enemies/">Enemies</a> ›
+    <a href={`/enemies/type/${typeSlug}/`}>{enemy.type || "Other"}</a> ›
+    <span>{enemy.name}</span>
+  </nav>
+  <h1>{enemy.name}</h1>
+  {enemy.codename && <p class="muted">Codename: {enemy.codename}{enemy.origin ? ` · Origin: ${enemy.origin}` : ""}</p>}
+
+  <div class="card" style="margin:1rem 0">
+    <table>
+      {enemy.type && <tr><th>Type</th><td>{enemy.type}</td></tr>}
+      {enemy.healthHead && <tr><th>Head Health</th><td><strong>{enemy.healthHead}</strong></td></tr>}
+      {enemy.healthTorso && <tr><th>Torso Health</th><td><strong>{enemy.healthTorso}</strong></td></tr>}
+      {enemy.meleeDamage && <tr><th>Melee Damage</th><td>{enemy.meleeDamage}</td></tr>}
+      {enemy.specialName && <tr><th>Special Attack</th><td>{enemy.specialName}{enemy.specialDamage ? ` — ${enemy.specialDamage} dmg` : ""}{enemy.specialType ? ` (${enemy.specialType})` : ""}</td></tr>}
+      {enemy.weakness && <tr><th>Weakness</th><td><strong>{enemy.weakness}</strong></td></tr>}
+      {enemy.resistance && <tr><th>Resistances</th><td>{enemy.resistance}</td></tr>}
+      {enemy.drops && <tr><th>Drops</th><td>{enemy.drops}</td></tr>}
+      {enemy.harvest && <tr><th>Harvestable</th><td>{enemy.harvest}</td></tr>}
+    </table>
+  </div>
+
+  {enemy.summary && (
+    <>
+      <h2>About {enemy.name}</h2>
+      <p>{enemy.summary}</p>
+    </>
+  )}
+
+  <p class="muted">
+    Fighting {enemy.name}: exploit its {enemy.weakness || "weak points"} and avoid
+    {enemy.resistance ? ` ${enemy.resistance}` : " damage types it resists"} — pick the right tool
+    from our <a href="/weapons/">weapons database</a> and wear gear with the best
+    <a href="/armor/">armor values</a> before the engagement.
+  </p>
+
+  {sameType.length > 0 && (
+    <>
+      <h2>More {enemy.type}</h2>
+      <ul class="cols2">
+        {sameType.map((e) => (
+          <li><a href={`/enemies/${e.slug}/`}>{e.name}</a>{e.healthTorso ? <span class="muted"> ({e.healthTorso} HP)</span> : ""}</li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title,
+    description: desc,
+    about: { "@type": "Thing", name: enemy.name },
+    isPartOf: { "@type": "WebSite", name: "FactorDB" },
+  })} />
+</Base>

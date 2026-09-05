@@ -1,0 +1,38 @@
+---
+import Base from "../../../layouts/Base.astro";
+import armor from "../../../data/armor.json";
+
+export function getStaticPaths() {
+  const slots = [...new Set(armor.map((a) => a.gearSlot).filter(Boolean))];
+  const slugify = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+  return slots.map((s) => ({
+    params: { slot: slugify(s) },
+    props: {
+      slot: s,
+      items: armor.filter((a) => a.gearSlot === s),
+    },
+  }));
+}
+
+const { slot, items } = Astro.props;
+const title = `${slot} gear in Abiotic Factor`;
+---
+
+<Base title={`${title} – FactorDB`} description={`All ${items.length} ${slot.toLowerCase()} items in Abiotic Factor with armor values, resistances and set bonuses.`}>
+  <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
+    <a href="/">Home</a> › <a href="/armor/">Armor & Gear</a> › <span>{slot}</span>
+  </nav>
+  <h1>{title}</h1>
+  <p>{items.length} items for the <strong>{slot}</strong> slot:</p>
+  <ul class="cols2">
+    {items
+      .sort((a, b) => (Number(b.gearArmor) || 0) - (Number(a.gearArmor) || 0))
+      .map((a) => (
+        <li>
+          <a href={`/armor/${a.slug}/`}>{a.name}</a>
+          {a.gearArmor ? <span class="muted"> ({a.gearArmor} armor)</span> : ""}
+        </li>
+      ))}
+  </ul>
+  <p><a href="/armor/">← Back to all armor & gear</a></p>
+</Base>
