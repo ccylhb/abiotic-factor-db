@@ -1,0 +1,96 @@
+---
+import Base from "../layouts/Base.astro";
+import food from "../data/food.json";
+
+const num = (v: unknown): number => {
+  const n = parseFloat(String(v ?? "").replace("%", "").trim());
+  return Number.isFinite(n) ? n : 0;
+};
+
+const items = food
+  .filter((f) => num(f.hunger) > 0 || num(f.thirst) > 0)
+  .map((f) => ({
+    name: f.name,
+    slug: f.slug,
+    hunger: Math.round(num(f.hunger) * 10) / 10,
+    thirst: Math.round(num(f.thirst) * 10) / 10,
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<Base
+  title="Abiotic Factor Food Planner — Total Hunger & Thirst"
+  description="Pick the meals and drinks you're cooking and see combined hunger and thirst restore. Free Abiotic Factor tool."
+>
+  <h1>Food Planner</h1>
+  <p class="muted">
+    Tick the meals and drinks you plan to carry. Totals update instantly — plan a deep-sector expedition without overpacking.
+  </p>
+
+  <div class="planner">
+    <div class="pick">
+      <input id="q" type="text" placeholder="Filter food..." />
+      <div id="list" class="list">
+        {items.map((it) => (
+          <label class="row">
+            <input type="checkbox" data-name={it.name} data-hunger={it.hunger} data-thirst={it.thirst} />
+            <span class="n">{it.name}</span>
+            <span class="v">
+              {[it.hunger ? `+${it.hunger} hunger` : "", it.thirst ? `+${it.thirst} thirst` : ""].filter(Boolean).join(", ") || "—"}
+            </span>
+          </label>
+        ))}
+      </div>
+    </div>
+
+    <aside class="totals">
+      <h2>Totals</h2>
+      <div class="t"><span>Hunger restored</span><strong id="t-hunger">0</strong></div>
+      <div class="t"><span>Thirst restored</span><strong id="t-thirst">0</strong></div>
+      <p class="muted small">Values are per item consumed. Un-tick to remove.</p>
+      <button id="clear" type="button">Clear all</button>
+    </aside>
+  </div>
+
+  <script>
+    const boxes = Array.from(document.querySelectorAll('#list input[type="checkbox"]'));
+    const q = document.getElementById("q") as HTMLInputElement;
+    function update() {
+      let hunger = 0, thirst = 0;
+      boxes.forEach((b) => {
+        if (!(b as HTMLInputElement).checked) return;
+        hunger += parseFloat(b.getAttribute("data-hunger") || "0");
+        thirst += parseFloat(b.getAttribute("data-thirst") || "0");
+      });
+      document.getElementById("t-hunger")!.textContent = String(Math.round(hunger * 10) / 10);
+      document.getElementById("t-thirst")!.textContent = String(Math.round(thirst * 10) / 10);
+    }
+    boxes.forEach((b) => b.addEventListener("change", update));
+    q?.addEventListener("input", () => {
+      const s = q.value.toLowerCase();
+      document.querySelectorAll("#list .row").forEach((r) => {
+        const n = (r.querySelector(".n") as HTMLElement).textContent!.toLowerCase();
+        (r as HTMLElement).style.display = n.includes(s) ? "" : "none";
+      });
+    });
+    document.getElementById("clear")?.addEventListener("click", () => {
+      boxes.forEach((b) => ((b as HTMLInputElement).checked = false));
+      update();
+    });
+  </script>
+
+  <style>
+    .planner { display: grid; grid-template-columns: 1.6fr 1fr; gap: 1rem; align-items: start; }
+    .list { max-height: 520px; overflow-y: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+    .row { display: flex; gap: 0.6rem; align-items: baseline; padding: 0.4rem 0.7rem; border-bottom: 1px solid var(--border); cursor: pointer; }
+    .row:last-child { border-bottom: none; }
+    .row:hover { background: var(--bg-soft); }
+    .row .n { min-width: 11rem; font-weight: 600; }
+    .row .v { color: var(--muted); font-size: 0.83rem; }
+    .totals { position: sticky; top: 4.5rem; }
+    .t { display: flex; justify-content: space-between; border-left: 3px solid var(--accent-2); padding-left: 0.75rem; margin: 0.6rem 0; }
+    .t strong { font-size: 1.15rem; }
+    .small { font-size: 0.82rem; }
+    @media (max-width: 800px) { .planner { grid-template-columns: 1fr; } }
+  </style>
+</Base>

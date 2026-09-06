@@ -1,0 +1,108 @@
+---
+import Base from "../layouts/Base.astro";
+import weapons from "../data/weapons.json";
+import food from "../data/food.json";
+import enemies from "../data/enemies.json";
+
+const num = (v: unknown): number => {
+  const n = parseFloat(String(v ?? "").replace("%", "").trim());
+  return Number.isFinite(n) ? n : 0;
+};
+
+const topWeapons = [...weapons]
+  .filter((w) => num(w.weaponDamage) > 0)
+  .sort((a, b) => num(b.weaponDamage) - num(a.weaponDamage))
+  .slice(0, 15);
+
+const topFood = [...food]
+  .filter((f) => num(f.hunger) > 0)
+  .sort((a, b) => num(b.hunger) - num(a.hunger))
+  .slice(0, 15);
+
+const topDrink = [...food]
+  .filter((f) => num(f.thirst) > 0)
+  .sort((a, b) => num(b.thirst) - num(a.thirst))
+  .slice(0, 10);
+
+const topEnemies = [...enemies]
+  .filter((e) => num(e.healthTorso) > 0)
+  .sort((a, b) => num(b.healthTorso) - num(a.healthTorso))
+  .slice(0, 12);
+---
+
+<Base
+  title="Abiotic Factor Rankings — Best Weapons, Food & Toughest Enemies"
+  description="Answer-first rankings for Abiotic Factor: highest damage weapons, most filling food, best drinks and toughest enemies by torso HP."
+>
+  <h1>Rankings</h1>
+  <p class="muted">The short answers, no digging.</p>
+
+  <h2 id="weapons">Best weapons by damage</h2>
+  <p class="muted">Raw damage per hit or throw. Throwables rank high because a single use dumps the full number.</p>
+  <table>
+    <thead><tr><th>#</th><th>Weapon</th><th>Type</th><th>Damage</th></tr></thead>
+    <tbody>
+      {topWeapons.map((w, i) => (
+        <tr>
+          <td>{i + 1}</td>
+          <td><a href={`/weapons/${w.slug}/`}>{w.name}</a></td>
+          <td>{w.weaponType || "—"}</td>
+          <td><strong>{num(w.weaponDamage)}</strong></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <p><a href="/weapons/">See all {weapons.length} weapons →</a></p>
+
+  <h2 id="food">Most filling food</h2>
+  <table>
+    <thead><tr><th>#</th><th>Food</th><th>Hunger</th><th>Thirst</th></tr></thead>
+    <tbody>
+      {topFood.map((f, i) => (
+        <tr>
+          <td>{i + 1}</td>
+          <td><a href={`/food/${f.slug}/`}>{f.name}</a></td>
+          <td><strong>{Math.round(num(f.hunger) * 10) / 10}</strong></td>
+          <td>{f.thirst ? Math.round(num(f.thirst) * 10) / 10 : "—"}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <p><a href="/food/">See all {food.length} foods →</a></p>
+
+  <h2 id="drinks">Best drinks & thirst restores</h2>
+  <table>
+    <thead><tr><th>#</th><th>Item</th><th>Thirst</th><th>Hunger</th></tr></thead>
+    <tbody>
+      {topDrink.map((f, i) => (
+        <tr>
+          <td>{i + 1}</td>
+          <td><a href={`/food/${f.slug}/`}>{f.name}</a></td>
+          <td><strong>{Math.round(num(f.thirst) * 10) / 10}</strong></td>
+          <td>{f.hunger ? Math.round(num(f.hunger) * 10) / 10 : "—"}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2 id="enemies">Toughest enemies</h2>
+  <p class="muted">Torso hitpoints — aim for the head to cut these numbers down fast.</p>
+  <table>
+    <thead><tr><th>#</th><th>Enemy</th><th>Torso HP</th><th>Head HP</th><th>Melee dmg</th></tr></thead>
+    <tbody>
+      {topEnemies.map((e, i) => (
+        <tr>
+          <td>{i + 1}</td>
+          <td><a href={`/enemies/${e.slug}/`}>{e.name}</a></td>
+          <td><strong>{num(e.healthTorso)}</strong></td>
+          <td>{e.healthHead ? num(e.healthHead) : "—"}</td>
+          <td>{e.meleeDamage ? num(e.meleeDamage) : "—"}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <p><a href="/enemies/">See all {enemies.length} enemies →</a></p>
+
+  <h2>Plan your meals</h2>
+  <p>Use the <a href="/food-planner/">food planner</a> to total hunger and thirst across everything you're cooking.</p>
+</Base>

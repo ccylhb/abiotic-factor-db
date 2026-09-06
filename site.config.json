@@ -24,6 +24,14 @@
       "href": "/"
     },
     {
+      "label": "Rankings",
+      "href": "/rankings/"
+    },
+    {
+      "label": "Food Planner",
+      "href": "/food-planner/"
+    },
+    {
       "label": "Weapons",
       "href": "/weapons/"
     },
