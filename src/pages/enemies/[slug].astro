@@ -2,6 +2,7 @@
 import Base from "../../layouts/Base.astro";
 import enemies from "../../data/enemies.json";
 
+import Related from "../../components/Related.astro";
 export function getStaticPaths() {
   return enemies.map((e) => ({
     params: { slug: e.slug },
@@ -76,4 +77,14 @@ const desc =
     about: { "@type": "Thing", name: enemy.name },
     isPartOf: { "@type": "WebSite", name: "FactorDB" },
   })} />
+
+
+  <Related
+    heading="Next steps"
+    links={[
+
+    { href: "/rankings/", title: "Rankings", sub: "Best weapons, armor and enemy health ranked", tool: true },
+    { href: "/food-planner/", title: "Food Planner", sub: "Solve hunger + thirst with your inventory", tool: true },
+  ]}
+  />
 </Base>
