@@ -176,7 +176,7 @@
   "resistance": "",
   "drops": "Black Gunk, Corrupted Lamogi Data",
   "harvest": "",
-  "summary": "===Behavior=== are slow and tanky boss enemies. die from five jumps on their head.",
+  "summary": "=== Behavior === is a slow and tanky boss enemy. will repeatedly charge and run into the direction of the player, attempting to push and damage them.",
   "icon": "/icons/Bigogi.png"
  },
  {
@@ -356,7 +356,7 @@
   "resistance": "Door Bash",
   "drops": "Jailbroken CPU, Vit, Fizz Bang, Rootbear, Pop Snarkle, Kizz Cola",
   "harvest": "Metal Scrap, Glass Scrap, Tech Scrap, Coil, Robot Oil",
-  "summary": "is a hostile robot found in Cascade Laboratories, it is a stronger variant of the Security Robot.",
+  "summary": "is a hostile robot found in Cascade Laboratories, it is a stronger variant of the Security Bot.",
   "icon": ""
  },
  {
@@ -756,7 +756,7 @@
   "resistance": "Bullet,Electricity",
   "drops": "Powdered Crystal",
   "harvest": "",
-  "summary": "s, also known as Crystallisks, are hostile creatures found in the mines of Manufacturing West, in Cascade Laboratories and Hydroplant.",
+  "summary": "s, also known by a fan name Crystallisks, are hostile creatures found in the mines of Manufacturing West, in Cascade Laboratories and Hydroplant.",
   "icon": ""
  },
  {
@@ -1116,7 +1116,7 @@
   "resistance": "",
   "drops": "Core Fragment, Raw Larva Meat, Hive Larva Figurine",
   "harvest": "",
-  "summary": "{|class=wikitable |A299-E |- |Nyth the Gluttonous |- |Previously unknown to GATE, A299-E is an uncontained, gelatinous gastopodal creature believed to originate from Anteverse 299. Recent perforation events have resulted in the entity (and what is presumed to be a section of its hive) manifesting in the defunct mine regions of the GATE Cascade Research Facility. The immense organism appears disorientated. No communication has been attempted, nor close study, but reports note its obsessive pursuit of nourishment, and a curious protruberance from its frontal skull. |}",
+  "summary": "{|class=wikitable |A299-E |- |Nyth the Gluttonous |- |Previously unknown to GATE, A299-E is an uncontained, gelatinous gastopodal creature believed to originate from Anteverse 299. Recent perforation events have resulted in the entity (and what is presumed to be a section of its hive) manifesting in the defunct mine regions of the GATE Cascade Research Facility. The immense organism appears disorientated. No communication has been attempted, nor close study, but reports note its obsessive pursuit of nourishment, and a curious protuberance from its frontal skull. |}",
   "icon": "/icons/Nyth.png"
  },
  {
