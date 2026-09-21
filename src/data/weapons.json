@@ -23,7 +23,7 @@
   "setBonusHalf": "",
   "setBonusFull": "",
   "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "icon": "/icons/308_Ammo.png"
  },
  {
   "name": ".357 Magnum Ammo",

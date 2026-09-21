@@ -256,8 +256,8 @@
   "resistance": "Blunt",
   "drops": "Captain's Beret, Military Electronics, .357 Magnum Ammo, Cracked Shoulder Light, Radio Pack, Talagi Magnum, Money, Ornate Key, Military M.R.E., Frag Grenade",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "The Order's finest field officers, s are hostile enemies found in Manufacturing West and Cascade Laboratories. Adorned with their signature Red Berets and armed with a Magnum Revolver, they're often seen alongside Grunts and other Order soldiers in areas of critical importance like blockades or command centers.",
-  "icon": ""
+  "summary": "The Order's finest field officers, s are hostile enemies first found in Manufacturing West. Adorned with their signature Red Berets and armed with a Magnum Revolver, they're often seen alongside Grunts and other Order soldiers in areas of critical importance like blockades or command centers.",
+  "icon": "/icons/Captain.png"
  },
  {
   "name": "Carbuncle",
@@ -657,7 +657,7 @@
   "drops": "Order Helmet, 9mm Ammo, Military Electronics, Military Pack, Montese SMG, Money, Cracked Shoulder Light, Military M.R.E., Light Gun Repair Kit, Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
   "summary": "The standard rank and file of the Order, s are hostile enemies found throughout Manufacturing West and Cascade Laboratories. Armed with the Montese SMG, they're formidable opponents and especially dangerous in groups. They're usually found in squads with other Order soldiers, but can occasionally be seen guarding areas alone or accompanying a Lab Rat in a patrol.",
-  "icon": ""
+  "icon": "/icons/Grunt.png"
  },
  {
   "name": "Guard",
@@ -897,7 +897,7 @@
   "drops": "Leyak Essence",
   "harvest": "",
   "summary": "is a hostile entity that appears after entering XR Containment in Cascade Laboratories.",
-  "icon": ""
+  "icon": "/icons/Leyak.png"
  },
  {
   "name": "Lodeite",

@@ -2492,7 +2492,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Due to its difficulty in acquiring, it is advised to plant the first \"Carrot\" gained into a Garden Plot, which can be freely harvested after growing to maturity.",
+  "summary": "Due to difficulty in acquiring and long respawn time, it is advised to plant the first \"Carrot\" gained into a Garden Plot, which can be continuously harvested after growing to maturity.",
   "icon": ""
  },
  {
@@ -5430,7 +5430,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable drink in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
+  "summary": "is a food item in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
   "icon": ""
  },
  {
@@ -6002,7 +6002,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Xanterium Rice can be taken.",
+  "summary": "is a food item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Xanterium Rice can be taken.",
   "icon": ""
  },
  {
@@ -8049,7 +8049,7 @@
   "hunger": "16.5",
   "thirst": "38.5",
   "sanity": "",
-  "cookingStage": "Cooked}}",
+  "cookingStage": "Cooked",
   "gearSlot": "",
   "gearArmor": "",
   "gearHeatResist": "",
@@ -8862,7 +8862,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable food in Abiotic Factor. Upon consumption, the player will be given the Frosted effect, causing the player to freeze in place for a short period of time.",
+  "summary": "Upon consumption, the player will be given the Frosted debuff, causing the player to freeze in place for a short period of time.",
   "icon": "/icons/Slushie.png"
  },
  {
