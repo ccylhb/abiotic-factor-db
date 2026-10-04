@@ -22,8 +22,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "A&L Mega-Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Advanced Oven",
@@ -48,8 +47,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a deployable object in Abiotic Factor. The can be used to bake various pies & other goods.",
-  "icon": ""
+  "summary": "Advanced Oven is a deployable object in Abiotic Factor. The Advanced Oven can be used to bake various pies & other goods."
  },
  {
   "name": "Alien Cheese Curds",
@@ -74,8 +72,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a deployable object in Abiotic Factor. After placing, a Ripening Alien Cheese Wheel can be taken out of it.",
-  "icon": ""
+  "summary": "Alien Cheese Curds is a deployable object in Abiotic Factor. After placing, a Ripening Alien Cheese Wheel can be taken out of it."
  },
  {
   "name": "Alien Cheese Wheel",
@@ -100,8 +97,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Alien Cheese Wheel is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Alpen Coffee",
@@ -126,8 +122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Alpine Stuffed Mints",
@@ -152,8 +147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Anniversary Cake",
@@ -178,8 +172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Anniversary Cake is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Anteburger",
@@ -204,8 +197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Antecheese Sandwich",
@@ -230,8 +222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Antecheese Toastie",
@@ -256,8 +247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 25 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 33 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 37 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 41 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 45 | 0 |}",
-  "icon": ""
+  "summary": "Antecheese Toastie is a food item in Abiotic Factor."
  },
  {
   "name": "Antejuice Sac",
@@ -282,8 +272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Antemaki",
@@ -308,8 +297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Antepasta",
@@ -334,8 +322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Anteverse Cheese",
@@ -360,8 +347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Anteverse Gumbo",
@@ -386,8 +372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Anteverse Gumbo is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Anteverse Wheat",
@@ -412,8 +397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* The Blacksmith will sell 1 Hydrochloric Acid for 1 . * can be traded for Anteverse Gems with a Quantum Exchanger found in Adjustment at level 3 of Cascade Laboratories.",
-  "icon": ""
+  "summary": "* The Blacksmith will sell 1 Hydrochloric Acid for 1 Anteverse Wheat. * Anteverse Wheat can be traded for Anteverse Gems with a Quantum Exchanger found in Adjustment at level 3 of Cascade Laboratories."
  },
  {
   "name": "Apple",
@@ -438,8 +422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== The Encroachment === * In The Encroachment, on the right pedestal which has a power socket.",
-  "icon": ""
+  "summary": "=== The Encroachment === * In The Encroachment, on the right pedestal which has a power socket."
  },
  {
   "name": "Atypical Butter",
@@ -464,8 +447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Bad Soup",
@@ -490,8 +472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Bad Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Baked Apple Pie",
@@ -516,8 +497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Baked Pumpkin Pie",
@@ -542,8 +522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Baked Pumpkin Pie is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Baked Salted Honey Pie",
@@ -568,8 +547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Baked Salted Honey Pie is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Baked Shadowberry Pie",
@@ -594,8 +572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Baked Shadowberry Pie is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Baked Simple Pest Pie",
@@ -620,8 +597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Balanced Stew",
@@ -646,8 +622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Balanced Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Bland Pea Soup",
@@ -672,8 +647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Bland Pea Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Bowl of Pumpkin Ravioli",
@@ -698,8 +672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Bowl of Risotto 98",
@@ -724,8 +697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Bowl of Xanterium Rice",
@@ -750,8 +722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Bread",
@@ -776,8 +747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 12 | 5 |- | 5 - 9 | 16 | 6 |- | 10 - 14 | 18 | 7 |- | 15 - 19 | 20 | 8 |- | 20 | 21 | 8 |}",
-  "icon": ""
+  "summary": "A toasty bread made from wheat. Or something like wheat, anyway."
  },
  {
   "name": "Burned Alien Drumstick",
@@ -802,8 +772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burned Alien Drumstick is a consumable item in Abiotic Factor."
  },
  {
   "name": "Burned Anniversary Cake",
@@ -828,8 +797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Antecheese Toastie",
@@ -854,8 +822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Apple Pie",
@@ -880,8 +847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Baked Potato",
@@ -906,8 +872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Bread",
@@ -932,8 +897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Carbuncle",
@@ -958,8 +922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Burned_Carbuncle.png"
+  "summary": ""
  },
  {
   "name": "Burned Carbuncle Casserole",
@@ -984,8 +947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Carrot Cake",
@@ -1010,8 +972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Carrot Fries",
@@ -1036,8 +997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Creepy Meat Pie",
@@ -1062,8 +1022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Exor Heart",
@@ -1088,8 +1047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Fries",
@@ -1114,8 +1072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Glimmering Meat Steak",
@@ -1140,8 +1097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burned Glimmering Meat Steak is a consumable item in Abiotic Factor."
  },
  {
   "name": "Burned Glowing Gâteau",
@@ -1166,8 +1122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Gooey Meat Steak",
@@ -1192,8 +1147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Burned_Gooey_Meat_Steak.png"
+  "summary": ""
  },
  {
   "name": "Burned Gumdrop Cookie Tray",
@@ -1218,8 +1172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Gutfish Eel Filet",
@@ -1244,8 +1197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Peccary Chop",
@@ -1270,8 +1222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pekkie Brekkie Hash",
@@ -1296,8 +1247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pest",
@@ -1322,8 +1272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pest Pot Pie",
@@ -1348,8 +1297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pest Rump",
@@ -1374,8 +1322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pestato",
@@ -1400,8 +1347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pumpkin Bread",
@@ -1426,8 +1372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pumpkin Cookie Tray",
@@ -1452,8 +1397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Pumpkin Pie",
@@ -1478,8 +1422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Royal Pepper",
@@ -1504,8 +1447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burned Royal Pepper is a consumable food item in Abiotic Factor."
  },
  {
   "name": "Burned Salted Honey Pie",
@@ -1530,8 +1472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Shadowberry Pie",
@@ -1556,8 +1497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Shrimps Pack",
@@ -1582,8 +1522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Simple Pest Pie",
@@ -1608,8 +1547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Skink Meat",
@@ -1634,8 +1572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burned Stuffed Mushroom Tray",
@@ -1660,8 +1597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burned Stuffed Mushroom Tray is a food item in Abiotic Factor."
  },
  {
   "name": "Burnt Antefish Filet",
@@ -1686,8 +1622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Buttery Popcorn",
@@ -1712,8 +1647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Carbuncle Pizza",
@@ -1738,8 +1672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Chordfish Filet",
@@ -1764,8 +1697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burnt Chordfish Filet is a consumable Item in Abiotic Factor."
  },
  {
   "name": "Burnt Creamy Inkfish",
@@ -1790,8 +1722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Crumbed Darkwater Fish",
@@ -1816,8 +1747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> Burnt_crumbed_darkwater_fish_hold.png|Holding a Burnt Crumbed Darkwater Fish </gallery>",
-  "icon": ""
+  "summary": "<gallery> Burnt_crumbed_darkwater_fish_hold.png|Holding a Burnt Crumbed Darkwater Fish </gallery>"
  },
  {
   "name": "Burnt Darkwater Fish Filet",
@@ -1842,8 +1772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burnt Darkwater Fish Filet is a consumable Item in Abiotic Factor."
  },
  {
   "name": "Burnt Egg",
@@ -1868,8 +1797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Egg & Peccary Tartine",
@@ -1894,8 +1822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt \"Egg\" & Pecccary Tartine is a food item in Abiotic Factor.",
-  "icon": ""
+  "summary": "Burnt \"Egg\" & Pecccary Tartine is a food item in Abiotic Factor."
  },
  {
   "name": "Burnt Fr-eyed Rice",
@@ -1920,8 +1847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Frigid Queenfish Filet",
@@ -1946,8 +1872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable Item in Abiotic Factor. Unlike most burned food, this one does not give negative thirst.",
-  "icon": ""
+  "summary": "Burnt Frigid Queenfish Filet is a consumable Item in Abiotic Factor. Unlike most burned food, this one does not give negative thirst."
  },
  {
   "name": "Burnt IS-0098 Tentacles",
@@ -1972,8 +1897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burnt IS-0098 Tentacles is a consumable Item in Abiotic Factor."
  },
  {
   "name": "Burnt Inkfish Filet",
@@ -1998,8 +1922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Moon Fish Filet",
@@ -2024,8 +1947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burnt Moon Fish Filet is a consumable Item in Abiotic Factor."
  },
  {
   "name": "Burnt Nori Sheet Tray",
@@ -2050,8 +1972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Peccary Sausages",
@@ -2076,8 +1997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Penumbra Filet",
@@ -2102,8 +2022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Portal Fish Filet",
@@ -2128,8 +2047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burnt Portal Fish Filet is a consumable Item in Abiotic Factor."
  },
  {
   "name": "Burnt Pumpkin Slices",
@@ -2154,8 +2072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Radfish Filet",
@@ -2180,8 +2097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Silken Betta Filet",
@@ -2206,8 +2122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Burnt Silky Fish Florentine",
@@ -2232,8 +2147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Burnt Silky Fish Florentine is a food item in Abiotic Factor."
  },
  {
   "name": "Burnt Stuffed Peppers Tray",
@@ -2258,8 +2172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Buttery Popcorn Kernels",
@@ -2284,8 +2197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Candy Cane",
@@ -2310,8 +2222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Canned Peas",
@@ -2336,8 +2247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* Level 1 ** On the top shelf inside Warren's security checkpoint (accessible with a Keypad Hacker) * Level 2 ** Kitchen ** Bio Lab D * Level 3 ** Break Room",
-  "icon": ""
+  "summary": "* Level 1 ** On the top shelf inside Warren's security checkpoint (accessible with a Keypad Hacker) * Level 2 ** Kitchen ** Bio Lab D * Level 3 ** Break Room"
  },
  {
   "name": "Canteen",
@@ -2362,8 +2272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The is a liquid container in Abiotic Factor. It has identical properties to the Water Bottle in terms of capacity and usage.",
-  "icon": ""
+  "summary": "The Canteen is a liquid container in Abiotic Factor. It has identical properties to the Water Bottle in terms of capacity and usage."
  },
  {
   "name": "Carbuncle Casserole",
@@ -2388,8 +2297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Carbuncle Casserole is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Carbuncle Mushroom",
@@ -2414,8 +2322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carbuncle N' Dumplings",
@@ -2440,8 +2347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Carbuncle N' Dumplings is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Carbuncle N' Dumplings is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Carbuncle Pizza",
@@ -2466,8 +2372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carrot",
@@ -2492,8 +2397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Due to difficulty in acquiring and long respawn time, it is advised to plant the first \"Carrot\" gained into a Garden Plot, which can be continuously harvested after growing to maturity.",
-  "icon": ""
+  "summary": "Due to difficulty in acquiring and long respawn time, it is advised to plant the first \"Carrot\" gained into a Garden Plot, which can be continuously harvested after growing to maturity."
  },
  {
   "name": "Carrot & Pumpkin Soup",
@@ -2518,8 +2422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "\"Carrot\" & Pumpkin Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "\"Carrot\" & Pumpkin Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Carrot Cake",
@@ -2544,8 +2447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cauldron",
@@ -2570,8 +2472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a deployable object in Abiotic Factor. It can be used to hold Ink and can be filled by approaching a liquid source and pressing the interact button. It can be emptied into other liquid containers by pressing the secondary interact button.",
-  "icon": ""
+  "summary": "Cauldron is a deployable object in Abiotic Factor. It can be used to hold Ink and can be filled by approaching a liquid source and pressing the interact button. It can be emptied into other liquid containers by pressing the secondary interact button."
  },
  {
   "name": "Chinese Takeaway",
@@ -2596,8 +2497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cold Apple Cider",
@@ -2622,8 +2522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cold Pumpkin Splice Latte",
@@ -2648,8 +2547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Cold Pumpkin Splice Latte is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cold Vanilla Latte",
@@ -2674,8 +2572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Colorful Maki Plate",
@@ -2700,8 +2597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Colorful Maki Plate is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Convection Oven",
@@ -2726,8 +2622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a deployable object in Abiotic Factor. The can be used to bake various pies & other goods.",
-  "icon": ""
+  "summary": "Convection Oven is a deployable object in Abiotic Factor. The Convection Oven can be used to bake various pies & other goods."
  },
  {
   "name": "Cooked Alien Drumstick",
@@ -2752,8 +2647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 20 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 26 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 29 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 32 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 35 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Alien Drumstick is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Antefish Filet",
@@ -2778,8 +2672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 10 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 13 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 14 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 16 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 17 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Antefish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Baked Potato",
@@ -2804,8 +2697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable sortable\" |- !Food Values !Hunger Fill !Thirst Fill |- | |10 |3 |- |Carefully |13 |4 |- |Well |14 |5 |- |Beautifully |16 |6 |- |Expertly |17 |6 |}",
-  "icon": ""
+  "summary": "Cooked Baked Potato is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Buttery Popcorn",
@@ -2830,8 +2722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 27 | -8 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 35 | -11 |- | 10 - 14 | style=\"text-align: left;\" | Well | 39 | -12 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 43 | -13 |- | 20 | style=\"text-align: left;\" | Expertly | 47 | -14 |}",
-  "icon": ""
+  "summary": "Cooked Buttery Popcorn is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Carbuncle",
@@ -2856,8 +2747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 10 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 13 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 14 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 16 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 17 | 0 |}",
-  "icon": "/icons/Cooked_Carbuncle.png"
+  "summary": "Cooked Carbuncle is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Carrot Fries",
@@ -2882,8 +2772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 27 | 3 |- | 5 - 9 | | 4 |- | 10 - 14 | | 5 |- | 15 - 19 | | 6 |- | 20 | 48 | 6 |}",
-  "icon": ""
+  "summary": "Cooked \"Carrot\" Fries is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Chordfish Filet",
@@ -2908,8 +2797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 10 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 13 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 14 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 16 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 17 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Chordfish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Creamy Inkfish",
@@ -2934,8 +2822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 25 | 22 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 32 | 29 |- | 10 - 14 | style=\"text-align: left;\" | Well | 36 | 33 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 40 | 36 |- | 20 | style=\"text-align: left;\" | Expertly | 44 | 40 |}",
-  "icon": ""
+  "summary": "Cooked Creamy Inkfish is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Darkwater Fish Filet",
@@ -2960,8 +2847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 22 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 29 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 32 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 36 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 39 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Darkwater Fish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Egg & Peccary Tartine",
@@ -2986,8 +2872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | Cooked \"Egg\" & Peccary Tartine | 71 | 23 |- | 5 - 9 | style=\"text-align: left;\" | Carefully Cooked \"Egg\" & Peccary Tartine | 92 | 29 |- | 10 - 14 | style=\"text-align: left;\" | Well Cooked \"Egg\" & Peccary Tartine | 103 | 33 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully Cooked \"Egg\" & Peccary Tartine | 114 | 36 |- | 20 | style=\"text-align: left;\" | Expertly Cooked \"Egg\" & Peccary Tartine | 124 | 40 |}",
-  "icon": ""
+  "summary": "Cooked \"Egg\" & Peccary Tartine is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Exor Heart",
@@ -3012,8 +2897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a food item in Abiotic Factor. When consumed, it has a chance to teleport the player to a random nearby position.",
-  "icon": ""
+  "summary": "Cooked Exor Heart is a food item in Abiotic Factor. When consumed, it has a chance to teleport the player to a random nearby position."
  },
  {
   "name": "Cooked Fr-eyed Rice",
@@ -3038,8 +2922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 71 | 29 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 92 | 38 |- | 10 - 14 | style=\"text-align: left;\" | Well | 103 | 43 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 114 | 47 |- | 20 | style=\"text-align: left;\" | Expertly | 124 | 52 |}",
-  "icon": ""
+  "summary": "Cooked Fr-eyed Rice is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Fried Egg",
@@ -3064,8 +2947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable sortable\" |- !Food !Hunger Restored !Thirst Restored |- |Cooked Fried \"Egg\" |21 |6 |- |Carefully Cooked Fried \"Egg\" |24 |7 |- |Well Cooked Fried \"Egg\" |27 |8 |- |Beautifully Cooked Fried \"Egg\" |30 |9 |- |Expertly Cooked Fried \"Egg\" |32 |10 |}",
-  "icon": ""
+  "summary": "Cooked Fried \"Egg\" is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Fries",
@@ -3090,8 +2972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 20 | 3 |- | 5 - 9 | 26 | 4 |- | 10 - 14 | 29 | 5 |- | 15 - 19 | 32 | 6 |- | 20 | 35 | 6 |}",
-  "icon": ""
+  "summary": "Cooked Fries is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Frigid Queenfish Filet",
@@ -3116,8 +2997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 17 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 22 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 25 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 28 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 30 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Frigid Queenfish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Glimmering Meat Steak",
@@ -3142,8 +3022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 36 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 47 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 53 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 58 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 64 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Glimmering Meat Steak is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Gooey Meat Steak",
@@ -3168,8 +3047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 12 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 15 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 17 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 19 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 21 | 0 |}",
-  "icon": "/icons/Cooked_Gooey_Meat_Steak.png"
+  "summary": "Cooked Gooey Meat Steak is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Gutfish Eel Filet",
@@ -3194,8 +3072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 15 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 19 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 21 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 24 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 26 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Gutfish Eel Filet is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked IS-0098 Tentacles",
@@ -3220,8 +3097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 15 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 19 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 21 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 24 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 26 | 0 |}",
-  "icon": ""
+  "summary": "Cooked IS-0098 Tentacles is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Inkfish Filet",
@@ -3246,8 +3122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 17 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 22 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 25 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 28 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 30 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Inkfish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Moon Fish Filet",
@@ -3272,8 +3147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 17 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 22 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 25 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 28 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 30 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Moon Fish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Peccary Chop",
@@ -3298,8 +3172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 15 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 19 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 21 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 24 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 26 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Peccary Chop is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Peccary Sausages",
@@ -3324,8 +3197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 30 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 39 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 43 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 48 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 52 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Peccary Sausages is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Penumbra Filet",
@@ -3350,8 +3222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 25 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 32 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 36 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 40 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 43 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Penumbra Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Pest",
@@ -3376,8 +3247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 10 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 13 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 14 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 16 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 17 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Pest is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Pest Rump",
@@ -3402,8 +3272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 12 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 16 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 18 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 20 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 21 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Pest Rump is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Pestato",
@@ -3428,8 +3297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 20 | 3 |- | 5 - 9 | 26 | 4 |- | 10 - 14 | 30 | 5 |- | 15 - 19 | 33 | 5 |- | 20 | 36 | 6 |}",
-  "icon": ""
+  "summary": "Cooked Pestato is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Porkchop",
@@ -3454,8 +3322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* Inside Shipping, in the ofice just outside Shipping Logistics on the upper level",
-  "icon": ""
+  "summary": "* Inside Shipping, in the ofice just outside Shipping Logistics on the upper level"
  },
  {
   "name": "Cooked Portal Fish Filet",
@@ -3480,8 +3347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 15 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 19 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 21 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 24 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 26 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Portal Fish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Cooked Pumpkin Slices",
@@ -3506,8 +3372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cooked Radfish Filet",
@@ -3532,8 +3397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 17 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 22 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 25 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 28 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 30 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Radfish Filet is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Royal Pepper",
@@ -3558,8 +3422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 17 | 2 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | | |- | 10 - 14 | style=\"text-align: left;\" | Well | | |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | | |- | 20 | style=\"text-align: left;\" | Expertly | 30 | 3 |}",
-  "icon": ""
+  "summary": "Cooked Royal Pepper is a consumable food item in Abiotic Factor."
  },
  {
   "name": "Cooked Silken Betta Filet",
@@ -3584,8 +3447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 16 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 20 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 23 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 25 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 28 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Silken Betta Filet is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Silky Fish Florentine",
@@ -3610,8 +3472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 50 | 21 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 65 | 27 |- | 10 - 14 | style=\"text-align: left;\" | Well | 73 | 30 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 80 | 34 |- | 20 | style=\"text-align: left;\" | Expertly | 88 | 37 |}",
-  "icon": ""
+  "summary": "Cooked Silky Fish Florentine is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Skink Meat",
@@ -3636,8 +3497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Food ! Hunger Fill ! Thirst Fill |- | 0 - 4 | style=\"text-align: left;\" | | 25 | 0 |- | 5 - 9 | style=\"text-align: left;\" | Carefully | 32 | 0 |- | 10 - 14 | style=\"text-align: left;\" | Well | 36 | 0 |- | 15 - 19 | style=\"text-align: left;\" | Beautifully | 40 | 0 |- | 20 | style=\"text-align: left;\" | Expertly | 43 | 0 |}",
-  "icon": ""
+  "summary": "Cooked Skink Meat is a food item in Abiotic Factor."
  },
  {
   "name": "Cooked Stuffed Roast Peccary",
@@ -3662,8 +3522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 63 | 28 |- | 5 - 9 | 81 | 37 |- | 10 - 14 | 91 | 41 |- | 15 - 19 | 100 | 46 |- | 20 | 110 | 50 |}",
-  "icon": ""
+  "summary": "Cooked Stuffed Roast Peccary is a food item in Abiotic Factor."
  },
  {
   "name": "Cooking Pot",
@@ -3688,8 +3547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Its appearance is a traditional two-handled pot. It functions the same as a Cooking Pot (Makeshift) and can be used for making soups and boiling Tainted Water into Water at a ratio of 4:1 (one pot of Tainted Water (1000ml) produces 250ml of Water).",
-  "icon": ""
+  "summary": "Its appearance is a traditional two-handled pot. It functions the same as a Cooking Pot (Makeshift) and can be used for making soups and boiling Tainted Water into Water at a ratio of 4:1 (one pot of Tainted Water (1000ml) produces 250ml of Water)."
  },
  {
   "name": "Cooking Pot (Makeshift)",
@@ -3714,8 +3572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Its appearance resembles an empty paint bucket with two scissors that go to where the handle should be. It functions the same as a Cooking Pot and can be used for making soups and boiling Tainted Water into Water at a ratio of 4:1 (one pot of Tainted Water (1000ml) produces 250ml of Water).",
-  "icon": ""
+  "summary": "Its appearance resembles an empty paint bucket with two scissors that go to where the handle should be. It functions the same as a Cooking Pot and can be used for making soups and boiling Tainted Water into Water at a ratio of 4:1 (one pot of Tainted Water (1000ml) produces 250ml of Water)."
  },
  {
   "name": "Corrupted Corn",
@@ -3740,8 +3597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Oh, oh! And … Don't eat the corn, okay? It’s … not good. They gobble the stuff, and it’s doing something weird to them. Something wrong. Fisherman",
-  "icon": ""
+  "summary": "Oh, oh! And … Don't eat the corn, okay? It’s … not good. They gobble the stuff, and it’s doing something weird to them. Something wrong. Fisherman"
  },
  {
   "name": "Corrupted Lamogi Data",
@@ -3766,8 +3622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Corrupted Pepper",
@@ -3792,8 +3647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cosmato Salad Wrap",
@@ -3818,8 +3672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor. Once the Leyak and variants have been contained within Containment Unit: 91, will be one of the best food sources available due to its high hunger & thirst fill combination and due to the fact that all three ingredients can easily be farmed in large amounts.",
-  "icon": ""
+  "summary": "Cosmato Salad Wrap is an item in Abiotic Factor. Once the Leyak and variants have been contained within Containment Unit: 91, Cosmato Salad Wrap will be one of the best food sources available due to its high hunger & thirst fill combination and due to the fact that all three ingredients can easily be farmed in large amounts."
  },
  {
   "name": "Creamy Corn Soup",
@@ -3844,8 +3697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Creamy Corn Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Creamy Tomato Bisque",
@@ -3870,8 +3722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Creamy Tomato Bisque is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Creepy Meat Pie",
@@ -3896,8 +3747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Crumbed Darkwater Fish",
@@ -3922,8 +3772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Crunchy Crystal",
@@ -3948,8 +3797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Doznuts",
@@ -3974,8 +3822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Egg",
@@ -4000,8 +3847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "\"\" is used in a variety of recipes related to Cooking. It can also be cooked to be safely consumed on its own.",
-  "icon": ""
+  "summary": "\"Egg\" is used in a variety of recipes related to Cooking. It can also be cooked to be safely consumed on its own."
  },
  {
   "name": "Exor Arm",
@@ -4026,8 +3872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Farm Puffs",
@@ -4052,8 +3897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Farm_Puffs.png"
+  "summary": ""
  },
  {
   "name": "Fisherman's Glue (Soup)",
@@ -4078,8 +3922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Fisherman's Glue (Soup) is an item in Abiotic Factor, it can be placed down and 4 portions of Fisherman's Glue can be taken.",
-  "icon": ""
+  "summary": "Fisherman's Glue (Soup) is an item in Abiotic Factor, it can be placed down and 4 portions of Fisherman's Glue can be taken."
  },
  {
   "name": "Fizz Bang",
@@ -4104,8 +3947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Fizz_Bang.png"
+  "summary": ""
  },
  {
   "name": "Fogiri",
@@ -4130,8 +3972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Fogiri Platter",
@@ -4156,8 +3997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Freezer",
@@ -4182,8 +4022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a deployable storage that keeps food from spoiling indefinitely so long it is powered.",
-  "icon": ""
+  "summary": "Freezer is a deployable storage that keeps food from spoiling indefinitely so long it is powered."
  },
  {
   "name": "Frying Pan",
@@ -4208,8 +4047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Its appearance is a typical frying pan. It functions the same as a Frying Pan (Makeshift).",
-  "icon": "/icons/Frying_Pan.png"
+  "summary": "Its appearance is a typical frying pan. It functions the same as a Frying Pan (Makeshift)."
  },
  {
   "name": "Frying Pan (Makeshift)",
@@ -4234,8 +4072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Its appearance resembles a metal dustpan with a desk leg as the handle. It functions the same as a Frying Pan.",
-  "icon": "/icons/Frying_Pan_Makeshift.png"
+  "summary": "Its appearance resembles a metal dustpan with a desk leg as the handle. It functions the same as a Frying Pan."
  },
  {
   "name": "Full Pot of Water",
@@ -4260,8 +4097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is required to make all soups in the game, including inedible soups like Solder, Glue and Fisherman's Glue. A can also be used to fill other liquid containers like Water Coolers or Barrels or water plants.",
-  "icon": ""
+  "summary": "Full Pot of Water is required to make all soups in the game, including inedible soups like Solder, Glue and Fisherman's Glue. A Full Pot of Water can also be used to fill other liquid containers like Water Coolers or Barrels or water plants."
  },
  {
   "name": "Gem Sugar",
@@ -4286,8 +4122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Glacial Gazpacho",
@@ -4312,8 +4147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Glacial Gazpacho is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Glow Tulip",
@@ -4338,8 +4172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used as decoration and also emanates a bright blue light around it. It can also be used to craft a Gooey Tulip Salad.",
-  "icon": "/icons/Glow_Tulip.png"
+  "summary": "Glow Tulip can be used as decoration and also emanates a bright blue light around it. It can also be used to craft a Gooey Tulip Salad."
  },
  {
   "name": "Glowing Gâteau",
@@ -4364,8 +4197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Glue (Soup)",
@@ -4390,8 +4222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions of Giga Glue can be taken.",
-  "icon": ""
+  "summary": "Glue (Soup) is an item in Abiotic Factor, it can be placed down and 4 portions of Giga Glue can be taken."
  },
  {
   "name": "Gooey Mushroom Soup",
@@ -4416,8 +4247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by cooking an Uncooked, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Gooey Mushroom Soup is obtained by cooking an Uncooked Gooey Mushroom Soup, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Gooey Tulip Salad",
@@ -4442,8 +4272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Increases the chance of items obtained from fish butchering and salvaging by 5%. Despite the buff apply text simply saying \"butchering\", this does NOT apply to harvesting remains.",
-  "icon": "/icons/Gooey_Tulip_Salad.png"
+  "summary": "Increases the chance of items obtained from fish butchering and salvaging by 5%. Despite the buff apply text simply saying \"butchering\", this does NOT apply to harvesting remains."
  },
  {
   "name": "Gray's Chips",
@@ -4468,8 +4297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Green Fish Liver",
@@ -4494,8 +4322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Greyeb",
@@ -4520,8 +4347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Greyeb Chowder",
@@ -4546,8 +4372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Greyeb Chowder is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Gumdrop Cookie",
@@ -4572,8 +4397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 13 | 5 |- | 5 - 9 | 16 | 6 |- | 10 - 14 | 18 | 7 |- | 15 - 19 | 20 | 8 |- | 20 | 22 | 9 |}",
-  "icon": ""
+  "summary": "Gumdrop Cookie is a food item in Abiotic Factor."
  },
  {
   "name": "Gumdrop Cookie Tray",
@@ -4598,8 +4422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Gumdrop Cookie Tray is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Gusto Goo",
@@ -4624,8 +4447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Gutfish Unagi",
@@ -4650,8 +4472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Gutfish Unagi Platter",
@@ -4676,8 +4497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Gutfish Unagi Platter is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Hamburger",
@@ -4702,8 +4522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Harmonious Rice",
@@ -4728,8 +4547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Harmonious Rice is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Hazard Fridge",
@@ -4754,8 +4572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Hearty Stew",
@@ -4780,8 +4597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Hearty Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Homey Pasta",
@@ -4806,8 +4622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Homey Pasta is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Honey",
@@ -4832,8 +4647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Honey Apple Ice Cream",
@@ -4858,8 +4672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Horizon Mini Fridge",
@@ -4884,8 +4697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "setName = Refrigerator type = Container lootItems= setName=Refrigerator name = Tomato quantityMin = 0 quantityMax = 2 chance = 0.35 setName=Refrigerator name = Potato quantityMin = 0 quantityMax = 1 chance = 0.5 setName=Refrigerator name = Plastic Scrap quantityMin = 0 quantityMax = 1 chance = 0.2 setName=Refrigerator name = Canned Peas quantityMin = 0 quantityMax = 1 chance = 0.1 setName=Refrigerator",
-  "icon": ""
+  "summary": "setName = Refrigerator type = Container lootItems= setName=Refrigerator name = Tomato quantityMin = 0 quantityMax = 2 chance = 0.35 setName=Refrigerator name = Potato quantityMin = 0 quantityMax = 1 chance = 0.5 setName=Refrigerator name = Plastic Scrap quantityMin = 0 quantityMax = 1 chance = 0.2 setName=Refrigerator name = Canned Peas quantityMin = 0 quantityMax = 1 chance = 0.1 setName=Refrigerator"
  },
  {
   "name": "Hot Apple Cider",
@@ -4910,8 +4722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable drink in Abiotic Factor. Increases warmth and increases healing for a while.",
-  "icon": ""
+  "summary": "Hot Apple Cider is a consumable drink in Abiotic Factor. Increases warmth and increases healing for a while."
  },
  {
   "name": "Ice Cream",
@@ -4936,8 +4747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Office Sector === * Level 1 ** Cafeteria freezer. * Level 2 ** Area under Data Farm, close to a dead body with a Pest, a Security Pack and some other items.",
-  "icon": ""
+  "summary": "=== Office Sector === * Level 1 ** Cafeteria freezer. * Level 2 ** Area under Data Farm, close to a dead body with a Pest, a Security Pack and some other items."
  },
  {
   "name": "Icebergiri",
@@ -4962,8 +4772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Icebergiri Platter",
@@ -4988,8 +4797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Icebergiri Platter is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Industrial Stove",
@@ -5014,8 +4822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Much like the Kitchen Stove, it requires the facility's power to be on. However, it has no repair costs.",
-  "icon": "/icons/Industrial_Stove.png"
+  "summary": "=== Office Sector === * In the cafeteria kitchen in the tutorial area near the freezer room. Only one burner is usable, the others are blocked by debris."
  },
  {
   "name": "Inky Egg Drop Soup",
@@ -5040,8 +4847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Inky \"Egg\" Drop Soup is a food item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Inky \"Egg\" Drop Soup is a food item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Jowlers",
@@ -5066,8 +4872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Killer Soup",
@@ -5092,8 +4897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Killer Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Kitchen Stove",
@@ -5118,8 +4922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It has 4 burners, which need to be repaired using a Reinforced Hose. Much like the Industrial Stove, it requires the facility's power to be on.",
-  "icon": "/icons/Kitchen_Stove.png"
+  "summary": "It has 4 burners, which need to be repaired using a Reinforced Hose. Much like the Industrial Stove, it requires the facility's power to be on."
  },
  {
   "name": "Kizz Cola",
@@ -5144,8 +4947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Applies 0-2 of these buffs: *Rad Resistant *Sugar High *Sweet Tooth *Caffeinated (no effects) *Mega-Ante *Health Syringe If no buffs are applied, Stinky or Toilet Emergency is applied instead.",
-  "icon": ""
+  "summary": "Applies 0-2 of these buffs: *Rad Resistant *Sugar High *Sweet Tooth *Caffeinated (no effects) *Mega-Ante *Health Syringe If no buffs are applied, Stinky or Toilet Emergency is applied instead."
  },
  {
   "name": "Lunar Bisque",
@@ -5170,8 +4972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Lunar Bisque is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Mashed Potatoes",
@@ -5196,8 +4997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Mashed Potatoes is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Meatrio Medley",
@@ -5222,8 +5022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Meatrio Medley is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Meaty Stew",
@@ -5248,8 +5047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "resultItem = Meaty Stew resultAmount = ingredient1Item = Raw Peccary Chop ingredient2Item = Raw Alien Drumstick ingredient3Item = Raw Pest Rump craftDuration = 2:00 Category:Soups",
-  "icon": ""
+  "summary": "Meaty Stew is a item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Melted Honey Apple Ice Cream",
@@ -5274,8 +5072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Melted Honey Apple Ice Cream is a food item in Abiotic Factor."
  },
  {
   "name": "Melted Ice Cream",
@@ -5300,8 +5097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Melted Pumpkin Ice Cream",
@@ -5326,8 +5122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Microwave",
@@ -5352,8 +5147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a deployable object in Abiotic Factor. The can be used to bake various pies & other goods.",
-  "icon": ""
+  "summary": "Microwave is a deployable object in Abiotic Factor. The Microwave can be used to bake various pies & other goods."
  },
  {
   "name": "Military M.R.E.",
@@ -5378,8 +5172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used to make Sustenance Soup and grants the Quick Reflexes buff (+10% Accuracy and Reloading XP gain).",
-  "icon": "/icons/Military_M_R_E.png"
+  "summary": "* Just outside the entrance to the kitchen in the Garage * In the Mapping Center, on the bridge with two Snipers"
  },
  {
   "name": "Milk Sac",
@@ -5404,8 +5197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "s can be distilled using the Distillation Bench into Vials of Milk result=Vial of Milk",
-  "icon": ""
+  "summary": "Milk Sacs can be distilled using the Distillation Bench into Vials of Milk result=Vial of Milk"
  },
  {
   "name": "Mug of Coffee",
@@ -5430,8 +5222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a food item in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
-  "icon": ""
+  "summary": "Mug of Coffee is a food item in Abiotic Factor. Increases warmth and gives the Caffeinated effect."
  },
  {
   "name": "Mug of Cold Coffee",
@@ -5456,8 +5247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Murkweed",
@@ -5482,8 +5272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mushy Crab Sushi",
@@ -5508,8 +5297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mushy Crab Sushi Platter",
@@ -5534,8 +5322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Mushy Crab Sushi Platter is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Nachos",
@@ -5560,8 +5347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* At level 2, in the Security Office * At level 3, behind the Tier 2 Keypad on the balcony",
-  "icon": ""
+  "summary": "=== Office Sector === * At level 2, in the Security Office, up on the balcony by the gun range, sitting on a couch chair. * At level 3, behind the Tier 2 Keypad on the balcony."
  },
  {
   "name": "PLT Sandwich",
@@ -5586,8 +5372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Peccary Goulash",
@@ -5612,8 +5397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Peccary Goulash is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Peccary Noodle Soup",
@@ -5638,8 +5422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Peccary Noodle Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Peccary Stew",
@@ -5664,8 +5447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Peccary Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Pekkie Brekkie Hash",
@@ -5690,8 +5472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Pekkie Brekkie Hash is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Penumbra Maki Plate",
@@ -5716,8 +5497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Penumbra Maki Plate is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Penumbra Nigiri",
@@ -5742,8 +5522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Penumbra Nigiri Platter",
@@ -5768,8 +5547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Penumbra Nigiri Platter is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Pest Goulash",
@@ -5794,8 +5572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Pest Goulash is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Pest Pot Pie",
@@ -5820,8 +5597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Piece of Crumbed Darkwater Fish",
@@ -5846,8 +5622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 21 | 0 |- | 5 - 9 | 28 | 0 |- | 10 - 14 | 31 | 0 |- | 15 - 19 | 34 | 0 |- | 20 | 38 | 0 |}",
-  "icon": ""
+  "summary": "Piece of Crumbed Darkwater Fish is a food item in Abiotic Factor."
  },
  {
   "name": "Poop Soup",
@@ -5872,8 +5647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Poop Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Pop Snarkle",
@@ -5898,8 +5672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Popsci",
@@ -5924,8 +5697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Portable Stove",
@@ -5950,8 +5722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Portal Fish Stew",
@@ -5976,8 +5747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Portal Fish Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Pot of Xanterium Rice",
@@ -6002,8 +5772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a food item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Xanterium Rice can be taken.",
-  "icon": ""
+  "summary": "Pot of Xanterium Rice is a food item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Xanterium Rice can be taken."
  },
  {
   "name": "Potato",
@@ -6028,8 +5797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Potato and Sausage Stew",
@@ -6054,8 +5822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Potato and Sausage Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Pumpkin",
@@ -6080,8 +5847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Salvaging a at a Repair and Salvage Station yields the following: setName= image= baseItem= type=Salvaging lootItems= setName= name=Bio Scrap quantityMin=1 quantityMax=1 chance=1 setName= name=Pumpkin Seed quantityMin=0 quantityMax=1 chance=0.25 setName= name=Orange Antelight Seed quantityMin=0 quantityMax=1 chance=0.05 setName=",
-  "icon": ""
+  "summary": "Salvaging a Pumpkin at a Repair and Salvage Station yields the following: setName=Pumpkin image= baseItem=Pumpkin type=Salvaging lootItems= setName=Pumpkin name=Bio Scrap quantityMin=1 quantityMax=1 chance=1 setName=Pumpkin name=Pumpkin Seed quantityMin=0 quantityMax=1 chance=0.25 setName=Pumpkin name=Orange Antelight Seed quantityMin=0 quantityMax=1 chance=0.05 setName=Pumpkin"
  },
  {
   "name": "Pumpkin Bread",
@@ -6106,8 +5872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 37 | 5 |- | 5 - 9 | 48 | 6 |- | 10 - 14 | 54 | 7 |- | 15 - 19 | 60 | 8 |- | 20 | 65 | 8 |}",
-  "icon": ""
+  "summary": "Pumpkin Bread is a food item in Abiotic Factor."
  },
  {
   "name": "Pumpkin Cookie",
@@ -6132,8 +5897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 15 | 4 |- | 5 - 9 | 20 | 6 |- | 10 - 14 | 22 | 6 |- | 15 - 19 | 24 | 7 |- | 20 | 27 | 8 |}",
-  "icon": ""
+  "summary": "Pumpkin Cookie is a food item in Abiotic Factor."
  },
  {
   "name": "Pumpkin Cookie Tray",
@@ -6158,8 +5922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Pumpkin Cookie Tray is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Pumpkin Ice Cream",
@@ -6184,8 +5947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Pumpkin Ravioli",
@@ -6210,8 +5972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a food item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Pumpkin Ravioli can be taken.",
-  "icon": ""
+  "summary": "Pumpkin Ravioli is a food item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Pumpkin Ravioli can be taken."
  },
  {
   "name": "Pumpkin Slice",
@@ -6236,8 +5997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 10 | 4 |- | 5 - 9 | ? | ? |- | 10 - 14 | 14 | 5 |- | 15 - 19 | ? | ? |- | 20 | 17 | 7 |}",
-  "icon": ""
+  "summary": "Pumpkin Slice is a food item in Abiotic Factor."
  },
  {
   "name": "Pumpkin Soup",
@@ -6262,8 +6022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Pumpkin Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Pumpkin Splice Latte",
@@ -6288,8 +6047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable drink in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
-  "icon": ""
+  "summary": "Pumpkin Splice Latte is a consumable drink in Abiotic Factor. Increases warmth and gives the Caffeinated effect."
  },
  {
   "name": "Purified Corn",
@@ -6314,8 +6072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Rad Rice Bowl",
@@ -6340,8 +6097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Radfish Chowder",
@@ -6366,8 +6122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Radfish Chowder is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Raw Alien Drumstick",
@@ -6392,8 +6147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Anniversary Cake",
@@ -6418,8 +6172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Antefish Filet",
@@ -6444,8 +6197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Apple Pie",
@@ -6470,8 +6222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Carbuncle",
@@ -6496,8 +6247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Raw_Carbuncle.png"
+  "summary": ""
  },
  {
   "name": "Raw Carbuncle Casserole",
@@ -6522,8 +6272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Carbuncle Pizza",
@@ -6548,8 +6297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Carrot Cake",
@@ -6574,8 +6322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Carrot Fries",
@@ -6600,8 +6347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Chordfish Filet",
@@ -6626,8 +6372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Creamy Inkfish",
@@ -6652,8 +6397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Creepy Meat Pie",
@@ -6678,8 +6422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Crumbed Darkwater Fish",
@@ -6704,8 +6447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Darkwater Fish Filet",
@@ -6730,8 +6472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Raw Darkwater Fish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Raw Dough",
@@ -6756,8 +6497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Egg & Peccary Tartine",
@@ -6782,8 +6522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw \"Egg\" & Peccary Tartine is a food item in Abiotic Factor.",
-  "icon": ""
+  "summary": "Raw \"Egg\" & Peccary Tartine is a food item in Abiotic Factor."
  },
  {
   "name": "Raw Exor Heart",
@@ -6808,8 +6547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "baseItem = Chef's Counter resultUpgrade = Chef's Counter#Item Transporter resultName = Item Transporter upgrade1Item = Raw Exor Heart upgrade1Amount = 2 upgrade2Item = Energy Brick upgrade2Amount = 1 upgrade3Item = upgrade3Amount = upgrade4Item = upgrade4Amount = baseItem = Crafting Bench resultUpgrade = Crafting Bench#Item Transporter resultName = Item Transporter upgrade1Item = Raw Exor Heart upgrade1Amount = 2 upgrade2Item = Energy Brick upgrade2Amount = 1 upgrade3Item = upgrade3Amount = upgrade4Item = upgrade4Amount = baseItem = Crafting Bench resultUpgrade = Crafting Bench#Portal Suppress",
-  "icon": ""
+  "summary": "baseItem = Chef's Counter resultUpgrade = Chef's Counter#Item Transporter resultName = Item Transporter upgrade1Item = Raw Exor Heart upgrade1Amount = 2 upgrade2Item = Energy Brick upgrade2Amount = 1 upgrade3Item = upgrade3Amount = upgrade4Item = upgrade4Amount = baseItem = Crafting Bench resultUpgrade = Crafting Bench#Item Transporter resultName = Item Transporter upgrade1Item = Raw Exor Heart upgrade1Amount = 2 upgrade2Item = Energy Brick upgrade2Amount = 1 upgrade3Item = upgrade3Amount = upgrade4Item = upgrade4Amount = baseItem = Crafting Bench resultUpgrade = Crafting Bench#Portal Suppress"
  },
  {
   "name": "Raw Fr-eyed Rice",
@@ -6834,8 +6572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Fries",
@@ -6860,8 +6597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Frigid Queenfish Filet",
@@ -6886,8 +6622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Raw Frigid Queenfish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Raw Glimmering Meat Steak",
@@ -6912,8 +6647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Raw Glimmering Meat Steak is a consumable item in Abiotic Factor."
  },
  {
   "name": "Raw Glowing Gâteau",
@@ -6938,8 +6672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Gumdrop Cookie Tray",
@@ -6964,8 +6697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Gutfish Eel Filet",
@@ -6990,8 +6722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw IS-0098 Tentacles",
@@ -7016,8 +6747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Raw IS-0098 Tentacles is a consumable item in Abiotic Factor."
  },
  {
   "name": "Raw Inkfish Filet",
@@ -7042,8 +6772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Larva Meat",
@@ -7068,8 +6797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Raw_Larva_Meat.png"
+  "summary": ""
  },
  {
   "name": "Raw Moon Fish Filet",
@@ -7094,8 +6822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Nori Sheet Tray",
@@ -7120,8 +6847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Peccary Chop",
@@ -7146,8 +6872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Raw_Peccary_Chop.png"
+  "summary": ""
  },
  {
   "name": "Raw Peccary Sausages",
@@ -7172,8 +6897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Raw_Peccary_Sausages.png"
+  "summary": ""
  },
  {
   "name": "Raw Pekkie Brekkie Hash",
@@ -7198,8 +6922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Penumbra Filet",
@@ -7224,8 +6947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Pest",
@@ -7250,8 +6972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Raw_Pest.png"
+  "summary": ""
  },
  {
   "name": "Raw Pest Pot Pie",
@@ -7276,8 +6997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Pest Rump",
@@ -7302,8 +7022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Raw_Pest_Rump.png"
+  "summary": ""
  },
  {
   "name": "Raw Pestato",
@@ -7328,8 +7047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Portal Fish Filet",
@@ -7354,8 +7072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Raw Portal Fish Filet is a consumable item in Abiotic Factor."
  },
  {
   "name": "Raw Pumpkin Cookie Tray",
@@ -7380,8 +7097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Pumpkin Dough",
@@ -7406,8 +7122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Pumpkin Pie",
@@ -7432,8 +7147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Pumpkin Slices",
@@ -7458,8 +7172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Radfish Filet",
@@ -7484,8 +7197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Salted Honey Pie",
@@ -7510,8 +7222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Shadowberry Pie",
@@ -7536,8 +7247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Shrimps Pack",
@@ -7562,8 +7272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Silken Betta Filet",
@@ -7588,8 +7297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Silky Fish Florentine",
@@ -7614,8 +7322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Simple Pest Pie",
@@ -7640,8 +7347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Skink Meat",
@@ -7666,8 +7372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Stuffed Mushroom Tray",
@@ -7692,8 +7397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Raw Stuffed Peppers Tray",
@@ -7718,8 +7422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Raw Stuffed Peppers Tray is a consumable food item in Abiotic Factor."
  },
  {
   "name": "Raw Stuffed Roast Peccary",
@@ -7744,8 +7447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Refrigerator",
@@ -7770,8 +7472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "setName = Refrigerator type = Container lootItems= setName=Refrigerator name = Tomato quantityMin = 0 quantityMax = 2 chance = 0.35 setName=Refrigerator name = Potato quantityMin = 0 quantityMax = 1 chance = 0.5 setName=Refrigerator name = Plastic Scrap quantityMin = 0 quantityMax = 1 chance = 0.2 setName=Refrigerator name = Canned Peas quantityMin = 0 quantityMax = 1 chance = 0.1 setName=Refrigerator",
-  "icon": "/icons/Refrigerator.png"
+  "summary": "setName = Refrigerator type = Container lootItems= setName=Refrigerator name = Tomato quantityMin = 0 quantityMax = 2 chance = 0.35 setName=Refrigerator name = Potato quantityMin = 0 quantityMax = 1 chance = 0.5 setName=Refrigerator name = Plastic Scrap quantityMin = 0 quantityMax = 1 chance = 0.2 setName=Refrigerator name = Canned Peas quantityMin = 0 quantityMax = 1 chance = 0.1 setName=Refrigerator"
  },
  {
   "name": "Reservoir Reserve",
@@ -7796,8 +7497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Reservoir Reserve is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Ripening Alien Cheese Wheel",
@@ -7822,8 +7522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "does not have an use on its own. Instead, the player must let it ripen by having it \"decay\" so that it'll then become an Alien Cheese Wheel. Unlike most food items, it will continue to decay even if left inside of a Freezer. However, being placed in a Warming Drawer accelerates the decay, but not dramatically.",
-  "icon": ""
+  "summary": "Ripening Alien Cheese Wheel does not have an use on its own. Instead, the player must let it ripen by having it \"decay\" so that it'll then become an Alien Cheese Wheel. Unlike most food items, it will continue to decay even if left inside of a Freezer. However, being placed in a Warming Drawer accelerates the decay, but not dramatically."
  },
  {
   "name": "Risotto 98",
@@ -7848,8 +7547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a food item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Risotto 98 can be taken.",
-  "icon": ""
+  "summary": "Risotto 98 is a food item in Abiotic Factor, it can be placed down and 4 portions of Bowl of Risotto 98 can be taken."
  },
  {
   "name": "Roasted Nori Sheet",
@@ -7874,8 +7572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 17 | 0 |- | 5 - 9 | 22 | 0 |- | 10 - 14 | 25 | 0 |- | 15 - 19 | 28 | 0 |- | 20 | 30 | 0 |}",
-  "icon": ""
+  "summary": "Roasted Nori Sheet is a food item in Abiotic Factor."
  },
  {
   "name": "Roasted Nori Sheet Tray",
@@ -7900,8 +7597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Roasted Nori Snack",
@@ -7926,8 +7622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Roasted Stuffed Mushroom",
@@ -7952,8 +7647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 28 | 8 |- | 5 - 9 | ? | ? |- | 10 - 14 | ? | ? |- | 15 - 19 | ? | ? |- | 20 | 49 | 14 |}",
-  "icon": ""
+  "summary": "Roasted Stuffed Mushroom is a food item in Abiotic Factor."
  },
  {
   "name": "Roasted Stuffed Pepper",
@@ -7978,8 +7672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 30 | 5 |- | 5 - 9 | ? | ? |- | 10 - 14 | ? | ? |- | 15 - 19 | ? | ? |- | 20 | 53 | 9 |}",
-  "icon": ""
+  "summary": "Roasted Stuffed Pepper is a consumable food item in Abiotic Factor."
  },
  {
   "name": "Roasted Stuffed Peppers Tray",
@@ -8004,8 +7697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Roasted Stuffed Peppers Tray is a food item in Abiotic Factor."
  },
  {
   "name": "Rootbear",
@@ -8030,8 +7722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Rootbear Float",
@@ -8056,8 +7747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Rotten Fish",
@@ -8082,8 +7772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "has no practical use other than being scrapped for Bio Scrap via the Repair and Salvage Station. It can be consumed directly or as Toxic Soup, but doing so causes the player character to become Sick.",
-  "icon": ""
+  "summary": "Rotten Fish has no practical use other than being scrapped for Bio Scrap via the Repair and Salvage Station. It can be consumed directly or as Toxic Soup, but doing so causes the player character to become Sick."
  },
  {
   "name": "Rotten Food",
@@ -8108,8 +7797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable item in Abiotic Factor. It is the result of food getting spoiled.",
-  "icon": "/icons/Rotten_Food.png"
+  "summary": "Rotten Food is a consumable item in Abiotic Factor. It is the result of food getting spoiled."
  },
  {
   "name": "Royal Pepper",
@@ -8134,8 +7822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Saltz",
@@ -8160,8 +7847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Shadowberries",
@@ -8186,8 +7872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Shadowberry Milkshake",
@@ -8212,8 +7897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be traded with Jimmy Sanders to unlock the Fast Food Worker (M) Top Customization option.",
-  "icon": ""
+  "summary": "Shadowberry Milkshake can be traded with Jimmy Sanders to unlock the Fast Food Worker (M) Top Customization option."
  },
  {
   "name": "Shrimp",
@@ -8238,8 +7922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 8 | 0 |- | 5 - 9 | | |- | 10 - 14 | | |- | 15 - 19 | | |- | 20 | | |}",
-  "icon": ""
+  "summary": "A small, edible stalk-eyed crustacean."
  },
  {
   "name": "Shrimp Soda",
@@ -8264,8 +7947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Shrimps Pack",
@@ -8290,8 +7972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Shrimps and Bananas",
@@ -8316,8 +7997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Silky Consommé",
@@ -8342,8 +8022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "resultItem = ingredient1Item = Raw Silken Betta Filet ingredient2Item = Egg ingredient3Item = Salt craftDuration = 2:00 Category:Soups",
-  "icon": ""
+  "summary": "resultItem = Silky Consommé ingredient1Item = Raw Silken Betta Filet ingredient2Item = Egg ingredient3Item = Salt craftDuration = 2:00 Category:Soups"
  },
  {
   "name": "Silky Temaki",
@@ -8368,8 +8047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Simple Tomato Soup",
@@ -8394,8 +8072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Simple Tomato Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Single Colorful Maki",
@@ -8420,8 +8097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Single Penumbra Maki",
@@ -8446,8 +8122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Single Penumbra Maki is a consumable food item in Abiotic Factor."
  },
  {
   "name": "Skip",
@@ -8472,8 +8147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Voussoir === * Up above in the mountains close to the ski lift station, inside a hidden cave that can be accessed with the Jetpack, the can be found next to a dead body.",
-  "icon": ""
+  "summary": "=== Voussoir === * Up above in the mountains close to the ski lift station, inside a hidden cave that can be accessed with the Jetpack, the Skip can be found next to a dead body."
  },
  {
   "name": "Slam",
@@ -8498,8 +8172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Slice of Anniversary Cake",
@@ -8524,8 +8197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 32 | 14 |- | 5 - 9 | | 8 |- | 10 - 14 | | 9 |- | 15 - 19 | | 10 |- | 20 | 56 | 25 |}",
-  "icon": ""
+  "summary": "Slice of Anniversary Cake is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Apple Pie",
@@ -8550,8 +8222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 26 | 8 |- | 5 - 9 | 34 | 11 |- | 10 - 14 | 38 | 12 |- | 15 - 19 | 42 | 14 |- | 20 | 45 | 15 |}",
-  "icon": ""
+  "summary": "Slice of Apple Pie is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Carbuncle Casserole",
@@ -8576,8 +8247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 16 | 2 |- | 5 - 9 | 21 | 2 |- | 10 - 14 | 23 | 3 |- | 15 - 19 | 26 | 3 |- | 20 | 28 | 3 |}",
-  "icon": ""
+  "summary": "Slice of Carbuncle Casserole is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Carbuncle Pizza",
@@ -8602,8 +8272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 12 | 2 |- | 5 - 9 | 15 | 2 |- | 10 - 14 | 17 | 3 |- | 15 - 19 | 19 | 3 |- | 20 | 21 | 3 |}",
-  "icon": ""
+  "summary": "Slice of Carbuncle Pizza is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Carrot Cake",
@@ -8628,8 +8297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 30 | 6 |- | 5 - 9 | | 8 |- | 10 - 14 | | 9 |- | 15 - 19 | | 10 |- | 20 | | 11 |}",
-  "icon": ""
+  "summary": "Slice of \"Carrot\" Cake is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Creepy Meat Pie",
@@ -8654,8 +8322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 21 | 7 |- | 5 - 9 | 27 | 9 |- | 10 - 14 | 31 | 11 |- | 15 - 19 | 34 | 12 |- | 20 | 37 | 13 |}",
-  "icon": ""
+  "summary": "Slice of Creepy Meat Pie is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Glowing Gâteau",
@@ -8680,8 +8347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 18 | 6 |- | 5 - 9 | 23 | 8 |- | 10 - 14 | 26 | 9 |- | 15 - 19 | 28 | 10 |- | 20 | 31 | 11 |}",
-  "icon": ""
+  "summary": "Slice of Glowing Gâteau is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Pekkie Brekkie Hash",
@@ -8706,8 +8372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 26 | 6 |- | 5 - 9 | 34 | 8 |- | 10 - 14 | 38 | 9 |- | 15 - 19 | 42 | 10 |- | 20 | 45 | 11 |}",
-  "icon": ""
+  "summary": "Slice of Pekkie Brekkie Hash is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Pest Pot Pie",
@@ -8732,8 +8397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 22 | 3 |- | 5 - 9 | 29 | 4 |- | 10 - 14 | 32 | 4 |- | 15 - 19 | 36 | 5 |- | 20 | 39 | 5 |}",
-  "icon": ""
+  "summary": "Slice of Pest Pot Pie is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Pumpkin Pie",
@@ -8758,8 +8422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 23 | 6 |- | 5 - 9 | 29 | 7 |- | 10 - 14 | 33 | 8 |- | 15 - 19 | 36 | 9 |- | 20 | 40 | 10 |}",
-  "icon": ""
+  "summary": "Slice of Pumpkin Pie is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Salted Honey Pie",
@@ -8784,8 +8447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 32 | 3 |- | 5 - 9 | 42 | 4 |- | 10 - 14 | 47 | 5 |- | 15 - 19 | 52 | 5 |- | 20 | 56 | 6 |}",
-  "icon": ""
+  "summary": "Slice of Salted Honey Pie is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Shadowberry Pie",
@@ -8810,8 +8472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 28 | 17 |- | 5 - 9 | 36 | 22 |- | 10 - 14 | 40 | 25 |- | 15 - 19 | 45 | 27 |- | 20 | 49 | 30 |}",
-  "icon": ""
+  "summary": "Slice of Shadowberry Pie is a food item in Abiotic Factor."
  },
  {
   "name": "Slice of Simple Pest Pie",
@@ -8836,8 +8497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "{| class=\"wikitable\" style=\"text-align: center;\" |- ! Cooking Skill ! Hunger Fill ! Thirst Fill |- | 0 - 4 | 30 | 0 |- | 5 - 9 | 39 | 0 |- | 10 - 14 | 43 | 0 |- | 15 - 19 | 48 | 0 |- | 20 | 52 | 0 |}",
-  "icon": ""
+  "summary": "Slice of Simple Pest Pie is a food item in Abiotic Factor."
  },
  {
   "name": "Slushie",
@@ -8862,8 +8522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Upon consumption, the player will be given the Frosted debuff, causing the player to freeze in place for a short period of time.",
-  "icon": "/icons/Slushie.png"
+  "summary": "Upon consumption, the player will be given the Frosted debuff, causing the player to freeze in place for a short period of time."
  },
  {
   "name": "Snowman Cookie",
@@ -8888,8 +8547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Solder (Soup)",
@@ -8914,8 +8572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor. It is a crucial material to advance the story as solder can be traded at the Blacksmith for Fibre Optic Cables. Its recipe is unlocked by analyzing the pot of solder next to the Blacksmith.",
-  "icon": ""
+  "summary": "Solder (Soup) is an item in Abiotic Factor. It is a crucial material to advance the story as solder can be traded at the Blacksmith for Fibre Optic Cables. Its recipe is unlocked by analyzing the pot of solder next to the Blacksmith."
  },
  {
   "name": "Soup Bowl",
@@ -8940,8 +8597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable item in Abiotic Factor. It is used to scoop a portion of cooked soup from a pot. The soup can either be consumed or poured out. It holds two servings of soup.",
-  "icon": "/icons/Soup_Bowl.png"
+  "summary": "Soup Bowl is a consumable item in Abiotic Factor. It is used to scoop a portion of cooked soup from a pot. The soup can either be consumed or poured out. It holds two servings of soup."
  },
  {
   "name": "Space Duende",
@@ -8966,8 +8622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Space Lettuce",
@@ -8992,8 +8647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Cascade Laboratories === * In the Ordo cell on the 5th floor, which can only be opened after resetting the security system.",
-  "icon": ""
+  "summary": "=== Cascade Laboratories === * In the Ordo cell on the 5th floor, which can only be opened after resetting the security system."
  },
  {
   "name": "Spicy Royal Bisque",
@@ -9018,8 +8672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a deployable food item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Spicy Royal Bisque is a deployable food item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Split Pea Soup",
@@ -9044,8 +8697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Split Pea Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Stuffed Mushroom Tray",
@@ -9070,8 +8722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Stuffed Mushroom Tray is a deployable food item in Abiotic Factor."
  },
  {
   "name": "Sugary Slop",
@@ -9096,8 +8747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Sugary Slop is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Super Stove 4000",
@@ -9122,8 +8772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Super Tomato",
@@ -9148,8 +8797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Super Tomato Soup",
@@ -9174,8 +8822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Super Tomato Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Sustenance Soup",
@@ -9200,8 +8847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Sustenance Soup is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Sweet Porridge",
@@ -9226,8 +8872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Sweet Porridge is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Taco",
@@ -9252,8 +8897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "The Bad Soda",
@@ -9278,8 +8922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "Jimmy Sanders will sell 1 Fast Food Worker (F) Top Customization for 1 The Bad Soda."
  },
  {
   "name": "Tomato",
@@ -9304,8 +8947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Toxic Soup",
@@ -9330,8 +8972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Unadon and Egg",
@@ -9356,8 +8997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Unagi Temaki",
@@ -9382,8 +9022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Uncooked A&L Mega-Stew",
@@ -9408,8 +9047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Exor Arm, a Raw Alien Drumstick and a Raw Exor Heart.",
-  "icon": ""
+  "summary": "Uncooked A&L Mega-Stew is obtained by adding water to a pot, placing it on a Stove, then adding a Exor Arm, a Raw Alien Drumstick and a Raw Exor Heart."
  },
  {
   "name": "Uncooked Alien Cheese Curds",
@@ -9434,8 +9072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Vial of Milk, a Hydrochloric Acid and a Anteverse Gel.",
-  "icon": ""
+  "summary": "Uncooked Alien Cheese Curds is obtained by adding water to a pot, placing it on a Stove, then adding a Vial of Milk, a Hydrochloric Acid and a Anteverse Gel."
  },
  {
   "name": "Uncooked Anteverse Gumbo",
@@ -9460,8 +9097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Antefish Filet, Raw Peccary Sausages and a Potato.",
-  "icon": ""
+  "summary": "Uncooked Anteverse Gumbo is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Antefish Filet, Raw Peccary Sausages and a Potato."
  },
  {
   "name": "Uncooked Balanced Stew",
@@ -9486,8 +9122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Carbuncle, a Carbuncle Mushroom and Salt.",
-  "icon": ""
+  "summary": "Uncooked Balanced Stew is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Carbuncle, a Carbuncle Mushroom and Salt."
  },
  {
   "name": "Uncooked Bland Pea Soup",
@@ -9512,8 +9147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Canned Peas and Salt.",
-  "icon": ""
+  "summary": "Uncooked Bland Pea Soup is obtained by adding water to a pot, placing it on a Stove, then adding Canned Peas and Salt."
  },
  {
   "name": "Uncooked Carbuncle N' Dumplings",
@@ -9538,8 +9172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Raw Dough, a Raw Carbuncle and Canned Peas.",
-  "icon": ""
+  "summary": "Uncooked Carbuncle N' Dumplings is obtained by adding water to a pot, placing it on a Stove, then adding Raw Dough, a Raw Carbuncle and Canned Peas."
  },
  {
   "name": "Uncooked Carrot & Pumpkin Soup",
@@ -9564,8 +9197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Uncooked \"Carrot\" & Pumpkin Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Pumpkin, a Carrot\"Carrot\", and Salt.",
-  "icon": ""
+  "summary": "Uncooked \"Carrot\" & Pumpkin Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Pumpkin, a Carrot\"Carrot\", and Salt."
  },
  {
   "name": "Uncooked Creamy Corn Soup",
@@ -9590,8 +9222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Purified Corn, a Milk Sac and Salt.",
-  "icon": ""
+  "summary": "Uncooked Creamy Corn Soup is obtained by adding water to a pot, placing it on a Stove, then adding Purified Corn, a Milk Sac and Salt."
  },
  {
   "name": "Uncooked Creamy Tomato Bisque",
@@ -9616,8 +9247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Super Tomato, a Milk Sac and Salt.",
-  "icon": ""
+  "summary": "Uncooked Creamy Tomato Bisque is obtained by adding water to a pot, placing it on a Stove, then adding a Super Tomato, a Milk Sac and Salt."
  },
  {
   "name": "Uncooked Fisherman's Glue",
@@ -9642,8 +9272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Hydrochloric Acid and Fish Bones.",
-  "icon": ""
+  "summary": "Uncooked Fisherman's Glue is obtained by adding water to a pot, placing it on a Stove, then adding a Hydrochloric Acid and Fish Bones."
  },
  {
   "name": "Uncooked Glacial Gazpacho",
@@ -9668,8 +9297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Frigid Queenfish Filet, a Pumpkin and a Greyeb.",
-  "icon": ""
+  "summary": "Uncooked Glacial Gazpacho is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Frigid Queenfish Filet, a Pumpkin and a Greyeb."
  },
  {
   "name": "Uncooked Glue",
@@ -9694,8 +9322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Peccary Skull.",
-  "icon": ""
+  "summary": "Uncooked Glue is obtained by adding water to a pot, placing it on a Stove, then adding a Peccary Skull."
  },
  {
   "name": "Uncooked Gooey Mushroom Soup",
@@ -9720,8 +9347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Raw Larva Meat, a Carbuncle Mushroom and Salt.",
-  "icon": ""
+  "summary": "Uncooked Gooey Mushroom Soup is obtained by adding water to a pot, placing it on a Stove, then adding Raw Larva Meat, a Carbuncle Mushroom and Salt."
  },
  {
   "name": "Uncooked Greyeb Chowder",
@@ -9746,8 +9372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Greyeb, a Milk Sac and a Potato.",
-  "icon": ""
+  "summary": "Uncooked Greyeb Chowder is obtained by adding water to a pot, placing it on a Stove, then adding a Greyeb, a Milk Sac and a Potato."
  },
  {
   "name": "Uncooked Harmonious Rice",
@@ -9772,8 +9397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Chordfish Filet, a Milk Sac and Xanterium Rice.",
-  "icon": ""
+  "summary": "Uncooked Harmonious Rice is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Chordfish Filet, a Milk Sac and Xanterium Rice."
  },
  {
   "name": "Uncooked Hearty Stew",
@@ -9798,8 +9422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Exor Heart, a Carbuncle Mushroom and a Super Tomato.",
-  "icon": ""
+  "summary": "Uncooked Hearty Stew is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Exor Heart, a Carbuncle Mushroom and a Super Tomato."
  },
  {
   "name": "Uncooked Homey Pasta",
@@ -9824,8 +9447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Antepasta, Raw Peccary Sausages and a Tomato.",
-  "icon": ""
+  "summary": "Uncooked Homey Pasta is obtained by adding water to a pot, placing it on a Stove, then adding Antepasta, Raw Peccary Sausages and a Tomato."
  },
  {
   "name": "Uncooked Inky Egg Drop Soup",
@@ -9850,8 +9472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Uncooked Inky \"Egg\" Drop Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Inkfish Filet, a Egg and a Carbuncle Mushroom.",
-  "icon": ""
+  "summary": "Uncooked Inky \"Egg\" Drop Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Inkfish Filet, a Egg and a Carbuncle Mushroom."
  },
  {
   "name": "Uncooked Killer Soup",
@@ -9876,8 +9497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Uncooked Lunar Bisque",
@@ -9902,8 +9522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Moon Fish Filet, a Raw Exor Heart and a Carbuncle Mushroom.",
-  "icon": ""
+  "summary": "Uncooked Lunar Bisque is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Moon Fish Filet, a Raw Exor Heart and a Carbuncle Mushroom."
  },
  {
   "name": "Uncooked Mashed Potatoes",
@@ -9928,8 +9547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Potato, a Milk Sac and Salt.",
-  "icon": ""
+  "summary": "Uncooked Mashed Potatoes is obtained by adding water to a pot, placing it on a Stove, then adding a Potato, a Milk Sac and Salt."
  },
  {
   "name": "Uncooked Meatrio Medley",
@@ -9954,8 +9572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Carbuncle, a Raw Pest Rump and a Raw Alien Drumstick.",
-  "icon": ""
+  "summary": "Uncooked Meatrio Medley is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Carbuncle, a Raw Pest Rump and a Raw Alien Drumstick."
  },
  {
   "name": "Uncooked Meaty Stew",
@@ -9980,8 +9597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Peccary Chop, Raw Alien Drumstick and a Raw Pest Rump.",
-  "icon": ""
+  "summary": "Uncooked Meaty Stew is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Peccary Chop, Raw Alien Drumstick and a Raw Pest Rump."
  },
  {
   "name": "Uncooked Peccary Goulash",
@@ -10006,8 +9622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Peccary Chop, a Raw Alien Drumstick and Salt.",
-  "icon": ""
+  "summary": "Uncooked Peccary Goulash is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Peccary Chop, a Raw Alien Drumstick and Salt."
  },
  {
   "name": "Uncooked Peccary Noodle Soup",
@@ -10032,8 +9647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Antepasta, a Raw Alien Drumstick and Salt.",
-  "icon": ""
+  "summary": "Uncooked Peccary Noodle Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Antepasta, a Raw Alien Drumstick and Salt."
  },
  {
   "name": "Uncooked Peccary Stew",
@@ -10058,8 +9672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Raw Peccary Chop, a Carbuncle Mushroom and a Super Tomato.",
-  "icon": ""
+  "summary": "Uncooked Peccary Stew is obtained by adding water to a pot, placing it on a Stove, then adding Raw Peccary Chop, a Carbuncle Mushroom and a Super Tomato."
  },
  {
   "name": "Uncooked Pest Goulash",
@@ -10084,8 +9697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Pest, a Raw Pest Rump and Salt.",
-  "icon": ""
+  "summary": "Uncooked Pest Goulash is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Pest, a Raw Pest Rump and Salt."
  },
  {
   "name": "Uncooked Poop Soup",
@@ -10110,8 +9722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be cooked into Poop Soup, which is one of a few ineffective soups.",
-  "icon": ""
+  "summary": "Uncooked Poop Soup is an item in Abiotic Factor, it can be cooked into Poop Soup, which is one of a few ineffective soups."
  },
  {
   "name": "Uncooked Portal Fish Stew",
@@ -10136,8 +9747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Portal Fish Filet, a Tomato and a Potato.",
-  "icon": ""
+  "summary": "Uncooked Portal Fish Stew is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Portal Fish Filet, a Tomato and a Potato."
  },
  {
   "name": "Uncooked Potato and Sausage Stew",
@@ -10162,8 +9772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Raw Peccary Sausages, and a Potato.",
-  "icon": ""
+  "summary": "Uncooked Potato and Sausage Stew is obtained by adding water to a pot, placing it on a Stove, then adding Raw Peccary Sausages, and a Potato."
  },
  {
   "name": "Uncooked Pumpkin Ravioli",
@@ -10188,8 +9797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Pumpkin, a Raw Pumpkin Dough and Salt.",
-  "icon": ""
+  "summary": "Uncooked Pumpkin Ravioli is obtained by adding water to a pot, placing it on a Stove, then adding a Pumpkin, a Raw Pumpkin Dough and Salt."
  },
  {
   "name": "Uncooked Pumpkin Soup",
@@ -10214,8 +9822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Pumpkin, a Milk Sac and Salt.",
-  "icon": ""
+  "summary": "Uncooked Pumpkin Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Pumpkin, a Milk Sac and Salt."
  },
  {
   "name": "Uncooked Radfish Chowder",
@@ -10240,8 +9847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Radfish Filet, a Potato and Canned Peas.",
-  "icon": ""
+  "summary": "Uncooked Radfish Chowder is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Radfish Filet, a Potato and Canned Peas."
  },
  {
   "name": "Uncooked Reservoir Reserve",
@@ -10266,8 +9872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Darkwater Fish Filet, a Murkweed and a Greyeb.",
-  "icon": ""
+  "summary": "Uncooked Reservoir Reserve is obtained by adding water to a pot, placing it on a Stove, then adding a Raw Darkwater Fish Filet, a Murkweed and a Greyeb."
  },
  {
   "name": "Uncooked Risotto 98",
@@ -10292,8 +9897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Raw IS-0098 Tentacles, Xanterium Rice and a Carbuncle Mushroom.",
-  "icon": ""
+  "summary": "Uncooked Risotto 98 is obtained by adding water to a pot, placing it on a Stove, then adding Raw IS-0098 Tentacles, Xanterium Rice and a Carbuncle Mushroom."
  },
  {
   "name": "Uncooked Silky Consommé",
@@ -10318,8 +9922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Raw Silken Betta Filet, a Egg \"Egg\" and Salt.",
-  "icon": ""
+  "summary": "Uncooked Silky Consommé is obtained by adding water to a pot, placing it on a Stove, then adding Raw Silken Betta Filet, a Egg \"Egg\" and Salt."
  },
  {
   "name": "Uncooked Simple Tomato Soup",
@@ -10344,8 +9947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Tomato and Salt.",
-  "icon": ""
+  "summary": "Uncooked Simple Tomato Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Tomato and Salt."
  },
  {
   "name": "Uncooked Solder",
@@ -10370,8 +9972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Silver Scrap and a Metal Scrap.",
-  "icon": ""
+  "summary": "Uncooked Solder is obtained by adding water to a pot, placing it on a Stove, then adding a Silver Scrap and a Metal Scrap."
  },
  {
   "name": "Uncooked Spicy Royal Bisque",
@@ -10396,8 +9997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Royal Pepper, a Purified Corn and a Vial of Milk.",
-  "icon": ""
+  "summary": "Uncooked Spicy Royal Bisque is obtained by adding water to a pot, placing it on a Stove, then adding a Royal Pepper, a Purified Corn and a Vial of Milk."
  },
  {
   "name": "Uncooked Split Pea Soup",
@@ -10422,8 +10022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Canned Peas, Salt and a Raw Pest.",
-  "icon": ""
+  "summary": "Uncooked Split Pea Soup is obtained by adding water to a pot, placing it on a Stove, then adding Canned Peas, Salt and a Raw Pest."
  },
  {
   "name": "Uncooked Sugary Slop",
@@ -10448,8 +10047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Doznuts, Jowlers and Skip.",
-  "icon": ""
+  "summary": "Uncooked Sugary Slop is obtained by adding water to a pot, placing it on a Stove, then adding Doznuts, Jowlers and Skip."
  },
  {
   "name": "Uncooked Super Tomato Soup",
@@ -10474,8 +10072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Super Tomato and Salt.",
-  "icon": ""
+  "summary": "Uncooked Super Tomato Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Super Tomato and Salt."
  },
  {
   "name": "Uncooked Sustenance Soup",
@@ -10500,8 +10097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Military M.R.E..",
-  "icon": ""
+  "summary": "Uncooked Sustenance Soup is obtained by adding water to a pot, placing it on a Stove, then adding a Military M.R.E.."
  },
  {
   "name": "Uncooked Sweet Porridge",
@@ -10526,8 +10122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Melted Ice Cream and Anteverse Wheat.",
-  "icon": ""
+  "summary": "Uncooked Sweet Porridge is obtained by adding water to a pot, placing it on a Stove, then adding Melted Ice Cream and Anteverse Wheat."
  },
  {
   "name": "Uncooked Toxic Soup",
@@ -10552,8 +10147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Uncooked Unknown Soup",
@@ -10578,8 +10172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Uncooked Veggie Stew",
@@ -10604,8 +10197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Potato, Anteverse Wheat and a Super Tomato.",
-  "icon": ""
+  "summary": "Uncooked Veggie Stew is obtained by adding water to a pot, placing it on a Stove, then adding a Potato, Anteverse Wheat and a Super Tomato."
  },
  {
   "name": "Uncooked Witching Hour Brew",
@@ -10630,8 +10222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding Raw Penumbra Filet, a Glow Eye and Carbuncle Mushroom.",
-  "icon": ""
+  "summary": "Uncooked Witching Hour Brew is obtained by adding water to a pot, placing it on a Stove, then adding Raw Penumbra Filet, a Glow Eye and Carbuncle Mushroom."
  },
  {
   "name": "Uncooked Xanterium Rice",
@@ -10656,8 +10247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is obtained by adding water to a pot, placing it on a Stove, then adding a Xanterium Rice.",
-  "icon": ""
+  "summary": "Uncooked Xanterium Rice is obtained by adding water to a pot, placing it on a Stove, then adding a Xanterium Rice."
  },
  {
   "name": "Vanilla Latte",
@@ -10682,8 +10272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a consumable drink in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
-  "icon": ""
+  "summary": "Vanilla Latte is a consumable drink in Abiotic Factor. Increases warmth and gives the Caffeinated effect."
  },
  {
   "name": "Veggie Stew",
@@ -10708,8 +10297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
-  "icon": ""
+  "summary": "Veggie Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken."
  },
  {
   "name": "Vial of Milk",
@@ -10734,8 +10322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It can be drank directly or used in various crafting and food recipes. It is used to upkeep containment of Krasue in a powered Containment Unit: 91.",
-  "icon": ""
+  "summary": "It can be drank directly or used in various crafting and food recipes. It is used to upkeep containment of Krasue in a powered Containment Unit: 91."
  },
  {
   "name": "Vibrant Exor Arm",
@@ -10760,8 +10347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Vit",
@@ -10786,8 +10372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Warming Drawer",
@@ -10812,8 +10397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When powered the heats food and drink, increasing the spoil rate of foods and halting the decay of hot drinks like Mug of Coffee.",
-  "icon": ""
+  "summary": "When powered the Warming Drawer heats food and drink, increasing the spoil rate of foods and halting the decay of hot drinks like Mug of Coffee."
  },
  {
   "name": "Water Bottle",
@@ -10838,8 +10422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Water Cooler",
@@ -10864,8 +10447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The 's weight depends on how much it is filled. However, the value for when a single amount of water is added changes from 5 while empty to 20. Meaning at 25% filled up with water it's not 10, but instead 22.5. {|class=wikitable ! Fill Amount !! Weight |- | 0 (0%) || 5 |- | 1250 (25%) || 22.5 |- | 2250 (50%) || 30 |- | 3375 (75%) || 35 |- | 4500 (100%) || 40 |- |}",
-  "icon": ""
+  "summary": "Water Cooler is a deployable object in Abiotic Factor that can be used to hold Liquids."
  },
  {
   "name": "Water Filter",
@@ -10890,8 +10472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It is used to convert Tainted Water into Water at a ratio of 1:1 with no delay. Unlike other liquid containers, it cannot be filled directly from the inventory with liquid sources or containers. It must be deployed and then filled from other liquid containers.",
-  "icon": ""
+  "summary": "It is used to convert Tainted Water into Water at a ratio of 1:1 with no delay. Unlike other liquid containers, it cannot be filled directly from the inventory with liquid sources or containers. It must be deployed and then filled from other liquid containers."
  },
  {
   "name": "Witching Hour Brew",
@@ -10916,8 +10497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "resultItem = ingredient1Item = Raw Penumbra Filet ingredient2Item = Glow Eye ingredient3Item = Carbuncle Mushroom craftDuration = 2:00 Category:Soups",
-  "icon": ""
+  "summary": "resultItem = Witching Hour Brew ingredient1Item = Raw Penumbra Filet ingredient2Item = Glow Eye ingredient3Item = Carbuncle Mushroom craftDuration = 2:00 Category:Soups"
  },
  {
   "name": "XETA NRG",
@@ -10942,8 +10522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Xanterium Rice",
@@ -10968,7 +10547,6 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor. It is only acquired from growing Xanterium Rice Seeds.",
-  "icon": ""
+  "summary": "Xanterium Rice is an item in Abiotic Factor. It is only acquired from growing Xanterium Rice Seeds."
  }
 ]

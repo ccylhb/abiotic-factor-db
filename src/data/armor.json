@@ -22,8 +22,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "A.E.G.I.S. Greaves",
@@ -48,8 +47,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "A.E.G.I.S. Helmet",
@@ -74,8 +72,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "A.E.G.I.S. Pauldrons",
@@ -100,8 +97,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "A.T.O.M.S. Chestplate",
@@ -126,8 +122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "A.T.O.M.S. Greaves",
@@ -152,8 +147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "A.T.O.M.S. Helmet",
@@ -178,8 +172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "A.T.O.M.S. Pauldrons",
@@ -204,8 +197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Accursed Hood",
@@ -230,8 +222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Hexed Skin",
   "setBonusFull": "Hexed Soul",
-  "summary": "While worn, the hostile Hexed Trees in Canaan will not attack the player, even after being attacked themselves. The item also states that \"you receive more favorable trades with Anteverse XXXIII\", but this affects nothing. cannot be repaired, but regenerates 2 points of durability every 60 seconds.",
-  "icon": ""
+  "summary": "While worn, the hostile Hexed Trees in Canaan will not attack the player, even after being attacked themselves. The item also states that \"you receive more favorable trades with Anteverse XXXIII\", but this affects nothing. Accursed Hood cannot be repaired, but regenerates 2 points of durability every 60 seconds."
  },
  {
   "name": "Alpha Helmet",
@@ -256,8 +247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Alpine Pack",
@@ -282,8 +272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. Similar to the Research Pack, it has 30 inventory slots with better weight reduction. It also has +1 cold resistance.",
-  "icon": ""
+  "summary": "Alpine Pack is a gear item in Abiotic Factor. Similar to the Research Pack, it has 30 inventory slots with better weight reduction. It also has +1 cold resistance."
  },
  {
   "name": "Anteplate Gauntlets",
@@ -308,8 +297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Anteplate Helm",
@@ -334,8 +322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Anteplate Plackart",
@@ -360,8 +347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Anteplate Sabatons",
@@ -386,8 +372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Baseball Cap",
@@ -412,8 +397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Basic Backpack",
@@ -438,8 +422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Office Sector === * Level 2 ** Reception supply closet. ** Gym locker room. ** Gym upper level, next to Dr Shepherd. ** Ceiling above flooded room. ** Data Farm. *** Enclosed office. *** Bathroom, up ladder. ** Security Office. * Level 3 ** Area with TV overlooking Silo 2. ** Silo 3 upper level.",
-  "icon": "/icons/Basic_Backpack.png"
+  "summary": "Basic Backpack is a gear item in Abiotic Factor. It allows the player to carry more items."
  },
  {
   "name": "Beanie",
@@ -464,8 +447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Beekeeper Suit",
@@ -490,8 +472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Behemoth Helmet",
@@ -516,8 +497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Bindings of Malediction",
@@ -542,8 +522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Hexed Skin",
   "setBonusFull": "Hexed Soul",
-  "summary": "",
-  "icon": ""
+  "summary": "Bindings of Malediction cannot be repaired, but regenerates 2 points of durability every 60 seconds."
  },
  {
   "name": "Bio-Fusion Imitator",
@@ -568,8 +547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a trinket in Abiotic Factor. Crafting it requires Level 18 Accuracy.",
-  "icon": ""
+  "summary": "Bio-Fusion Imitator is a trinket in Abiotic Factor. Crafting it requires Level 18 Accuracy."
  },
  {
   "name": "Bio-Metric Armwraps",
@@ -594,8 +572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It is required to able to use the Montese SMG, Talagi Magnum and Romag Shotgun.",
-  "icon": ""
+  "summary": "It is required to able to use the Montese SMG, Talagi Magnum and Romag Shotgun."
  },
  {
   "name": "Bio-Mimic Armwraps",
@@ -620,8 +597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. Crafting or equipping them requires Level 15 Accuracy.",
-  "icon": ""
+  "summary": "Bio-Mimic Armwraps is a gear item in Abiotic Factor. Crafting or equipping them requires Level 15 Accuracy."
  },
  {
   "name": "Bionic Legs",
@@ -646,8 +622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Wearing them make it so the player character's legs can not break from falling from high heights and grants a +20% increase in movement speed.",
-  "icon": ""
+  "summary": "Wearing them make it so the player character's legs can not break from falling from high heights and grants a +20% increase in movement speed."
  },
  {
   "name": "Blacksmithing Apron",
@@ -672,8 +647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* Despite providing little armor to begin with is coded specifically to not protect against Sharp Damage. Category: Chest Armor",
-  "icon": ""
+  "summary": "* Despite providing little armor to begin with Blacksmithing Apron is coded specifically to not protect against Sharp Damage. Category: Chest Armor"
  },
  {
   "name": "Blacksmithing Gloves",
@@ -698,8 +672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Manufacturing West === * In the Supply Room. * Going past The Blacksmith, in a room with some tents set up. * In the container up above, where The Blacksmith is. * Inside Shipping, heading towards Shipping Logistics. There is a man called Hank. From here: ** Go upstairs, right, and into the small office room. The Gloves are on the desk. ** Go through his office and near the crane, on a single GATE Box are the Gloves. ** Go straight; at the end, turn left through the containers with metal ramps, on the right before the yellow doors are boxes, near them are the Gloves.",
-  "icon": ""
+  "summary": "=== Manufacturing West === * In the Supply Room. * Going past The Blacksmith, in a room with some tents set up. * In the container up above, where The Blacksmith is. * Inside Shipping, heading towards Shipping Logistics. There is a man called Hank. From here: ** Go upstairs, right, and into the small office room. The Gloves are on the desk. ** Go through his office and near the crane, on a single GATE Box are the Gloves. ** Go straight; at the end, turn left through the containers with metal ramps, on the right before the yellow doors are boxes, near them are the Gloves."
  },
  {
   "name": "Bonnet",
@@ -724,8 +697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Security Sector === * The grey can be found on a Lab Rat's corpse in the Security Sector, next to the Order Terminal between doors 3 and 4.",
-  "icon": ""
+  "summary": "=== Security Sector === * The grey Bonnet can be found on a Lab Rat's corpse in the Security Sector, next to the Order Terminal between doors 3 and 4."
  },
  {
   "name": "Breacher Helmet",
@@ -750,8 +722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Breastplate of Hex",
@@ -776,8 +747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Hexed Skin",
   "setBonusFull": "Hexed Soul",
-  "summary": "",
-  "icon": ""
+  "summary": "Breastplate of Hex cannot be repaired, but regenerates 2 points of durability every 60 seconds."
  },
  {
   "name": "Bucket Hat",
@@ -802,8 +772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "There are currently four variants in-game, a blue, grey, red and green variant.",
-  "icon": ""
+  "summary": "There are currently four variants in-game, a blue, grey, red and green variant."
  },
  {
   "name": "CQC Helmet",
@@ -828,8 +797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Captain's Beret",
@@ -854,8 +822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": "The Blacksmith will sell 1 Blacksmithing Gloves for 1 Captain's Beret. Category:Head Armor"
  },
  {
   "name": "Carapace Gauntlets",
@@ -880,8 +847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carapace Helm",
@@ -906,8 +872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carapace Plackart",
@@ -932,8 +897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carapace Sabatons",
@@ -958,8 +922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carbuncle Balloon",
@@ -984,8 +947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carbuncle Crest",
@@ -1010,8 +972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Carbuncle Crown",
@@ -1036,8 +997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Carbuncle_Crown.png"
+  "summary": ""
  },
  {
   "name": "Cascade Gauntlets",
@@ -1062,8 +1022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cascade Hauberk",
@@ -1088,8 +1047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cascade Helm",
@@ -1114,8 +1072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cascade Legplates",
@@ -1140,8 +1097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Cerenkov Legplates",
@@ -1166,8 +1122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Gamma Converter",
   "setBonusFull": "Gamma God",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Charge Shield",
@@ -1192,8 +1147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Charge Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Chef Apron",
@@ -1218,8 +1172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Office Sector === * Level 1 ** Cafeteria kitchen. * Level 2 ** Kitchen between Gym locker room and Data Farm. ** Close to Security Office locker room. * Level 3 ** Break Room. ** Small kitchen area under the Analysis Office.",
-  "icon": ""
+  "summary": "=== Office Sector === * Level 1 ** Cafeteria kitchen. * Level 2 ** Kitchen between Gym locker room and Data Farm. ** Close to Security Office locker room. * Level 3 ** Break Room. ** Small kitchen area under the Analysis Office."
  },
  {
   "name": "Chef Hat",
@@ -1244,8 +1197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Office Sector === * Level 1 ** In the Cafeteria's kitchen. ** In the men's bathroom, inside the janitor's closet. * Level 2 ** Kitchen between the Gym locker room and the Data Farm. * Level 3 ** In the break room. ** Small kitchen area under the Analysis Office.",
-  "icon": "/icons/Chef_Hat.png"
+  "summary": "=== Office Sector === * Level 1 ** In the Cafeteria's kitchen. ** In the men's bathroom, inside the janitor's closet. * Level 2 ** Kitchen between the Gym locker room and the Data Farm. * Level 3 ** In the break room. ** Small kitchen area under the Analysis Office."
  },
  {
   "name": "Chieftain Pack",
@@ -1270,8 +1222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. It allows the player to carry more items.",
-  "icon": ""
+  "summary": "Chieftain Pack is a gear item in Abiotic Factor. It allows the player to carry more items."
  },
  {
   "name": "Clamp Shield",
@@ -1296,8 +1247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Clamp Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Cold Storage Pack",
@@ -1322,8 +1272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It can hold 30 items, reduces weight by 22%. It has 1 Freezer Slot and 2 Refrigerated Slots.",
-  "icon": ""
+  "summary": "It can hold 30 items, reduces weight by 22%. It has 1 Freezer Slot and 2 Refrigerated Slots."
  },
  {
   "name": "Commander's Cap",
@@ -1348,8 +1297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. It is the same cap worn by Commander Fili in Royal Range.",
-  "icon": ""
+  "summary": "Commander's Cap is a gear item in Abiotic Factor. It is the same cap worn by Commander Fili in Royal Range."
  },
  {
   "name": "Containment Gloves",
@@ -1374,8 +1322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Cascade Laboratories === * Level 2 ** In the Wildlife Pens. ** In the Supply Room close to the Lobby. ** In the Containment area, in the Assessment room. ** In the Containment area, inside a room close to a Containment Bot. ** In the Containment area, in the locker room upstairs from the Tram station. ** In the Containment area, in the back of a truck that is in the large area where the Tarasque is. ** In the Containment area, inside of a cell with a Snag Vine Seed, close to where Dr. Petra Peters is. * Level 3 ** In Adjustment, in a small room on the second level where there are some cabi",
-  "icon": ""
+  "summary": "=== Cascade Laboratories === * Level 2 ** In the Wildlife Pens. ** In the Supply Room close to the Lobby. ** In the Containment area, in the Assessment room. ** In the Containment area, inside a room close to a Containment Bot. ** In the Containment area, in the locker room upstairs from the Tram station. ** In the Containment area, in the back of a truck that is in the large area where the Tarasque is. ** In the Containment area, inside of a cell with a Snag Vine Seed, close to where Dr. Petra Peters is. * Level 3 ** In Adjustment, in a small room on the second level where there are some cabi"
  },
  {
   "name": "Core Companion",
@@ -1400,8 +1347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Corn Husk Doll",
@@ -1426,8 +1372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Wearing it reduces the rate at which Hunger decreases by 50%, but also reduces the player's maximum HP by 15%.",
-  "icon": ""
+  "summary": "Wearing it reduces the rate at which Hunger decreases by 50%, but also reduces the player's maximum HP by 15%."
  },
  {
   "name": "Cowboy Hat",
@@ -1452,8 +1397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Crystalline Casque",
@@ -1478,8 +1422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Crystalline Couters",
@@ -1504,8 +1447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Crystalline Cuirass",
@@ -1530,8 +1472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Crystalline Cuisses",
@@ -1556,8 +1497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Crystalline Vial",
@@ -1582,8 +1522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When equipped, the will reveal invisible entities, such as the crystalline IS-0139 when nearby the player. It will also passively charge any items in the player's inventory that has a battery, at a rate of 1 energy point every 4 seconds. This does not work on items charged by laser.",
-  "icon": ""
+  "summary": "When equipped, the Crystalline Vial will reveal invisible entities, such as the crystalline IS-0139 when nearby the player. It will also passively charge any items in the player's inventory that has a battery, at a rate of 1 energy point every 4 seconds. This does not work on items charged by laser."
  },
  {
   "name": "Cushion Chestplate",
@@ -1608,8 +1547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Dangling Gravity Cube",
@@ -1634,8 +1572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It allows the player to jump higher and slow their descent when falling. It also emits a short-ranged blue light around the player character when equipped.",
-  "icon": ""
+  "summary": "It allows the player to jump higher and slow their descent when falling. It also emits a short-ranged blue light around the player character when equipped."
  },
  {
   "name": "Diving Suit",
@@ -1660,8 +1597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "While worn, swim speed is doubled, the player can stay underwater for much longer before needing to surface for air, and grants the abilitity to see much clearer underwater like the Swim Goggles do.",
-  "icon": ""
+  "summary": "While worn, swim speed is doubled, the player can stay underwater for much longer before needing to surface for air, and grants the abilitity to see much clearer underwater like the Swim Goggles do."
  },
  {
   "name": "Driving Cap",
@@ -1686,8 +1622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Dunkeltaler Backpack",
@@ -1712,8 +1647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Dunkeltaler Forest === * Found at the top of Dish F, in front of the door. Category:Backpack",
-  "icon": ""
+  "summary": "Dunkeltaler Backpack is a gear item in Abiotic Factor. It allows the player to carry more items."
  },
  {
   "name": "Egg Head",
@@ -1738,8 +1672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Employee Locator",
@@ -1764,8 +1697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "While the is worn, the player can see other nearby scientists and NPCs through walls and obstacles. The also makes the wearer visible to other nearby players. Players can hide and negate the effect by sneaking.",
-  "icon": ""
+  "summary": "While the Employee Locator is worn, the player can see other nearby scientists and NPCs through walls and obstacles. The Employee Locator also makes the wearer visible to other nearby players. Players can hide and negate the effect by sneaking."
  },
  {
   "name": "Excursion Suit",
@@ -1790,8 +1722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Enables double-jumping, increases movement speed by 20%, decreases aim sway by 0.025, reduces radiation absorbed by 25%, and decreases stamina drain by 25%.",
-  "icon": ""
+  "summary": "Enables double-jumping, increases movement speed by 20%, decreases aim sway by 0.025, reduces radiation absorbed by 25%, and decreases stamina drain by 25%."
  },
  {
   "name": "Exor Hood",
@@ -1816,8 +1747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Exor Agility",
   "setBonusFull": "Spirit of the Exor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exor Shinguards",
@@ -1842,8 +1772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Exor Agility",
   "setBonusFull": "Spirit of the Exor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exor Spines",
@@ -1868,8 +1797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Exor Agility",
   "setBonusFull": "Spirit of the Exor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exor Straps",
@@ -1894,8 +1822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Exor Agility",
   "setBonusFull": "Spirit of the Exor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exsurgo Armwraps",
@@ -1920,8 +1847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Anointed Warden",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exsurgo Shinguards",
@@ -1946,8 +1872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Anointed Warden",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exsurgo Tactical Plate",
@@ -1972,8 +1897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Anointed Warden",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Extemp Armwraps",
@@ -1998,8 +1922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Extemp Chestplate",
@@ -2024,8 +1947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Extemp Helmet",
@@ -2050,8 +1972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Extemp Legwraps",
@@ -2076,8 +1997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exulum Bindings",
@@ -2102,8 +2022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Burden",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exulum Ribcage",
@@ -2128,8 +2047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Burden",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Exulum Shackles",
@@ -2154,8 +2072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Burden",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "F.O.R.G.E. Chestplate",
@@ -2180,8 +2097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "F.O.R.G.E. Greaves",
@@ -2206,8 +2122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "F.O.R.G.E. Helmet",
@@ -2232,8 +2147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "F.O.R.G.E. Pauldrons",
@@ -2258,8 +2172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defiance",
   "setBonusFull": "The Resistance",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Field Sample Pack",
@@ -2284,8 +2197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The changes the Cooling Slot of the Research Pack for a Warming Slot (which causes cold items to decay faster and hot items like Mug of Coffee to stay hot longer), and adds one additional radiation Shielded Slot in the inventory, bringing the total to 2 radiation Shielded Slots.",
-  "icon": ""
+  "summary": "The Field Sample Pack changes the Cooling Slot of the Research Pack for a Warming Slot (which causes cold items to decay faster and hot items like Mug of Coffee to stay hot longer), and adds one additional radiation Shielded Slot in the inventory, bringing the total to 2 radiation Shielded Slots."
  },
  {
   "name": "Fire Proximity Suit",
@@ -2310,8 +2222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. While equipped, the wearer gains a much higher heat tolerance from areas such as The Mycofields.",
-  "icon": ""
+  "summary": "Fire Proximity Suit is a gear item in Abiotic Factor. While equipped, the wearer gains a much higher heat tolerance from areas such as The Mycofields."
  },
  {
   "name": "Floppy Hat",
@@ -2336,8 +2247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "There are currently two variants of the Floppy Hat in-game, a blue and orange variant.",
-  "icon": ""
+  "summary": "There are currently two variants of the Floppy Hat in-game, a blue and orange variant."
  },
  {
   "name": "Fog Lantern",
@@ -2362,8 +2272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The gives the Fog Lantern status effect, which halves stamina drain. This effect only applies during a Fog Phenomenon, in Flathill, or when wearing the full set of Maestro Armor. The Fog Lantern also acts as bait for the Chordfish, increasing the chance of catching the fish in appropriate waters (i.e. the Flathill fountain) and allowing the rare variant of the fish, the Osseous Chordfish, to be caught.",
-  "icon": ""
+  "summary": "The Fog Lantern gives the Fog Lantern status effect, which halves stamina drain. This effect only applies during a Fog Phenomenon, in Flathill, or when wearing the full set of Maestro Armor. The Fog Lantern also acts as bait for the Chordfish, increasing the chance of catching the fish in appropriate waters (i.e. the Flathill fountain) and allowing the rare variant of the fish, the Osseous Chordfish, to be caught."
  },
  {
   "name": "Gardening Gloves",
@@ -2388,8 +2297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Geiger Counter Keychain",
@@ -2414,8 +2322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Wearing it causes a permanent reading of the Environmental Radiation to appear above the Hotbar, as if a regular Geiger Counter was held in hand. However, it cannot display readings of the player's radiation dosage. If a Geiger Counter is held while the is equipped, its display replaces the Keychain's.",
-  "icon": ""
+  "summary": "Wearing it causes a permanent reading of the Environmental Radiation to appear above the Hotbar, as if a regular Geiger Counter was held in hand. However, it cannot display readings of the player's radiation dosage. If a Geiger Counter is held while the Geiger Counter Keychain is equipped, its display replaces the Keychain's."
  },
  {
   "name": "Gel Tube",
@@ -2440,8 +2347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It emits a short-ranged orange light source around the player character when equipped.",
-  "icon": ""
+  "summary": "It emits a short-ranged orange light source around the player character when equipped."
  },
  {
   "name": "Giant's Pack",
@@ -2466,8 +2372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. It allows the player to carry more items.",
-  "icon": ""
+  "summary": "Giant's Pack is a gear item in Abiotic Factor. It allows the player to carry more items."
  },
  {
   "name": "Glitch Pack",
@@ -2492,8 +2397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It has 1 Shielded Slot, 1 Refrigerated Slot, 1 Freezer Slot and 1 Warming Slot.",
-  "icon": ""
+  "summary": "It has 1 Shielded Slot, 1 Refrigerated Slot, 1 Freezer Slot and 1 Warming Slot."
  },
  {
   "name": "Glow Shard",
@@ -2518,8 +2422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It emits a short-ranged white light source around the player character when equipped.",
-  "icon": ""
+  "summary": "It emits a short-ranged white light source around the player character when equipped."
  },
  {
   "name": "Golden Wreath",
@@ -2544,8 +2447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Temple of Stone === * In a room available after completing it's secret puzzle on a statue. Category:Head Armor",
-  "icon": ""
+  "summary": "=== Temple of Stone === * In a room available after completing it's secret puzzle on a statue. Category:Head Armor"
  },
  {
   "name": "Greek Bracers",
@@ -2570,8 +2472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Greek Greaves",
@@ -2596,8 +2497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Greek Helmet",
@@ -2622,8 +2522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Greek Linothorax",
@@ -2648,8 +2547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Hard Hat",
@@ -2674,8 +2572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The has seven different color variants. These colors are red, yellow, green, blue, white, grey, and brown.",
-  "icon": ""
+  "summary": "The Hard Hat has seven different color variants. These colors are red, yellow, green, blue, white, grey, and brown."
  },
  {
   "name": "Hardlight Shield",
@@ -2700,8 +2597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor. A shield with a refractable shield made of hardlight, capable of deflecting enemy projectiles.",
-  "icon": ""
+  "summary": "Hardlight Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor. A shield with a refractable shield made of hardlight, capable of deflecting enemy projectiles."
  },
  {
   "name": "Hardlight Shield Generator",
@@ -2726,8 +2622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Produces a Hardlight Shield that blocks physical attacks. It has 150 health. It regenerates 10 shield health per second, after a delay of 7 seconds when damaged and 15 seconds when fully depleted. When the trinket is equipped, it starts at 0 shield health and has a 15 second delay before it recharges. Equipped armor values do not impact how much damage the shield can absorb.",
-  "icon": ""
+  "summary": "Produces a Hardlight Shield that blocks physical attacks. It has 150 health. It regenerates 10 shield health per second, after a delay of 7 seconds when damaged and 15 seconds when fully depleted. When the trinket is equipped, it starts at 0 shield health and has a 15 second delay before it recharges. Equipped armor values do not impact how much damage the shield can absorb."
  },
  {
   "name": "Hasta Tria's Right Boot",
@@ -2752,8 +2647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "For 5 minutes after traveling through any portal, items collected from a resource node have a 40% chance per node to have their quantities increased by 1. Portals include those leading to and from Anteverses, portals generated by Teleporter Pads, and most other similar effects, but does not include Personal Teleporters.",
-  "icon": ""
+  "summary": "For 5 minutes after traveling through any portal, items collected from a resource node have a 40% chance per node to have their quantities increased by 1. Portals include those leading to and from Anteverses, portals generated by Teleporter Pads, and most other similar effects, but does not include Personal Teleporters."
  },
  {
   "name": "Hazardous Materials Suit",
@@ -2778,8 +2672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* Level 2 ** In a room upstairs from the lobby, close to the toilets. ** In the Wildlife Pens. ** Two can be found close to where the Dark Lens was stolen from and close to Dr. Newman, where the portal to Rise opens up. * Level 3 ** In Adjustment, close to a Dr. Manse Hologram. ** In Adjustment, two can be found upstairs, close to some lockers. ** In Adjustment, inside the Holding Cell (accessed by being captured by the nearby Containment Bot or through a nearby hatch above a dumpster).",
-  "icon": "/icons/Hazardous_Materials_Suit.png"
+  "summary": "* Level 2 ** In a room upstairs from the lobby, close to the toilets. ** In the Wildlife Pens. ** Two can be found close to where the Dark Lens was stolen from and close to Dr. Newman, where the portal to Rise opens up. * Level 3 ** In Adjustment, close to a Dr. Manse Hologram. ** In Adjustment, two can be found upstairs, close to some lockers. ** In Adjustment, inside the Holding Cell (accessed by being captured by the nearby Containment Bot or through a nearby hatch above a dumpster)."
  },
  {
   "name": "Heater Shield",
@@ -2804,8 +2697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Heater Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Hexwood Shield",
@@ -2830,8 +2722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Hexwood Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "High Inquisitor Suit",
@@ -2856,8 +2747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "High-Vis Vest",
@@ -2882,8 +2772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "There are currently two variants of the High-Vis Vest in-game, a orange and blue variant.",
-  "icon": ""
+  "summary": "There are currently two variants of the High-Vis Vest in-game, a orange and blue variant."
  },
  {
   "name": "Hiking Pack",
@@ -2908,8 +2797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Horned Helmet",
@@ -2934,8 +2822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Hydroplant Hat",
@@ -2960,8 +2847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. It seems to be an advanced Hard Hat with added hearing protection.",
-  "icon": ""
+  "summary": "Hydroplant Hat is a gear item in Abiotic Factor. It seems to be an advanced Hard Hat with added hearing protection."
  },
  {
   "name": "Hyperion Gauntlets",
@@ -2986,8 +2872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Hyperion Hauberk",
@@ -3012,8 +2897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Hyperion Helm",
@@ -3038,8 +2922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Hyperion Legplates",
@@ -3064,8 +2947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Motion Sensor",
   "setBonusFull": "Threat Sensor",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Interfection Katar",
@@ -3090,8 +2972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a bladed weapon placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Interfection Katar is a bladed weapon placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Interfector Breeches",
@@ -3116,8 +2997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Interfector Chestwraps",
@@ -3142,8 +3022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Interfector Helm",
@@ -3168,8 +3047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Interfector Sleeves",
@@ -3194,8 +3072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Ionized Coreplate",
@@ -3220,8 +3097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Gamma Converter",
   "setBonusFull": "Gamma God",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Jack O' Lantern Mask",
@@ -3246,8 +3122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Jester Cap",
@@ -3272,8 +3147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Office Sector === * Level 3 ** It is inside a room locked by a Tier 2 keypad above the entrance to Silo 3.",
-  "icon": ""
+  "summary": "=== Office Sector === * Level 3 ** It is inside a room locked by a Tier 2 keypad above the entrance to Silo 3."
  },
  {
   "name": "Jinxed Shinplates",
@@ -3298,8 +3172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Hexed Skin",
   "setBonusFull": "Hexed Soul",
-  "summary": "",
-  "icon": ""
+  "summary": "Jinxed Shinplates cannot be repaired, but regenerates 2 points of durability every 60 seconds."
  },
  {
   "name": "Jolly Cap",
@@ -3324,8 +3197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Jotunhelm",
@@ -3350,8 +3222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Jugaar Armwraps",
@@ -3376,8 +3247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Jugaar Chestplate",
@@ -3402,8 +3272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Jugaar Helmet",
@@ -3428,8 +3297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Jugaar Legwraps",
@@ -3454,8 +3322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Karate Helmet",
@@ -3480,8 +3347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. The karate helmet has four color variants. These colors are red, blue, white, and grey.",
-  "icon": ""
+  "summary": "Karate Helmet is a gear item in Abiotic Factor. The karate helmet has four color variants. These colors are red, blue, white, and grey."
  },
  {
   "name": "Kintsugi Adornments",
@@ -3506,8 +3372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Kintsugi Casque",
@@ -3532,8 +3397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Kintsugi Greaves",
@@ -3558,8 +3422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Kintsugi Vambraces",
@@ -3584,8 +3447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Kite Shield",
@@ -3610,8 +3472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Kite Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Kylie (Shield Generator)",
@@ -3636,8 +3497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Upgrading Kylie into the Shield Generator trinket has no effect on her story. She does not retain the original trinket's buff of 10% experience gain for skills while equipped. If the player has talked to the Waterbot with Kylie equipped, she will occasionally speak to the player while equipped. She shows concern and offers encouragement while players are in combat, will warn the player of IS-0091 when it is nearby, will comment on reading terminals, and will bid players goodnight whenever they sleep. Kylie's Shield Generator form functions as an improved version of the original Hardlight Shiel",
-  "icon": ""
+  "summary": "Upgrading Kylie into the Shield Generator trinket has no effect on her story. She does not retain the original trinket's buff of 10% experience gain for skills while equipped. If the player has talked to the Waterbot with Kylie equipped, she will occasionally speak to the player while equipped. She shows concern and offers encouragement while players are in combat, will warn the player of IS-0091 when it is nearby, will comment on reading terminals, and will bid players goodnight whenever they sleep. Kylie's Shield Generator form functions as an improved version of the original Hardlight Shiel"
  },
  {
   "name": "Kylie (Trinket)",
@@ -3662,8 +3522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Lab Gloves",
@@ -3688,8 +3547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Lab Mask",
@@ -3714,8 +3572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The lab mask has nine color variants, all changing the color of the visor. These colors are clear, red, pink, yellow, orange, green, blue, purple, and black.",
-  "icon": ""
+  "summary": "The lab mask has nine color variants, all changing the color of the visor. These colors are clear, red, pink, yellow, orange, green, blue, purple, and black."
  },
  {
   "name": "Larva Suit",
@@ -3740,8 +3597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Larvae are no longer hostile to a player wearing the suit (note that they will still be hostile to any deployed buildings), and the player is unaffected by the slowing effects of goo splats. The player's movement while wearing the suit is a little slippery, as if they are walking on ice. A player who is wearing the suit may speak to and trade with the Big Hive Larva (Trader).",
-  "icon": ""
+  "summary": "Larvae are no longer hostile to a player wearing the suit (note that they will still be hostile to any deployed buildings), and the player is unaffected by the slowing effects of goo splats. The player's movement while wearing the suit is a little slippery, as if they are walking on ice. A player who is wearing the suit may speak to and trade with the Big Hive Larva (Trader)."
  },
  {
   "name": "Lead Vest",
@@ -3766,8 +3622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Office Sector === * Level 2 ** Bio Lab D. ** Data Farms, close to Dr. Manse's Hologram. ** Security Office. * Level 3 ** Silo 3 viewing area. ** Small room under Analysis Office (between kitchen and Physics Lab D). ** Silo 3 ** Physics Lab D.",
-  "icon": ""
+  "summary": "=== Office Sector === * Level 2 ** Bio Lab D. ** Data Farms, close to Dr. Manse's Hologram. ** Security Office. * Level 3 ** Silo 3 viewing area. ** Small room under Analysis Office (between kitchen and Physics Lab D). ** Silo 3 ** Physics Lab D."
  },
  {
   "name": "Legate Bracers",
@@ -3792,8 +3647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Rite of Command",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Legate Chestplate",
@@ -3818,8 +3672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Rite of Command",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Legate Legguards",
@@ -3844,8 +3697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Rite of Command",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Lodestone Shield",
@@ -3870,8 +3722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Lodestone Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Lucent Casque",
@@ -3896,8 +3747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Lucent Couters",
@@ -3922,8 +3772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Lucent Cuirass",
@@ -3948,8 +3797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Lucent Cuisses",
@@ -3974,8 +3822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Crystalline Reflection",
   "setBonusFull": "Crystalline Cloak",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Lucky Fishing Hat",
@@ -4000,8 +3847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. The recipe, alongside Mud Waders, is unlocked when reaching Level 10 in the Fishing skill.",
-  "icon": ""
+  "summary": "Lucky Fishing Hat is a gear item in Abiotic Factor. The recipe, alongside Mud Waders, is unlocked when reaching Level 10 in the Fishing skill."
  },
  {
   "name": "Maestro Adornments",
@@ -4026,8 +3872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Maestro Casque",
@@ -4052,8 +3897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Maestro Greaves",
@@ -4078,8 +3922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Maestro Vambraces",
@@ -4104,8 +3947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Makeshift Armwraps",
@@ -4130,8 +3972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Makeshift Backpack",
@@ -4156,8 +3997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Makeshift Chestplate",
@@ -4182,8 +4022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Makeshift Helmet",
@@ -4208,8 +4047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Makeshift Legwraps",
@@ -4234,8 +4072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Medic Helmet",
@@ -4260,8 +4097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Military Pack",
@@ -4286,8 +4122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* Particle Lab, around the back of this area where there are many wooden boxes. Category:Backpack",
-  "icon": ""
+  "summary": "* Particle Lab, around the back of this area where there are many wooden boxes. Category:Backpack"
  },
  {
   "name": "Mountaineer Armguards",
@@ -4312,8 +4147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Mountaineer",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mountaineer Chestplate",
@@ -4338,8 +4172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Mountaineer",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mountaineer Helmet",
@@ -4364,8 +4197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mountaineer Leggings",
@@ -4390,8 +4222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Mountaineer",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mud Waders",
@@ -4416,8 +4247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Wearing the will give the Muckraker effect, which will make it so the player only catches junk while Fishing.",
-  "icon": ""
+  "summary": "Wearing the Mud Waders will give the Muckraker effect, which will make it so the player only catches junk while Fishing."
  },
  {
   "name": "Mushroom Helmet",
@@ -4442,8 +4272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mystagogue Crown",
@@ -4468,8 +4297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Stabilization Matrix",
   "setBonusFull": "Mystagogue's Gaze",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mystagogue Gaskins",
@@ -4494,8 +4322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Stabilization Matrix",
   "setBonusFull": "Mystagogue's Gaze",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mystagogue Glove",
@@ -4520,8 +4347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Mystagogue Glove is a weapon placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Mystagogue Shawl",
@@ -4546,8 +4372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Stabilization Matrix",
   "setBonusFull": "Mystagogue's Gaze",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Mystagogue Wraps",
@@ -4572,8 +4397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Stabilization Matrix",
   "setBonusFull": "Mystagogue's Gaze",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Neutrino Lantern",
@@ -4598,8 +4422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It emits a short-ranged yellow light source around the player character when equipped.",
-  "icon": ""
+  "summary": "It emits a short-ranged yellow light source around the player character when equipped."
  },
  {
   "name": "Night Helmet",
@@ -4624,8 +4447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When worn, it acts as bait for Inkfish, increases the chance of catching the base variety, and allowing the rare variant Sable Inkfish to be caught. In addition, it reduces Fatigue drain by 10% while worn.",
-  "icon": ""
+  "summary": "When worn, it acts as bait for Inkfish, increases the chance of catching the base variety, and allowing the rare variant Sable Inkfish to be caught. In addition, it reduces Fatigue drain by 10% while worn."
  },
  {
   "name": "Night Pass",
@@ -4650,8 +4472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "While the is worn, the player is ignored by Security Bots, Containment Bots, and Defense Bots, unless they attack one.",
-  "icon": ""
+  "summary": "While the Night Pass is worn, the player is ignored by Security Bots, Containment Bots, and Defense Bots, unless they attack one."
  },
  {
   "name": "Nucleus Helm",
@@ -4676,8 +4497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Gamma Converter",
   "setBonusFull": "Gamma God",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Ogre Doll",
@@ -4702,8 +4522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Increases damage against large enemies by 30%. Enemies affected include Armored Exor, Volatile Exor, Tarasque, Behemoth, Jotun, Bogman, Yeti, Bigogi, Security Bot, Containment Bot, Defense Bot, Corrupted Bot.",
-  "icon": ""
+  "summary": "Increases damage against large enemies by 30%. Enemies affected include Armored Exor, Volatile Exor, Tarasque, Behemoth, Jotun, Bogman, Yeti, Bigogi, Security Bot, Containment Bot, Defense Bot, Corrupted Bot."
  },
  {
   "name": "Order Helmet",
@@ -4728,8 +4547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Order_Helmet.png"
+  "summary": ""
  },
  {
   "name": "Peccary Helmet",
@@ -4754,8 +4572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Peccary_Helmet.png"
+  "summary": ""
  },
  {
   "name": "Pet Rock",
@@ -4780,8 +4597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The trinket gives +5% bonus XP for the lowest-ranked skill. Equipping the trinket will help players catch up in a skill behind the furthest.",
-  "icon": ""
+  "summary": "The trinket gives +5% bonus XP for the lowest-ranked skill. Equipping the trinket will help players catch up in a skill behind the furthest."
  },
  {
   "name": "Pilgrim Hat",
@@ -4806,8 +4622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Plasmatic Shield",
@@ -4832,8 +4647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Plasmatic Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Plastic Shield",
@@ -4858,8 +4672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor. It is used to block light enemy attacks, preventing all damage from those attacks that are blocked.",
-  "icon": ""
+  "summary": "Plastic Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor. It is used to block light enemy attacks, preventing all damage from those attacks that are blocked."
  },
  {
   "name": "Plutonium Keychain",
@@ -4884,8 +4697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Pocket Dimension",
@@ -4910,8 +4722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. It allows the player to carry more items.",
-  "icon": ""
+  "summary": "Pocket Dimension is a gear item in Abiotic Factor. It allows the player to carry more items."
  },
  {
   "name": "Preacher's Hat",
@@ -4936,8 +4747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Puffy Coat",
@@ -4962,8 +4772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Radiation Vest",
@@ -4988,8 +4797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It is identical to the Lead Vest, except for higher defense and a red coloration.",
-  "icon": ""
+  "summary": "It is identical to the Lead Vest, except for higher defense and a red coloration."
  },
  {
   "name": "Radio Pack",
@@ -5014,8 +4822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Radion Armplates",
@@ -5040,8 +4847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Gamma Converter",
   "setBonusFull": "Gamma God",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Rat Pack",
@@ -5066,8 +4872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item in Abiotic Factor. It allows the player to hold additional 18 items in their inventory at expense of having no weight reduction.",
-  "icon": ""
+  "summary": "Rat Pack is a gear item in Abiotic Factor. It allows the player to hold additional 18 items in their inventory at expense of having no weight reduction."
  },
  {
   "name": "Rat Suit",
@@ -5092,8 +4897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Rat_Suit.png"
+  "summary": ""
  },
  {
   "name": "Renovo Armwraps",
@@ -5118,8 +4922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Renovo Chestplate",
@@ -5144,8 +4947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Renovo Helmet",
@@ -5170,8 +4972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Renovo Legwraps",
@@ -5196,8 +4997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Employee of the Week",
   "setBonusFull": "Employee of the Month",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Research Pack",
@@ -5222,8 +5022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It can hold 30 items, reduces weight by 22%, and makes radiated items in the player's inventory generate 50% less radiation. It has 1 Shielded Slot and 1 Refrigerated Slot.",
-  "icon": ""
+  "summary": "It can hold 30 items, reduces weight by 22%, and makes radiated items in the player's inventory generate 50% less radiation. It has 1 Shielded Slot and 1 Refrigerated Slot."
  },
  {
   "name": "Riot Shield",
@@ -5248,8 +5047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor.",
-  "icon": ""
+  "summary": "Riot Shield is a gear item placed in the Off-Hand Armaments slot of the inventory in Abiotic Factor."
  },
  {
   "name": "Rook Helmet",
@@ -5274,8 +5072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Sagittarii Leggings",
@@ -5300,8 +5097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Assiduity",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Sagittarii Stabilizers",
@@ -5326,8 +5122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Assiduity",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Sagittarii Stealth Plate",
@@ -5352,8 +5147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Assiduity",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Santa Hat",
@@ -5378,8 +5172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Sapper Suit",
@@ -5404,8 +5197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Scarab Gauntlets",
@@ -5430,8 +5222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Scarab Helm",
@@ -5456,8 +5247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Scarab Plackart",
@@ -5482,8 +5272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Scarab Sabatons",
@@ -5508,8 +5297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Prickly",
   "setBonusFull": "Thorns",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Security Arm Guards",
@@ -5534,8 +5322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defender",
   "setBonusFull": "Hold The Line",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Security Cap",
@@ -5560,8 +5347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "There are currently two variants of the Security Cap in-game, a white and dark blue variant.",
-  "icon": ""
+  "summary": "There are currently two variants of the Security Cap in-game, a white and dark blue variant."
  },
  {
   "name": "Security Helmet",
@@ -5586,8 +5372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defender",
   "setBonusFull": "Hold The Line",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Security Leg Protectors",
@@ -5612,8 +5397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defender",
   "setBonusFull": "Hold The Line",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Security Pack",
@@ -5638,8 +5422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Office Sector === * Level 2 ** Area under Data Farm, close to a dead body with a Pest and some other items. ** Security Office locker room.",
-  "icon": ""
+  "summary": "=== Office Sector === * Level 2 ** Area under Data Farm, close to a dead body with a Pest and some other items. ** Security Office locker room."
  },
  {
   "name": "Security Vest",
@@ -5664,8 +5447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "Defender",
   "setBonusFull": "Hold The Line",
-  "summary": "=== Hydroplant === * One on top of a Office L-Desk inside the Electrical Station. * In the Waterfall Apartments, inside the room where the Voidpack recipe is found.",
-  "icon": ""
+  "summary": "=== Hydroplant === * One on top of a Office L-Desk inside the Electrical Station. * In the Waterfall Apartments, inside the room where the Voidpack recipe is found."
  },
  {
   "name": "Sensory Companion",
@@ -5690,8 +5472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The Leyak and Krasue will act as if the wearer can always see it, even from behind.",
-  "icon": ""
+  "summary": "The Leyak and Krasue will act as if the wearer can always see it, even from behind."
  },
  {
   "name": "Shifu Adornments",
@@ -5716,8 +5497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Shifu Casque",
@@ -5742,8 +5522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Shifu Greaves",
@@ -5768,8 +5547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Shifu Vambraces",
@@ -5794,8 +5572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Symphony of String",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Sigil of the Hearth",
@@ -5820,8 +5597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When worn, the increases the quantities of ammo dropped by all Order or Gatekeeper enemies, consistently dropping the maximum possible amount whenever they drop ammo. Additionally, it increases movement speed while in combat by 10%.",
-  "icon": ""
+  "summary": "When worn, the Sigil of the Hearth increases the quantities of ammo dropped by all Order or Gatekeeper enemies, consistently dropping the maximum possible amount whenever they drop ammo. Additionally, it increases movement speed while in combat by 10%."
  },
  {
   "name": "Sniper Cowl",
@@ -5846,8 +5622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Snow Gloves",
@@ -5872,8 +5647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Snow Pants",
@@ -5898,8 +5672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Snow Peccary Helmet",
@@ -5924,8 +5697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Snowman's Gettup",
@@ -5950,8 +5722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Snowman's Scarf",
@@ -5976,8 +5747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Snowman's Top Hat",
@@ -6002,8 +5772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Sow Helmet",
@@ -6028,8 +5797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Spuddy",
@@ -6054,8 +5822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When worn, it increases item drop rates from enemies by a flat 5%. This does not affect items dropped when harvesting remains. The flat addition makes Spuddy more effective when farming rarer item drops, such as keys.",
-  "icon": ""
+  "summary": "When worn, it increases item drop rates from enemies by a flat 5%. This does not affect items dropped when harvesting remains. The flat addition makes Spuddy more effective when farming rarer item drops, such as keys."
  },
  {
   "name": "Strange Top Hat",
@@ -6080,8 +5847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "According to Dr. Manse, the hat produces an apparently unconscious but entirely irresistible urge to remove the hat. Dr. Peters casually removed the hat after voicing her intent to keep it on moments before, and rapidly removed it when it was secured with duct tape. She then had Drs. Manse and Janek physically hold the hat down on her head, which apparently triggered an impressive outburst, with Manse facetiously suggesting that due to the inventiveness of her imprecations, the hat may also enhance the wearers vocabulary.",
-  "icon": ""
+  "summary": "Strange Top Hat is a gear item in Abiotic Factor. It is also known as The Unwearable Hat."
  },
  {
   "name": "Surgical Mask",
@@ -6106,8 +5872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Swamp Hat",
@@ -6132,8 +5897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Swinging Censer",
@@ -6158,8 +5922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When dying, the player is given the option to revive themselves. After doing so, Mercy Received is applied, imposing a cooldown time of five minutes.",
-  "icon": ""
+  "summary": "When dying, the player is given the option to revive themselves. After doing so, Mercy Received is applied, imposing a cooldown time of five minutes."
  },
  {
   "name": "Tarasque Helmet",
@@ -6184,8 +5947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Triarii Armwraps",
@@ -6210,8 +5972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Sacred Path",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Triarii Chest",
@@ -6236,8 +5997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Sacred Path",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Triarii Legguards",
@@ -6262,8 +6022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "Sacred Path",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Voidpack",
@@ -6288,8 +6047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Volatile Helmet",
@@ -6314,8 +6072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Welding Mask",
@@ -6340,8 +6097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Manufacturing West === * In the Supply Room. * Above The Blacksmith, close to a lever that can't be activated. * Inside Shipping Logistics, on top of a metal box, close to a patrolling Grunt and close to the stairs that lead down to Inspection. * Inside Shipping, above the room where Hank Kettle is. * Inside Shipping, close to where the Fibre Optic Cable is required, in the room that leads to Alloy Handling. * In the mines area, close to some carts, in an area with water.",
-  "icon": ""
+  "summary": "=== Manufacturing West === * In the Supply Room. * Above The Blacksmith, close to a lever that can't be activated. * Inside Shipping Logistics, on top of a metal box, close to a patrolling Grunt and close to the stairs that lead down to Inspection. * Inside Shipping, above the room where Hank Kettle is. * Inside Shipping, close to where the Fibre Optic Cable is required, in the room that leads to Alloy Handling. * In the mines area, close to some carts, in an area with water."
  },
  {
   "name": "Well-worn Security Vest",
@@ -6366,8 +6122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Witch Hat",
@@ -6392,8 +6147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Work Gloves",
@@ -6418,8 +6172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": "/icons/Work_Gloves.png"
+  "summary": ""
  },
  {
   "name": "Wreath Crown",
@@ -6444,8 +6197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Yeti Helmet",
@@ -6470,8 +6222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Zip Shield",
@@ -6496,7 +6247,6 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Produces a Hardlight Shield that blocks physical attacks. It has 200 health. It regenerates 30 shield health per second, after a delay of 4 seconds when damaged and 9 seconds when fully depleted. When the trinket is equipped, it starts at 0 shield health and has a 9 second delay before it recharges. Equipped armor values do not impact how much damage the shield can absorb.",
-  "icon": ""
+  "summary": "Produces a Hardlight Shield that blocks physical attacks. It has 200 health. It regenerates 30 shield health per second, after a delay of 4 seconds when damaged and 9 seconds when fully depleted. When the trinket is equipped, it starts at 0 shield health and has a 9 second delay before it recharges. Equipped armor values do not impact how much damage the shield can absorb."
  }
 ]

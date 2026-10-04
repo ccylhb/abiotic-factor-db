@@ -22,8 +22,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": "/icons/308_Ammo.png"
+  "summary": ".308 Ammo can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='.308 Ammo' OR weaponAmmoItem2='.308 Ammo' OR weaponAmmoItem3='.308 Ammo' OR weaponAmmoItem4='.308 Ammo'"
  },
  {
   "name": ".357 Magnum Ammo",
@@ -48,8 +47,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": ".357 Magnum Ammo can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='.357 Magnum Ammo' OR weaponAmmoItem2='.357 Magnum Ammo' OR weaponAmmoItem3='.357 Magnum Ammo' OR weaponAmmoItem4='.357 Magnum Ammo'"
  },
  {
   "name": "12g Buckshot",
@@ -74,8 +72,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "12g Buckshot can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='12g Buckshot' OR weaponAmmoItem2='12g Buckshot' OR weaponAmmoItem3='12g Buckshot' OR weaponAmmoItem4='12g Buckshot'"
  },
  {
   "name": "5.56 Ammo",
@@ -100,8 +97,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "5.56 Ammo can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='5.56 Ammo' OR weaponAmmoItem2='5.56 Ammo' OR weaponAmmoItem3='5.56 Ammo' OR weaponAmmoItem4='5.56 Ammo'"
  },
  {
   "name": "9mm Ammo",
@@ -126,8 +122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": "/icons/9mm_Ammo.png"
+  "summary": "9mm Ammo can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='9mm Ammo' OR weaponAmmoItem2='9mm Ammo' OR weaponAmmoItem3='9mm Ammo' OR weaponAmmoItem4='9mm Ammo' order by=tier"
  },
  {
   "name": "Acid Bolt",
@@ -152,8 +147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": ""
+  "summary": "Acid Bolt can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Acid Bolt' OR weaponAmmoItem2='Acid Bolt' OR weaponAmmoItem3='Acid Bolt' OR weaponAmmoItem4='Acid Bolt' order by=tier"
  },
  {
   "name": "Acid Mace",
@@ -178,8 +172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Antique Shotgun",
@@ -204,8 +197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Cascade Laboratories === * In Containment Block Dirac, inside one of the holding cells.",
-  "icon": ""
+  "summary": "=== Cascade Laboratories === * In Containment Block Dirac, inside one of the holding cells."
  },
  {
   "name": "Arcbolt Spear",
@@ -230,8 +222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to cause a lightning effect upon hit that damages nearby enemies, even if the attack strikes a surface or object. It can still be used if it runs out of charge but will not cause the lightning effect.",
-  "icon": ""
+  "summary": "Arcbolt Spear uses battery charge to cause a lightning effect upon hit that damages nearby enemies, even if the attack strikes a surface or object. It can still be used if it runs out of charge but will not cause the lightning effect."
  },
  {
   "name": "Auto 10",
@@ -256,8 +247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:.gif|thumb|left|Shooting and reloading. File:Auto 10 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Auto 10 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items",
-  "icon": ""
+  "summary": "<gallery> File:Auto 10.gif|thumb|left|Shooting and reloading. File:Auto 10 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Auto 10 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items"
  },
  {
   "name": "Basic Baton",
@@ -282,8 +272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> Basic Baton Swing.gif|thumb|left|Normal swing. File:Basic Baton Power Attack.gif|thumb|left|Power attack. </gallery>",
-  "icon": ""
+  "summary": "<gallery> Basic Baton Swing.gif|thumb|left|Normal swing. File:Basic Baton Power Attack.gif|thumb|left|Power attack. </gallery>"
  },
  {
   "name": "Baton",
@@ -308,8 +297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Security Sector === * In an area close to Dr. Cahn and to a Dr. Manse hologram. * Close to some lockers and a closed-off room full of security gear. * Next to an email terminal in a large room with some toxic spillage and destroyed robots. * In the room with the Surface Elevator. * Two can be found on the lower floor of Storage Unit C, and one on the upper floor.",
-  "icon": ""
+  "summary": "=== Security Sector === * In an area close to Dr. Cahn and to a Dr. Manse hologram. * Close to some lockers and a closed-off room full of security gear. * Next to an email terminal in a large room with some toxic spillage and destroyed robots. * In the room with the Surface Elevator. * Two can be found on the lower floor of Storage Unit C, and one on the upper floor."
  },
  {
   "name": "Boom Bait",
@@ -334,8 +322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Boom Bait 1.gif|thumb|left|Pest follows a Boom Bait. File:Boom Bait 2.gif|thumb|left|Boom Bait explodes and kills a Pest. </gallery>",
-  "icon": ""
+  "summary": "When thrown, the Boom Bait attracts unaware enemies, exploding after a long delay."
  },
  {
   "name": "Cane Sword",
@@ -360,8 +347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Furniture Store === * It is in an Umbrella Stand on the first floor by the North stairs.",
-  "icon": ""
+  "summary": "=== Furniture Store === * It is in an Umbrella Stand on the first floor by the North stairs."
  },
  {
   "name": "Carbon Pickaxe",
@@ -386,8 +372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Carbox Pickaxe.gif|thumb|left|Normal swing </gallery> Category:Sharp Weapons",
-  "icon": ""
+  "summary": "<gallery> File:Carbox Pickaxe.gif|thumb|left|Normal swing </gallery> Category:Sharp Weapons"
  },
  {
   "name": "Cluster Grenade",
@@ -412,8 +397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The functions like a regular thrown explosive, exploding after a delay and causing damage to anything in the explosion area.",
-  "icon": ""
+  "summary": "The Cluster Grenade functions like a regular thrown explosive, exploding after a delay and causing damage to anything in the explosion area."
  },
  {
   "name": "Cluster Rocket",
@@ -438,8 +422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": ""
+  "summary": "Cluster Rocket can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Cluster Rocket' OR weaponAmmoItem2='Cluster Rocket' OR weaponAmmoItem3='Cluster Rocket' OR weaponAmmoItem4='Cluster Rocket' order by=tier"
  },
  {
   "name": "Combat Knife",
@@ -464,8 +447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Combat Knife - Swing.gif|thumb|left|Normal swing. File:Combat Knife - Throw.gif|thumb|left|Throwing the . </gallery> Category:Sharp Weapons",
-  "icon": ""
+  "summary": "<gallery> File:Combat Knife - Swing.gif|thumb|left|Normal swing. File:Combat Knife - Throw.gif|thumb|left|Throwing the Combat Knife. </gallery> Category:Sharp Weapons"
  },
  {
   "name": "Crowbar",
@@ -490,8 +472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Manufacturing West === * Inside Shipping, close to the area with molten liquid, besides a Barrel. * In the Mapping Center, in the area with the 2 Snipers. * In the mines, close to an area with water and lots of Anteverse Wheat. * In the Tram station.",
-  "icon": ""
+  "summary": "=== Manufacturing West === * Inside Shipping, close to the area with molten liquid, besides a Barrel. * In the Mapping Center, in the area with the 2 Snipers. * In the mines, close to an area with water and lots of Anteverse Wheat. * In the Tram station."
  },
  {
   "name": "Crowbar 2.0",
@@ -516,8 +497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Deatomizer",
@@ -542,8 +522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The is a weapon in Abiotic Factor. It uses laser charge, like the Laser Katana, and must be charged with a Laser Collector before use or after depleting the charge.",
-  "icon": ""
+  "summary": "The Deatomizer is a weapon in Abiotic Factor. It uses laser charge, like the Laser Katana, and must be charged with a Laser Collector before use or after depleting the charge."
  },
  {
   "name": "Desk Leg",
@@ -568,8 +547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. Given its low damage output and durability, unless there are no other weapons available, the is better utilized in creating other makeshift weapons such as the Makeshift Crossbow or Peccary Club.",
-  "icon": "/icons/Desk_Leg.png"
+  "summary": "Desk Leg is a weapon in Abiotic Factor. Given its low damage output and durability, unless there are no other weapons available, the Desk Leg is better utilized in creating other makeshift weapons such as the Makeshift Crossbow or Peccary Club."
  },
  {
   "name": "Electro-Thrower",
@@ -594,8 +572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:ElectroThrower.gif|thumb|left|Shooting. File:ElectroThrowerRobot.gif|thumb|left|The stunlocks a Security Bot. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:ElectroThrower.gif|thumb|left|Shooting. File:ElectroThrowerRobot.gif|thumb|left|The Electro-Thrower stunlocks a Security Bot. </gallery>"
  },
  {
   "name": "Electron Grenade",
@@ -620,8 +597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When thrown, the explodes and unleashes 12 crystal shards within its radius, stunning enemies and dealing 75 damage per shard. Similar to other explosives, it explodes on contact, which can be useful against multiple enemies.",
-  "icon": ""
+  "summary": "When thrown, the Electron Grenade explodes and unleashes 12 crystal shards within its radius, stunning enemies and dealing 75 damage per shard. Similar to other explosives, it explodes on contact, which can be useful against multiple enemies."
  },
  {
   "name": "Endothermic Hammer",
@@ -646,8 +622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a blunt weapon in Abiotic Factor. It has a 15% chance to freeze enemies on hit and does 1.2 times more damage to frozen targets.",
-  "icon": ""
+  "summary": "Endothermic Hammer is a blunt weapon in Abiotic Factor. It has a 15% chance to freeze enemies on hit and does 1.2 times more damage to frozen targets."
  },
  {
   "name": "Energy Pistol",
@@ -672,8 +647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Energy Pistol.gif|thumb|left|Firing. File:Energy Pistol Crank.gif|thumb|left|Cranking the pistol. </gallery>",
-  "icon": "/icons/Energy_Pistol.png"
+  "summary": "<gallery> File:Energy Pistol.gif|thumb|left|Firing. File:Energy Pistol Crank.gif|thumb|left|Cranking the pistol. </gallery>"
  },
  {
   "name": "Exor Flail",
@@ -698,8 +672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Exor Flail Swing.gif|thumb|left|Normal swing File:Exor Flail Power Attack.gif|thumb|left|Power Attack </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Exor Flail Swing.gif|thumb|left|Normal swing File:Exor Flail Power Attack.gif|thumb|left|Power Attack </gallery>"
  },
  {
   "name": "Exor Spear",
@@ -724,8 +697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Exor Spear Stab.gif|thumb|left|Normal stab. File:Exor Spear Throw.gif|thumb|left|Throwing. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Exor Spear Stab.gif|thumb|left|Normal stab. File:Exor Spear Throw.gif|thumb|left|Throwing. </gallery>"
  },
  {
   "name": "Explosive Cartridge",
@@ -750,8 +722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "Explosive Cartridge can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Explosive Cartridge' OR weaponAmmoItem2='Explosive Cartridge' OR weaponAmmoItem3='Explosive Cartridge' OR weaponAmmoItem4='Explosive Cartridge'"
  },
  {
   "name": "Explosive Sledge",
@@ -776,8 +747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses one Explosive Cartridge when attacking to cause an explosion in the area around where it hits, causing high damage. It can be used without any Explosive Cartridges but won't cause the explosion effect.",
-  "icon": "/icons/Explosive_Sledge.png"
+  "summary": "Explosive Sledge uses one Explosive Cartridge when attacking to cause an explosion in the area around where it hits, causing high damage. It can be used without any Explosive Cartridges but won't cause the explosion effect."
  },
  {
   "name": "Flamethrower",
@@ -802,8 +772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When fired, the sprays a stream of yellow-colored flames, damaging and igniting anything hit, and leaving a patch of burning fire on the ground that will damage and ignite anything passing through it, including the player. The patch left behind is a rectangle, fairly wide but not very deep, and persists for approximately 10 seconds. Both the fire spray and the patch are considered \"holy\" fire damage, the same type dealt by Flame Rats. The requires laser charge to use. In addition, while being fired, the weapon builds up heat, indicated by a meter above the hotbar similar to that used by the Lo",
-  "icon": ""
+  "summary": "When fired, the Flamethrower sprays a stream of yellow-colored flames, damaging and igniting anything hit, and leaving a patch of burning fire on the ground that will damage and ignite anything passing through it, including the player. The patch left behind is a rectangle, fairly wide but not very deep, and persists for approximately 10 seconds. Both the fire spray and the patch are considered \"holy\" fire damage, the same type dealt by Flame Rats. The Flamethrower requires laser charge to use. In addition, while being fired, the weapon builds up heat, indicated by a meter above the hotbar simi"
  },
  {
   "name": "Frag Grenade",
@@ -828,8 +797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an item in Abiotic Factor. It functions like a regular thrown explosive, exploding on contact and causing damage to anything in the explosion area.",
-  "icon": ""
+  "summary": "Frag Grenade is an item in Abiotic Factor. It functions like a regular thrown explosive, exploding on contact and causing damage to anything in the explosion area."
  },
  {
   "name": "Grinder",
@@ -854,8 +822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It fires Grinder Discs that are capable of bouncing off walls.",
-  "icon": ""
+  "summary": "Grinder is a weapon in Abiotic Factor. It fires Grinder Discs that are capable of bouncing off walls."
  },
  {
   "name": "Grinder Disc",
@@ -880,8 +847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "Grinder Disc can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Grinder Disc' OR weaponAmmoItem2='Grinder Disc' OR weaponAmmoItem3='Grinder Disc' OR weaponAmmoItem4='Grinder Disc'"
  },
  {
   "name": "Gutnic Rifle",
@@ -906,8 +872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "requires the player character to have the Bio-Fusion Armwraps (Buff) to use. The recipe for the Imitator is unlocked upon reaching Accuracy level 18.",
-  "icon": ""
+  "summary": "Gutnic Rifle requires the player character to have the Bio-Fusion Armwraps (Buff) to use. The recipe for the Imitator is unlocked upon reaching Accuracy level 18."
  },
  {
   "name": "Hardlight Saber",
@@ -932,8 +897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It can be crafted using materials found in Reactors.",
-  "icon": ""
+  "summary": "Hardlight Saber is a weapon in Abiotic Factor. It can be crafted using materials found in Reactors."
  },
  {
   "name": "Hardlight Sledge",
@@ -958,8 +922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It can be crafted using materials found in Reactors.",
-  "icon": ""
+  "summary": "Hardlight Sledge is a weapon in Abiotic Factor. It can be crafted using materials found in Reactors."
  },
  {
   "name": "Hardlight Spear",
@@ -984,8 +947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It can be crafted using materials found in Reactors.",
-  "icon": ""
+  "summary": "Hardlight Spear is a weapon in Abiotic Factor. It can be crafted using materials found in Reactors."
  },
  {
   "name": "Harpoon Spear",
@@ -1010,8 +972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It has a basic stab attack, and a secondary attack. When the left mouse button is pressed, the spear will stab similar to the Welding Spear. When right mouse button is pressed, the barbed end of the spear shoots out at high speed. When the tip of the spear hits an enemy, it will reel the enemy back to the player a short distance.",
-  "icon": ""
+  "summary": "Harpoon Spear is a weapon in Abiotic Factor. It has a basic stab attack, and a secondary attack. When the left mouse button is pressed, the spear will stab similar to the Welding Spear. When right mouse button is pressed, the barbed end of the spear shoots out at high speed. When the tip of the spear hits an enemy, it will reel the enemy back to the player a short distance."
  },
  {
   "name": "Hypercross Magbow",
@@ -1036,8 +997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. Unlike the Makeshift Crossbow, the has a 4x scope attached, and allows the aiming sway to be stabilized, at an ongoing stamina cost, by holding the Sprint button. It also has substantially less trajectory drop than the Makeshift Crossbow. Like the Makeshift Crossbow, its ammunition can often be recovered after being fired.",
-  "icon": ""
+  "summary": "Hypercross Magbow is a weapon in Abiotic Factor. Unlike the Makeshift Crossbow, the Hypercross Magbow has a 4x scope attached, and allows the aiming sway to be stabilized, at an ongoing stamina cost, by holding the Sprint button. It also has substantially less trajectory drop than the Makeshift Crossbow. Like the Makeshift Crossbow, its ammunition can often be recovered after being fired."
  },
  {
   "name": "Ice X Rifle",
@@ -1062,8 +1022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Ice X Rifle Shoot.gif|thumb|left|Firing and reloading. File:Ice X Rifle Aim.gif|thumb|left|Aiming down the sights and firing. File:Ice X 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Ice X 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Ice X Rifle Shoot.gif|thumb|left|Firing and reloading. File:Ice X Rifle Aim.gif|thumb|left|Aiming down the sights and firing. File:Ice X 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Ice X 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  },
  {
   "name": "Impact Hammer",
@@ -1088,8 +1047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Impact Hammer - Swing.gif|thumb|left|Normal swing File:Impact Hammer - Power Attack.gif|thumb|left|Power attack </gallery>",
-  "icon": ""
+  "summary": "Impact Hammer deals double damage to enemies that are at 50% or less total health."
  },
  {
   "name": "Industrial Crossbow",
@@ -1114,8 +1072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Industrial Crossbow 09.gif|thumb|left|Reloading Level 0 through 9 Animation File:Industrial Crossbow 20.gif|thumb|left|Reloading Level 20 Animation </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Industrial Crossbow 09.gif|thumb|left|Reloading Level 0 through 9 Animation File:Industrial Crossbow 20.gif|thumb|left|Reloading Level 20 Animation </gallery>"
  },
  {
   "name": "Keresphere",
@@ -1140,8 +1097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Keresphere.gif|thumb|left|Throwing a which causes an Exor Monk to flee. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Keresphere.gif|thumb|left|Throwing a Keresphere which causes an Exor Monk to flee. </gallery>"
  },
  {
   "name": "Kitchen Knife",
@@ -1166,8 +1122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a bladed weapon in Abiotic Factor. It takes the appearance of a standard chef's knife and is one of the first weapons a player can find and use, however it's main purpose is for butchering corpses (both organic and inorganic) for meat.",
-  "icon": "/icons/Kitchen_Knife.png"
+  "summary": "Kitchen Knife is a bladed weapon in Abiotic Factor. It takes the appearance of a standard chef's knife and is one of the first weapons a player can find and use, however it's main purpose is for butchering corpses (both organic and inorganic) for meat."
  },
  {
   "name": "Laser Grenade",
@@ -1192,8 +1147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "When thrown, the will begin to hover and emit multi-coloured lasers in multiple directions but not all at once, only activating a few at a time. Despite a high damage output in theory, the grenade can be unwieldy as it bounces around and randomly changes which lasers are activated, making no effort to deliberately aim at any present enemies. Unlike other grenades, it is reusable (requiring recharging between uses) and does not damage the thrower.",
-  "icon": ""
+  "summary": "When thrown, the Laser Grenade will begin to hover and emit multi-coloured lasers in multiple directions but not all at once, only activating a few at a time. Despite a high damage output in theory, the grenade can be unwieldy as it bounces around and randomly changes which lasers are activated, making no effort to deliberately aim at any present enemies. Unlike other grenades, it is reusable (requiring recharging between uses) and does not damage the thrower."
  },
  {
   "name": "Laser Katana",
@@ -1218,8 +1172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It uses laser charge, like the Deatomizer, and must be charged from a Laser Collector before use or after depleting the charge.",
-  "icon": ""
+  "summary": "Laser Katana is a weapon in Abiotic Factor. It uses laser charge, like the Deatomizer, and must be charged from a Laser Collector before use or after depleting the charge."
  },
  {
   "name": "Laser Pistol",
@@ -1244,8 +1197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Laser Pistol Shoot.gif|thumb|left|Firing. File:Laser Pistol Crank.gif|thumb|left|Cranking the pistol. </gallery>",
-  "icon": ""
+  "summary": "Laser Pistol is a weapon in Abiotic Factor. It is the upgraded version of the Energy Pistol."
  },
  {
   "name": "Lightning Spear",
@@ -1270,8 +1222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to cause a lightning effect upon hit that damages nearby enemies, even if the attack strikes a surface or object. It can still be used if it runs out of charge but will not cause the lightning effect.",
-  "icon": ""
+  "summary": "Lightning Spear uses battery charge to cause a lightning effect upon hit that damages nearby enemies, even if the attack strikes a surface or object. It can still be used if it runs out of charge but will not cause the lightning effect."
  },
  {
   "name": "Lode Disc",
@@ -1296,8 +1247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "Lode Disc can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Lode Disc' OR weaponAmmoItem2='Lode Disc' OR weaponAmmoItem3='Lode Disc' OR weaponAmmoItem4='Lode Disc'"
  },
  {
   "name": "Lode Pistol",
@@ -1322,8 +1272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Lode Pistol.gif|thumb|left|Shooting and reloading. File:Lode Pistol 09.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Lode Pistol 20.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Lode Pistol.gif|thumb|left|Shooting and reloading. File:Lode Pistol 09.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Lode Pistol 20.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  },
  {
   "name": "Lodehammer",
@@ -1348,8 +1297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to create a \"holy\" fire puddle where it hits, causing \"holy\" fire damage to anything inside the flame puddle's area (including player characters). It can still be used even without charge but will not cause the \"holy\" flame puddle effect.",
-  "icon": ""
+  "summary": "Lodehammer uses battery charge to create a \"holy\" fire puddle where it hits, causing \"holy\" fire damage to anything inside the flame puddle's area (including player characters). It can still be used even without charge but will not cause the \"holy\" flame puddle effect."
  },
  {
   "name": "Lodespear",
@@ -1374,8 +1322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to cause a small explosion around its impact point, damaging enemies and furniture around it. The explosion has a low chance of igniting enemies with \"holy\" fire for additional damage over time. It can still be used even without charge but will not cause the \"holy\" fire damage or ignition effect.",
-  "icon": ""
+  "summary": "Lodespear uses battery charge to cause a small explosion around its impact point, damaging enemies and furniture around it. The explosion has a low chance of igniting enemies with \"holy\" fire for additional damage over time. It can still be used even without charge but will not cause the \"holy\" fire damage or ignition effect."
  },
  {
   "name": "Lodestone Bolt",
@@ -1400,8 +1347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": ""
+  "summary": "Lodestone Bolt can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Lodestone Bolt' OR weaponAmmoItem2='Lodestone Bolt' OR weaponAmmoItem3='Lodestone Bolt' OR weaponAmmoItem4='Lodestone Bolt' order by=tier"
  },
  {
   "name": "Lodestone Crossbow",
@@ -1426,8 +1372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a range weapon in Abiotic Factor. In contrast to the earlier crossbows, it can fire multiple bolts before reloading.",
-  "icon": ""
+  "summary": "Lodestone Crossbow is a range weapon in Abiotic Factor. In contrast to the earlier crossbows, it can fire multiple bolts before reloading."
  },
  {
   "name": "Magbow",
@@ -1452,8 +1397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. Unlike the Makeshift Crossbow, the has a 4x scope attached, and allows the aiming sway to be stabilized, at an ongoing stamina cost, by holding the Sprint button. It also has substantially less trajectory drop than the Makeshift Crossbow. Like the Makeshift Crossbow, its ammunition can often be recovered after being fired.",
-  "icon": ""
+  "summary": "Magbow is a weapon in Abiotic Factor. Unlike the Makeshift Crossbow, the Magbow has a 4x scope attached, and allows the aiming sway to be stabilized, at an ongoing stamina cost, by holding the Sprint button. It also has substantially less trajectory drop than the Makeshift Crossbow. Like the Makeshift Crossbow, its ammunition can often be recovered after being fired."
  },
  {
   "name": "Magma Skink (Weapon)",
@@ -1478,8 +1422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Makeshift Bolt",
@@ -1504,8 +1447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": ""
+  "summary": "Makeshift Bolt can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Makeshift Bolt' OR weaponAmmoItem2='Makeshift Bolt' OR weaponAmmoItem3='Makeshift Bolt' OR weaponAmmoItem4='Makeshift Bolt' order by=tier"
  },
  {
   "name": "Makeshift Crossbow",
@@ -1530,8 +1472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Crossbow.gif|thumb|left|Shooting and reloading the Crossbow. File:Makeshift 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Makeshift 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Crossbow.gif|thumb|left|Shooting and reloading the Crossbow. File:Makeshift 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Makeshift 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  },
  {
   "name": "Makeshift Spear",
@@ -1556,8 +1497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Spear Stab.gif|thumb|left|Normal stab. File:Spear Throw.gif|thumb|left|Throwing. </gallery> Category:Sharp Weapons",
-  "icon": "/icons/Makeshift_Spear.png"
+  "summary": "<gallery> File:Spear Stab.gif|thumb|left|Normal stab. File:Spear Throw.gif|thumb|left|Throwing. </gallery> Category:Sharp Weapons"
  },
  {
   "name": "Manomin Magnum",
@@ -1582,8 +1522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "requires the player character to have the Bio-Fusion Armwraps (Buff) to use. The recipe for the Bio-Fusion Imitator is unlocked upon reaching Accuracy level 18.",
-  "icon": ""
+  "summary": "Manomin Magnum requires the player character to have the Bio-Fusion Armwraps (Buff) to use. The recipe for the Bio-Fusion Imitator is unlocked upon reaching Accuracy level 18."
  },
  {
   "name": "Megaton Flask",
@@ -1608,8 +1547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "functions like a regular thrown weapon. Its primary attack will throw the flask. Its secondary action switches between throw modes. It causes a explosion on impact that does up to 600 damage near the centre of the explosion and a minimum of 50 damage around a 0.5m radius.",
-  "icon": ""
+  "summary": "Megaton Flask functions like a regular thrown weapon. Its primary attack will throw the flask. Its secondary action switches between throw modes. It causes a explosion on impact that does up to 600 damage near the centre of the explosion and a minimum of 50 damage around a 0.5m radius."
  },
  {
   "name": "Montese SMG",
@@ -1634,8 +1572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "requires the player character to have the Bio-Metric Armwraps (Buff), the Bio-Mimic Armwraps (Buff), or Bio-Fusion Armwraps (Buff). The recipe for the Armwraps is unlocked upon reaching Accuracy level 7.",
-  "icon": ""
+  "summary": "Montese SMG requires the player character to have the Bio-Metric Armwraps (Buff), the Bio-Mimic Armwraps (Buff), or Bio-Fusion Armwraps (Buff). The recipe for the Armwraps is unlocked upon reaching Accuracy level 7."
  },
  {
   "name": "Mugnade",
@@ -1660,8 +1597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The functions like a regular thrown explosive, exploding after a delay and causing damage to anything in the explosion area.",
-  "icon": ""
+  "summary": "The Mugnade functions like a regular thrown explosive, exploding after a delay and causing damage to anything in the explosion area."
  },
  {
   "name": "Net Launcher",
@@ -1686,8 +1622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is an weapon in Abiotic Factor. It allows the player to temporarily immobilize targets of all sizes (this includes human-sized targets).",
-  "icon": ""
+  "summary": "Net Launcher is an weapon in Abiotic Factor. It allows the player to temporarily immobilize targets of all sizes (this includes human-sized targets)."
  },
  {
   "name": "Night Magnum",
@@ -1712,8 +1647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Compared to the Talagi Magnum it is upgraded from, it has identical stats for damage, fire rate, magazine size, reload speed, recoil magnitude, bullet spread, and damage type. The only mechanical differences between the two are that the has higher durability (40 vs. 30), weighs slightly more (8 vs. 7), is repaired using Night Essence instead of a Light Gun Repair Kit, and, like all upgraded firearms, lacks the Bio-Metric Armwraps requirement of the Talagi Magnum.",
-  "icon": ""
+  "summary": "Compared to the Talagi Magnum it is upgraded from, it has identical stats for damage, fire rate, magazine size, reload speed, recoil magnitude, bullet spread, and damage type. The only mechanical differences between the two are that the Night Magnum has higher durability (40 vs. 30), weighs slightly more (8 vs. 7), is repaired using Night Essence instead of a Light Gun Repair Kit, and, like all upgraded firearms, lacks the Bio-Metric Armwraps requirement of the Talagi Magnum."
  },
  {
   "name": "Null Grenade",
@@ -1738,8 +1672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The functions like a regular thrown explosive and explodes after a delay; however they mainly deal damage to shields and nullify them. A tiny amount of area of effect damage is dealt on explosion. They can be used to destroy the hardlight walls in Shadowgate.",
-  "icon": ""
+  "summary": "The Null Grenade functions like a regular thrown explosive and explodes after a delay; however they mainly deal damage to shields and nullify them. A tiny amount of area of effect damage is dealt on explosion. They can be used to destroy the hardlight walls in Shadowgate."
  },
  {
   "name": "Oar",
@@ -1764,8 +1697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Ornate Daggers",
@@ -1790,8 +1722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Ornate Knife",
@@ -1816,8 +1747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Ornate Knife Swing.gif|thumb|left|Normal swing. File:Ornate Knife Throw.gif|thumb|left|Throwing. </gallery> Category:Upgradeable_Items",
-  "icon": ""
+  "summary": "<gallery> File:Ornate Knife Swing.gif|thumb|left|Normal swing. File:Ornate Knife Throw.gif|thumb|left|Throwing. </gallery> Category:Upgradeable_Items"
  },
  {
   "name": "Patois Rifle",
@@ -1842,8 +1772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "requires the player character to have the Bio-Mimic Armwraps (Buff) or the Bio-Fusion Armwraps (Buff) to use. The recipe for the armwraps is unlocked upon reaching Accuracy level 15. The fires in a 3-round burst, rather than fully automatic fire, with fairly strong recoil over the 3 shots.",
-  "icon": ""
+  "summary": "Patois Rifle requires the player character to have the Bio-Mimic Armwraps (Buff) or the Bio-Fusion Armwraps (Buff) to use. The recipe for the armwraps is unlocked upon reaching Accuracy level 15. The Patois Rifle fires in a 3-round burst, rather than fully automatic fire, with fairly strong recoil over the 3 shots."
  },
  {
   "name": "Peccary Club",
@@ -1868,8 +1797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Teeth Club Swing Low Req.gif|thumb|left|Slow swing when the character doesn't meet the Peccary Club's requirements. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Teeth Club Swing Low Req.gif|thumb|left|Slow swing when the character doesn't meet the Peccary Club's requirements. </gallery>"
  },
  {
   "name": "Penetrator Rocket",
@@ -1894,8 +1822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": ""
+  "summary": "Penetrator Rocket can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Penetrator Rocket' OR weaponAmmoItem2='Penetrator Rocket' OR weaponAmmoItem3='Penetrator Rocket' OR weaponAmmoItem4='Penetrator Rocket' order by=tier"
  },
  {
   "name": "Pickaxe",
@@ -1920,8 +1847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Manufacturing West === * Close to the portal in the small cave that's close to Shipping. * In the mines, close to the green pipe, where one Optic Lens is needed. * In the mines, in an area with a parked truck and some containers. * In the mines, behind one of the buildings (accessible through some vents). * Back in the tutorial area, accessible from a portal in the mines area, close to the green pipe, where one Optic Lens is needed.",
-  "icon": ""
+  "summary": "=== Manufacturing West === * Close to the portal in the small cave that's close to Shipping. * In the mines, close to the green pipe, where one Optic Lens is needed. * In the mines, in an area with a parked truck and some containers. * In the mines, behind one of the buildings (accessible through some vents). * Back in the tutorial area, accessible from a portal in the mines area, close to the green pipe, where one Optic Lens is needed."
  },
  {
   "name": "Pipe Club",
@@ -1946,8 +1872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a makeshift blunt weapon in Abiotic Factor consisting of a metal pipe with a pressure gauge glued to the end of it. Its wide swing arc makes it ideal for hitting multiple enemies simultaneously or breaking several crates at once.",
-  "icon": ""
+  "summary": "Pipe Club is a makeshift blunt weapon in Abiotic Factor consisting of a metal pipe with a pressure gauge glued to the end of it. Its wide swing arc makes it ideal for hitting multiple enemies simultaneously or breaking several crates at once."
  },
  {
   "name": "Pipe Cudgel",
@@ -1972,8 +1897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Pipe Cudgel - Swing.gif|thumb|left|Normal swing. File:Pipe Cudgel - Power Attack.gif|thumb|left|Power attack. </gallery>",
-  "icon": ""
+  "summary": "Pipe Cudgel is a blunt weapon in Abiotic Factor. It is a stronger version of the Pipe Club."
  },
  {
   "name": "Pipe Pistol",
@@ -1998,8 +1922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Pipe Pistol.gif|thumb|left|Shooting and reloading File:Pipe Pistol 09.gif|thumb|left|Reloading Level 0 through 9 Animation File:Pipe Pistol 20.gif|thumb|left|Reloading Level 20 Animation </gallery> Category:Upgradeable_Items",
-  "icon": ""
+  "summary": "<gallery> File:Pipe Pistol.gif|thumb|left|Shooting and reloading File:Pipe Pistol 09.gif|thumb|left|Reloading Level 0 through 9 Animation File:Pipe Pistol 20.gif|thumb|left|Reloading Level 20 Animation </gallery> Category:Upgradeable_Items"
  },
  {
   "name": "Pipe Wrench",
@@ -2024,8 +1947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Manufacturing West === * Inside Shipping, underneath a recharge station. * In Shipping Logistics, close to some cement bags on top of one of the buildings. * In the mines area, inside a building close to a parked truck. * In the mines area, close to the Portal that takes to the tutorial area.",
-  "icon": ""
+  "summary": "=== Manufacturing West === * Inside Shipping, underneath a recharge station. * In Shipping Logistics, close to some cement bags on top of one of the buildings. * In the mines area, inside a building close to a parked truck. * In the mines area, close to the Portal that takes to the tutorial area."
  },
  {
   "name": "Pitchfork",
@@ -2050,8 +1972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Pitchfork - Stab.gif|thumb|left|Normal stab. File:Pitchfork - Throw.gif|thumb|left|Throwing the . </gallery> Category:Sharp Weapons",
-  "icon": ""
+  "summary": "<gallery> File:Pitchfork - Stab.gif|thumb|left|Normal stab. File:Pitchfork - Throw.gif|thumb|left|Throwing the Pitchfork. </gallery> Category:Sharp Weapons"
  },
  {
   "name": "Plasma Disc",
@@ -2076,8 +1997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "Plasma Disc can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Plasma Disc' OR weaponAmmoItem2='Plasma Disc' OR weaponAmmoItem3='Plasma Disc' OR weaponAmmoItem4='Plasma Disc'"
  },
  {
   "name": "Plasma Flail",
@@ -2102,8 +2022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Plasmois Rifle",
@@ -2128,8 +2047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It fires in a 3-round burst, rather than fully automatic fire, with fairly strong recoil over the 3 shots.",
-  "icon": ""
+  "summary": "Plasmois Rifle is a weapon in Abiotic Factor. It fires in a 3-round burst, rather than fully automatic fire, with fairly strong recoil over the 3 shots."
  },
  {
   "name": "Polished Antique Shotgun",
@@ -2154,8 +2072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon and anomalous subject in Abiotic Factor. It is the upgraded form of the Antique Shotgun, having a 2% chance to deal 10000 Explosive damage around a 100m radius accompanied by a flashbang-like effect.",
-  "icon": ""
+  "summary": "It is the upgraded form of the Antique Shotgun, having a random 2% chance per shot to deal 10000 Explosive damage in a 100m radius accompanied by a flashbang-like effect."
  },
  {
   "name": "Quantum Pick",
@@ -2180,8 +2097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The is a powerful end-game one-handed sharp melee weapon. s alt fire will throw the pick, dealing damage to anything it hits and granting throwing XP. After a short amount of time, the weapon will be returned to the player's hands with a teleportation sound effect, if there is room in the player's inventory.",
-  "icon": ""
+  "summary": "The Quantum Pick is a powerful end-game one-handed sharp melee weapon. Quantum Picks alt fire will throw the pick, dealing damage to anything it hits and granting throwing XP. After a short amount of time, the weapon will be returned to the player's hands with a teleportation sound effect, if there is room in the player's inventory."
  },
  {
   "name": "Quill Rifle",
@@ -2206,8 +2122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It is a fully-automatic weapon, similar in firing behavior to a Montese SMG, Grinder, or Patois Rifle, with noticeable recoil and crosshair rise. The quill ammo has a homing effect, causing its trajectory to curve towards the center-of-mass of the target nearest the crosshairs. This homing effect is reasonable, but has limits, and also tends to make shots on weakpoints more difficult to land. The quills deal 35 sharp damage on impact, and has a chance to apply an acid burn to the target, dealing acid damage over time. The Seeker Quill ammo can often be retrieved after firing, both from surface",
-  "icon": ""
+  "summary": "It is a fully-automatic weapon, similar in firing behavior to a Montese SMG, Grinder, or Patois Rifle, with noticeable recoil and crosshair rise. The quill ammo has a homing effect, causing its trajectory to curve towards the center-of-mass of the target nearest the crosshairs. This homing effect is reasonable, but has limits, and also tends to make shots on weakpoints more difficult to land. The quills deal 35 sharp damage on impact, and has a chance to apply an acid burn to the target, dealing acid damage over time. The Seeker Quill ammo can often be retrieved after firing, both from surface"
  },
  {
   "name": "Quill Spear",
@@ -2232,8 +2147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It has a basic stab attack, and a secondary attack. When the primary attack button is pressed, the spear will stab similar to other spears. The weapon can be loaded with up to 15 Seeker Quills and fired with the alt-fire button, shooting up to 5 quills in a forward cone per shot. Each quill does 30 Sharp damage.",
-  "icon": ""
+  "summary": "It has a basic stab attack, and a secondary attack. When the primary attack button is pressed, the spear will stab similar to other spears. The weapon can be loaded with up to 15 Seeker Quills and fired with the alt-fire button, shooting up to 5 quills in a forward cone per shot. Each quill does 30 Sharp damage."
  },
  {
   "name": "REDACTION Grenade",
@@ -2258,8 +2172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The [REDACTION] Grenade functions like a regular thrown explosive, exploding after a delay, creating a black hole that sucks in all players, enemies and objects.",
-  "icon": ""
+  "summary": "The [REDACTION] Grenade functions like a regular thrown explosive, exploding after a delay, creating a black hole that sucks in all players, enemies and objects."
  },
  {
   "name": "Rail Rifle",
@@ -2284,8 +2197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Rail Rifle Shoot.gif|thumb|left|Firing and reloading. File:Rail Rifle Aim.gif|thumb|left|Aiming down the sights and firing. File:Rail 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Rail 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items",
-  "icon": ""
+  "summary": "<gallery> File:Rail Rifle Shoot.gif|thumb|left|Firing and reloading. File:Rail Rifle Aim.gif|thumb|left|Aiming down the sights and firing. File:Rail 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Rail 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items"
  },
  {
   "name": "Ramrod",
@@ -2310,8 +2222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to cause a lightning effect upon hit that damages nearby enemies, even if the attack strikes a surface or object. It can still be used if it runs out of charge but will not cause the lightning effect.",
-  "icon": ""
+  "summary": "Ramrod uses battery charge to cause a lightning effect upon hit that damages nearby enemies, even if the attack strikes a surface or object. It can still be used if it runs out of charge but will not cause the lightning effect."
  },
  {
   "name": "Rat Scanner",
@@ -2336,8 +2247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It is functionally identical to the Pipe Wrench as a weapon.",
-  "icon": ""
+  "summary": "Rat Scanner is a weapon in Abiotic Factor. It is functionally identical to the Pipe Wrench as a weapon."
  },
  {
   "name": "Rebar Bolt",
@@ -2362,8 +2272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "Rebar Bolt can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Rebar Bolt' OR weaponAmmoItem2='Rebar Bolt' OR weaponAmmoItem3='Rebar Bolt' OR weaponAmmoItem4='Rebar Bolt'"
  },
  {
   "name": "Rocket",
@@ -2388,8 +2297,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": ""
+  "summary": "Rocket can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Rocket' OR weaponAmmoItem2='Rocket' OR weaponAmmoItem3='Rocket' OR weaponAmmoItem4='Rocket' order by=tier"
  },
  {
   "name": "Rocket Launcher",
@@ -2414,8 +2322,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Rocket.gif|thumb|left|Shooting the with a normal Rocket. File:Cluster Rocket.gif|thumb|left|Shooting the with a Cluster Rocket. File:Penetrator Rocket.gif|thumb|left|Shooting the with a Penetrator Rocket. File:Rocket 09 smol.gif|thumb|left|Reloading Level 0 though 9 Animation. File:Rocket 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Rocket.gif|thumb|left|Shooting the Rocket Launcher with a normal Rocket. File:Cluster Rocket.gif|thumb|left|Shooting the Rocket Launcher with a Cluster Rocket. File:Penetrator Rocket.gif|thumb|left|Shooting the Rocket Launcher with a Penetrator Rocket. File:Rocket 09 smol.gif|thumb|left|Reloading Level 0 though 9 Animation. File:Rocket 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  },
  {
   "name": "Romag Shotgun",
@@ -2440,8 +2347,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "requires the player character to have the Bio-Metric Armwraps (Buff), the Bio-Mimic Armwraps (Buff), or Bio-Fusion Armwraps (Buff). The recipe for the Armwraps is unlocked upon reaching Accuracy level 7.",
-  "icon": ""
+  "summary": "Romag Shotgun requires the player character to have the Bio-Metric Armwraps (Buff), the Bio-Mimic Armwraps (Buff), or Bio-Fusion Armwraps (Buff). The recipe for the Armwraps is unlocked upon reaching Accuracy level 7."
  },
  {
   "name": "Scrapshot",
@@ -2466,8 +2372,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "It functions as a break-action, single-barrel shotgun, and has to await a charging period of 1.5 seconds before it can fire. Fires 9 pellets.",
-  "icon": ""
+  "summary": "It functions as a break-action, single-barrel shotgun, and has to await a charging period of 1.5 seconds before it can fire. Fires 9 pellets."
  },
  {
   "name": "Scrapshot Ammo",
@@ -2492,8 +2397,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": "/icons/Scrapshot_Ammo.png"
+  "summary": "Scrapshot Ammo can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Scrapshot Ammo' OR weaponAmmoItem2='Scrapshot Ammo' OR weaponAmmoItem3='Scrapshot Ammo' OR weaponAmmoItem4='Scrapshot Ammo'"
  },
  {
   "name": "Scrapshot FL",
@@ -2518,8 +2422,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Scrapshot 09 FL smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Scrapshot FL 20.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items",
-  "icon": ""
+  "summary": "<gallery> File:Scrapshot 09 FL smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Scrapshot FL 20.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items"
  },
  {
   "name": "Security Pistol",
@@ -2544,8 +2447,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "* In a large room with some toxic spillage and destroyed robots, upstairs. * In the same location as above, hidden underneath a desk and on top of a computer tower. * On top of a Bench in the gym. * Two can be found in the firing range close to the gym.",
-  "icon": ""
+  "summary": "* In a large room with some toxic spillage and destroyed robots, upstairs. * In the same location as above, hidden underneath a desk and on top of a computer tower. * On top of a Bench in the gym. * Two can be found in the firing range close to the gym."
  },
  {
   "name": "Security Pistol FL",
@@ -2570,8 +2472,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:PistolFL.gif|thumb|left|Shooting and reloading. File:Security 09 FL smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Security FL 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:PistolFL.gif|thumb|left|Shooting and reloading. File:Security 09 FL smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Security FL 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  },
  {
   "name": "Seeker Quill",
@@ -2596,8 +2497,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4=",
-  "icon": ""
+  "summary": "Seeker Quill can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Seeker Quill' OR weaponAmmoItem2='Seeker Quill' OR weaponAmmoItem3='Seeker Quill' OR weaponAmmoItem4='Seeker Quill'"
  },
  {
   "name": "Shock Bolt",
@@ -2622,8 +2522,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1= OR weaponAmmoItem2= OR weaponAmmoItem3= OR weaponAmmoItem4= order by=tier",
-  "icon": ""
+  "summary": "Shock Bolt can be used by the following weapons: fields=CONCAT(\"\")=Image, CONCAT(\"\",name,\"\")=Name, weaponType=Type, weaponDamage=Damage, weaponAmmoCount=Max Ammo,durability=Durability, weight=Weight where=weaponAmmoItem1='Shock Bolt' OR weaponAmmoItem2='Shock Bolt' OR weaponAmmoItem3='Shock Bolt' OR weaponAmmoItem4='Shock Bolt' order by=tier"
  },
  {
   "name": "Shredshot",
@@ -2648,8 +2547,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Shredshot.gif|thumb|left|Shooting and reloading. File:Shredshot 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Shredshot 20.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Shredshot.gif|thumb|left|Shooting and reloading. File:Shredshot 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Shredshot 20.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  },
  {
   "name": "Skink (Weapon)",
@@ -2674,8 +2572,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It fires globs of Radioactive Waste, which are capable of sticking to walls. The trigger can be pulled rapidly for smaller globs and held for larger globs.",
-  "icon": ""
+  "summary": "Skink (Weapon) is a weapon in Abiotic Factor. It fires globs of Radioactive Waste, which are capable of sticking to walls. The trigger can be pulled rapidly for smaller globs and held for larger globs."
  },
  {
   "name": "Sledgehammer",
@@ -2700,8 +2597,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Manufacturing West === * In the mines area, close to a truck. * In The Train, in a train car with a power socket. * In the area where the Synchrotron is, close to the exit to the Manufacturing Sector. * In the area where the Synchrotron is, inside a container.",
-  "icon": ""
+  "summary": "=== Manufacturing West === * In the mines area, close to a truck. * In the area where the Synchrotron is, close to the exit to the Manufacturing Sector. * In the area where the Synchrotron is, inside a container."
  },
  {
   "name": "Slushie Bomb",
@@ -2726,8 +2622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Upon landing, the will apply the Frosted debuff to anything in its explosion radius, freezing them in place for five seconds. Players and Composers are simply slowed instead. It does not cause any damage, but it can be used to escape certain encounters or land more hits on the enemy. Symphonists, Mountaineers, Close-Quarters Combatants, Rooks, and the Yeti are fully immune to the effects of s.",
-  "icon": "/icons/Slushie_Bomb.png"
+  "summary": "Upon landing, the Slushie Bomb will apply the Frosted debuff to anything in its explosion radius, freezing them in place for five seconds. Players and Composers are simply slowed instead. It does not cause any damage, but it can be used to escape certain encounters or land more hits on the enemy. Symphonists, Mountaineers, Close-Quarters Combatants, Rooks, and the Yeti are fully immune to the effects of Slushie Bombs."
  },
  {
   "name": "Snowball",
@@ -2752,8 +2647,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The functions like a regular thrown weapon. Primary action quickly throws it, while secondary action aims your throw.",
-  "icon": ""
+  "summary": "The Snowball functions like a regular thrown weapon. Primary action quickly throws it, while secondary action aims your throw."
  },
  {
   "name": "Snowfall Shotgun",
@@ -2778,8 +2672,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "thumb|left|Shooting and reloading thumb|left|Reloading Level 0 through 9 Animation thumb|left|Reloading Level 20 Animation",
-  "icon": ""
+  "summary": "thumb|left|Shooting and reloading thumb|left|Reloading Level 0 through 9 Animation thumb|left|Reloading Level 20 Animation"
  },
  {
   "name": "Stun Baton",
@@ -2804,8 +2697,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It can stun enemies with electricity, temporarily preventing them from moving or attacking.",
-  "icon": ""
+  "summary": "Stun Baton is a weapon in Abiotic Factor. It can stun enemies with electricity, temporarily preventing them from moving or attacking."
  },
  {
   "name": "Sword",
@@ -2830,8 +2722,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "=== Furniture Store === * Mounted on the wall over the fireplace on the first floor.",
-  "icon": "/icons/Sword.png"
+  "summary": "=== Furniture Store === * Mounted on the wall over the fireplace on the first floor."
  },
  {
   "name": "Talagi Magnum",
@@ -2856,8 +2747,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "requires the player character to have the Bio-Metric Armwraps (Buff), the Bio-Mimic Armwraps (Buff), or Bio-Fusion Armwraps (Buff). The recipe for the Armwraps is unlocked upon reaching Accuracy level 7.",
-  "icon": ""
+  "summary": "Talagi Magnum requires the player character to have the Bio-Metric Armwraps (Buff), the Bio-Mimic Armwraps (Buff), or Bio-Fusion Armwraps (Buff). The recipe for the Armwraps is unlocked upon reaching Accuracy level 7."
  },
  {
   "name": "Tech Sceptre",
@@ -2882,8 +2772,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to cause extra shock damage on hit. It can still be used even if it is out of charge but will not cause the extra shock damage.",
-  "icon": ""
+  "summary": "Tech Sceptre uses battery charge to cause extra shock damage on hit. It can still be used even if it is out of charge but will not cause the extra shock damage."
  },
  {
   "name": "Thermal Mallet",
@@ -2908,8 +2797,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to create a flame where it hits, causing fire damage to anything inside the flame's area (including player characters). It can still be used even without battery, but won't cause the flame effect.",
-  "icon": ""
+  "summary": "Thermal Mallet uses battery charge to create a flame where it hits, causing fire damage to anything inside the flame's area (including player characters). It can still be used even without battery, but won't cause the flame effect."
  },
  {
   "name": "Thermite Molotov",
@@ -2934,8 +2822,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Upon landing, the creates an area of flames for 10 seconds that deals 10 fire damage per second to anything inside its range.",
-  "icon": ""
+  "summary": "Upon landing, the Thermite Molotov creates an area of flames for 10 seconds that deals 10 fire damage per second to anything inside its range."
  },
  {
   "name": "Thresher",
@@ -2960,8 +2847,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It fires Grinder Discs that are capable of bouncing off walls.",
-  "icon": ""
+  "summary": "Thresher is a weapon in Abiotic Factor. It fires Grinder Discs that are capable of bouncing off walls."
  },
  {
   "name": "Throw Net",
@@ -2986,8 +2872,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a throwable weapon in Abiotic Factor. It disables small and medium enemies for a few seconds. Pests, when captured by a net, can be instantly killed with a stomp. Doing so will always make the Pest drop one Bio Scrap.",
-  "icon": "/icons/Throw_Net.png"
+  "summary": "Throw Net is a throwable weapon in Abiotic Factor. It disables small and medium enemies for a few seconds. Pests, when captured by a net, can be instantly killed with a stomp. Doing so will always make the Pest drop one Bio Scrap."
  },
  {
   "name": "Throwing Crystal",
@@ -3012,8 +2897,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains.",
-  "icon": ""
+  "summary": "Throwing Crystal functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains."
  },
  {
   "name": "Throwing Dart",
@@ -3038,8 +2922,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains.",
-  "icon": ""
+  "summary": "Throwing Dart functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains."
  },
  {
   "name": "Throwing Quill",
@@ -3064,8 +2947,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains, though at the worst chopping quality (and thus highest chance for turning the corpse into Bio Scrap). When thrown, also applies an Acid Burn on impact, dealing an additional 30 Acid damage over 1.5 seconds.",
-  "icon": ""
+  "summary": "Throwing Quill functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains, though at the worst chopping quality (and thus highest chance for turning the corpse into Bio Scrap). When thrown, Throwing Quill also applies an Acid Burn on impact, dealing an additional 30 Acid damage over 1.5 seconds."
  },
  {
   "name": "Throwing Shard",
@@ -3090,8 +2972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains.",
-  "icon": ""
+  "summary": "Throwing Shard functions like a regular thrown weapon. Its primary attack is a basic stab that spends one projectile on each attack. Its secondary action prepares to throw it. Can be used to harvest remains."
  },
  {
   "name": "Thumper Shotgun",
@@ -3116,8 +2997,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Thumper Shotgun.gif|thumb|left|Shooting and reloading. File:Thumper 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Thumper 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items",
-  "icon": ""
+  "summary": "<gallery> File:Thumper Shotgun.gif|thumb|left|Shooting and reloading. File:Thumper 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Thumper 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery> Category:Upgradeable_Items"
  },
  {
   "name": "Toaster SMG",
@@ -3142,8 +3022,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:Toaster SMG.gif|thumb|left|Shooting and reloading. File:Toaster 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Toaster 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Toaster SMG.gif|thumb|left|Shooting and reloading. File:Toaster 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Toaster 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  },
  {
   "name": "Toilet Plunger",
@@ -3168,8 +3047,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Umbrella",
@@ -3194,8 +3072,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Verdant Skink (Weapon)",
@@ -3220,8 +3097,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It fires globs of healing Radioactive Waste that explode into healing spores on contact with any surface. The trigger can be pulled rapidly for smaller globs and held for larger globs.",
-  "icon": ""
+  "summary": "Verdant Skink (Weapon) is a weapon in Abiotic Factor. It fires globs of healing Radioactive Waste that explode into healing spores on contact with any surface. The trigger can be pulled rapidly for smaller globs and held for larger globs."
  },
  {
   "name": "Verenkov's SMG",
@@ -3246,8 +3122,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It deals Plasma damage that is especially effective against Hardlight shields.",
-  "icon": ""
+  "summary": "Verenkov's SMG is a weapon in Abiotic Factor. It deals Plasma damage that is especially effective against Hardlight shields."
  },
  {
   "name": "Volt Staff",
@@ -3272,8 +3147,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "is a weapon in Abiotic Factor. It has a basic stab attack, and a secondary attack. When the left mouse button is pressed, the spear will stab similar to other spears. The weapon can be charged by stabbing enemies and fired with the right mouse button, firing a blast of energy.",
-  "icon": ""
+  "summary": "Volt Staff is a weapon in Abiotic Factor. It has a basic stab attack, and a secondary attack. When the left mouse button is pressed, the spear will stab similar to other spears. The weapon can be charged by stabbing enemies and fired with the right mouse button, firing a blast of energy."
  },
  {
   "name": "Weapons and Ammo",
@@ -3298,8 +3172,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Weapons and Ammo is a crafting category of items in Abiotic Factor. Items in this category can be used to damage enemies or other players.",
-  "icon": "/icons/Weapons_and_Ammo.png"
+  "summary": "Weapons and Ammo is a crafting category of items in Abiotic Factor. Items in this category can be used to damage enemies or other players."
  },
  {
   "name": "Welding Spear",
@@ -3324,8 +3197,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "uses battery charge to cause a small explosion in the area around where it hits, damaging enemies and furniture around it. It can still be used even without battery, but won't cause the explosion effect.",
-  "icon": ""
+  "summary": "Welding Spear uses battery charge to cause a small explosion in the area around where it hits, damaging enemies and furniture around it. It can still be used even without battery, but won't cause the explosion effect."
  },
  {
   "name": "Wessex Rifle",
@@ -3350,8 +3222,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "requires the player to have Accuracy level 7 and the Bio-Mimic Armwraps (Buff) or Bio-Fusion Armwraps (Buff) to use. The recipe for Bio-Mimic Armwraps is unlocked upon reaching Accuracy level 15.",
-  "icon": ""
+  "summary": "Wessex Rifle requires the player to have Accuracy level 7 and the Bio-Mimic Armwraps (Buff) or Bio-Fusion Armwraps (Buff) to use. The recipe for Bio-Mimic Armwraps is unlocked upon reaching Accuracy level 15."
  },
  {
   "name": "Woodsman's Axe",
@@ -3376,8 +3247,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
-  "icon": ""
+  "summary": ""
  },
  {
   "name": "Z-17",
@@ -3402,7 +3272,6 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "<gallery> File:.gif|thumb|left|Shooting and reloading. File:Z17 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Z17 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>",
-  "icon": ""
+  "summary": "<gallery> File:Z-17.gif|thumb|left|Shooting and reloading. File:Z17 09 smol.gif|thumb|left|Reloading Level 0 through 9 Animation. File:Z17 20 smol.gif|thumb|left|Reloading Level 20 Animation. </gallery>"
  }
 ]
