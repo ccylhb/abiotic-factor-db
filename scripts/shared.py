@@ -40,15 +40,26 @@ def expand_magic(wt: str | None, title: str) -> str | None:
 
 
 def get_wikitext(title: str) -> str | None:
-    for attempt in range(3):
+    for attempt in range(6):
         try:
             r = session.get(
                 API,
                 params={"action": "parse", "page": title, "prop": "wikitext", "format": "json"},
                 timeout=30,
             )
+            if r.status_code == 429:
+                wait = 15 * (attempt + 1)
+                print(f"  429 {title}, backoff {wait}s")
+                time.sleep(wait)
+                continue
             d = r.json()
-            return expand_magic(d["parse"]["wikitext"]["*"], title) if "parse" in d else None
+            if "parse" in d:
+                return expand_magic(d["parse"]["wikitext"]["*"], title)
+            if r.status_code != 200:
+                print(f"  HTTP {r.status_code} {title}, backoff")
+                time.sleep(15 * (attempt + 1))
+                continue
+            return None
         except Exception as e:
             print(f"  retry {title}: {e}")
             time.sleep(2 * (attempt + 1))
