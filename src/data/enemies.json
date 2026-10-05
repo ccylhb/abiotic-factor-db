@@ -16,7 +16,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Peccary Alpha Skull, Raw Peccary Chop, Milk Sac, Raw Alien Drumstick",
-  "summary": "Alpha Peccary is a hostile creature found in the facility. It has a rare chance of spawning in place of a Sow Peccary in a handful of locations."
+  "summary": "Alpha Peccary is a hostile creature found in the facility. It has a rare chance of spawning in place of a Sow Peccary in a handful of locations.",
+  "icon": "/icons/Alpha_Peccary.png"
  },
  {
   "name": "Archivist",
@@ -35,7 +36,8 @@
   "resistance": "",
   "drops": "Purported Grimoire, Tactical Scrap, Lodestone Fragment, Ornate Key",
   "harvest": "Human Skull",
-  "summary": "Archivists, otherwise known as Clericium, are Order-affiliated NPCs that spawn in the Praetorium."
+  "summary": "Archivists, otherwise known as Clericium, are Order-affiliated NPCs that spawn in the Praetorium.",
+  "icon": "/icons/Archivist.png"
  },
  {
   "name": "Armored Exor",
@@ -54,7 +56,8 @@
   "resistance": "Bullet",
   "drops": "",
   "harvest": "Bio Scrap, Raw Exor Heart, Vibrant Exor Arm, Exor Quill, Raw Alien Drumstick",
-  "summary": "The Armored Exor is an enemy entity found in the Hydroplant. It is the second evolved variant of the Exor."
+  "summary": "The Armored Exor is an enemy entity found in the Hydroplant. It is the second evolved variant of the Exor.",
+  "icon": "/icons/Armored_Exor.png"
  },
  {
   "name": "Assassin",
@@ -73,7 +76,8 @@
   "resistance": "Acid",
   "drops": "Kevlar Scrap, Magnetic Alloy, Carbon Plating, Tactical Scrap, Ornate Knife, Ornate Key",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Interfector Sleeves, Interfector Chestwraps, Interfector Breeches, Interfector Helm",
-  "summary": "An Assassin is an elite soldier of The Order found in the Praetorium, Residence Sector, and Fragments."
+  "summary": "An Assassin is an elite soldier of The Order found in the Praetorium, Residence Sector, and Fragments.",
+  "icon": "/icons/Assassin.png"
  },
  {
   "name": "Behemoth",
@@ -92,7 +96,8 @@
   "resistance": "Bullet,Explosive",
   "drops": "",
   "harvest": "Tarasque Ichor, Behemoth Skull",
-  "summary": "=== Behavior === The Behemoth can be found within the Dusk Reactor's chamber, lurking in a nearby corner. It becomes hostile upon noticing the player or any enemies. It has all the same attacks and behaviors as the Tarasque."
+  "summary": "The Behemoth is a hostile creature found in the Dusk Reactor area in Reactors.",
+  "icon": "/icons/Behemoth.png"
  },
  {
   "name": "Big Hive Larva",
@@ -111,7 +116,8 @@
   "resistance": "Acid",
   "drops": "",
   "harvest": "Raw Larva Meat, Big Larva Figurine",
-  "summary": "Big Hive Larva is a hostile creature found in the Hive area of The Encroachment."
+  "summary": "Big Hive Larva is a hostile creature found in the Hive area of The Encroachment.",
+  "icon": "/icons/Big_Hive_Larva.png"
  },
  {
   "name": "Big Larva",
@@ -130,7 +136,8 @@
   "resistance": "Acid",
   "drops": "",
   "harvest": "Raw Larva Meat, Big Larva Figurine",
-  "summary": "Big Larva is a hostile creature found in The Encroachment."
+  "summary": "Big Larva is a hostile creature found in The Encroachment.",
+  "icon": "/icons/Big_Larva.png"
  },
  {
   "name": "Bigfoot",
@@ -149,7 +156,8 @@
   "resistance": "Electricity,Bullet",
   "drops": "",
   "harvest": "Yeti Fur, Tech Scrap, Carbon Plating, Frozen Essence",
-  "summary": "The Bigfoot is a hostile entity that roams the dormitory in Residence Sector."
+  "summary": "The Bigfoot is a hostile entity that roams the dormitory in Residence Sector.",
+  "icon": "/icons/Bigfoot.png"
  },
  {
   "name": "Bigogi",
@@ -168,7 +176,8 @@
   "resistance": "",
   "drops": "Black Gunk, Corrupted Lamogi Data",
   "harvest": "",
-  "summary": "=== Behavior === Bigogi is a slow and tanky boss enemy. Bigogi will repeatedly charge and run into the direction of the player, attempting to push and damage them."
+  "summary": "Bigogi is a hostile creature found in Royal Range.",
+  "icon": "/icons/Bigogi.png"
  },
  {
   "name": "Bogman",
@@ -187,7 +196,8 @@
   "resistance": "Bullet, Electricity",
   "drops": "",
   "harvest": "Bio Scrap, Dead Plant, Leather Scrap, Lodestone Fragment",
-  "summary": "The Bogman, registry ID IS-0422, is a hostile entity found in the Marshlands in Canaan."
+  "summary": "The Bogman, registry ID IS-0422, is a hostile entity found in the Marshlands in Canaan.",
+  "icon": "/icons/Bogman.png"
  },
  {
   "name": "Bombogi",
@@ -206,7 +216,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "",
-  "summary": "=== Behavior === Bombogi are quick and, when aggro'd, begin a timer to detonate. Bombogi are set off by a jump on their head and subsequent jumps cause the Bombogi to be knocked back."
+  "summary": "Bombogi is a hostile creature found in Royal Range.",
+  "icon": "/icons/Bombogi.png"
  },
  {
   "name": "Breacher",
@@ -225,7 +236,8 @@
   "resistance": "Blunt,Sharp,Bullet",
   "drops": "Cracked Shoulder Light, Military Electronics, 12g Buckshot, Romag Shotgun, Money, Breacher Helmet, Ornate Key, Military M.R.E., Light Gun Repair Kit, Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "Penitents deployed on the frontlines by The Order to atone for their sins, Breachers are enemies found in various locations throughout the Cascade Laboratories. Wearing highly durable armor, and armed with pump-action shotguns they're a dangerous (albeit relatively rare) sight to see among Order soldiers and are predominantly encountered in the Labs Sector guarding high-value areas alongside other order soldiers, however they can also be encountered alone on solo patrols."
+  "summary": "Penitents deployed on the frontlines by The Order to atone for their sins, Breachers are enemies found in various locations throughout the Cascade Laboratories. Wearing highly durable armor, and armed with pump-action shotguns they're a dangerous (albeit relatively rare) sight to see among Order soldiers and are predominantly encountered in the Labs Sector guarding high-value areas alongside other order soldiers, however they can also be encountered alone on solo patrols.",
+  "icon": "/icons/Breacher.png"
  },
  {
   "name": "Captain",
@@ -244,7 +256,8 @@
   "resistance": "Blunt",
   "drops": "Captain's Beret, Military Electronics, .357 Magnum Ammo, Cracked Shoulder Light, Radio Pack, Talagi Magnum, Money, Ornate Key, Military M.R.E., Frag Grenade",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "The Order's finest field officers, Captains are hostile enemies first found in Manufacturing West. Adorned with their signature Red Berets and armed with a Magnum Revolver, they're often seen alongside Grunts and other Order soldiers in areas of critical importance like blockades or command centers."
+  "summary": "The Order's finest field officers, Captains are hostile enemies first found in Manufacturing West. Adorned with their signature Red Berets and armed with a Magnum Revolver, they're often seen alongside Grunts and other Order soldiers in areas of critical importance like blockades or command centers.",
+  "icon": "/icons/Captain.png"
  },
  {
   "name": "Carbuncle",
@@ -263,7 +276,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Raw Carbuncle",
-  "summary": "The Carbuncle is a hostile creature found in the Facilities."
+  "summary": "The Carbuncle is a hostile creature found in the Facilities.",
+  "icon": "/icons/Carbuncle.png"
  },
  {
   "name": "Chieftain",
@@ -282,7 +296,8 @@
   "resistance": "",
   "drops": "Arcane Scrap, .357 Magnum Ammo, Chieftain Pack, GATE Defense Rune, Lodestone Fragment, Manomin Magnum",
   "harvest": "Bio Scrap, Chieftain Skull, Human Arm (Military), Kevlar Scrap",
-  "summary": "The Gatekeepers' unit leaders, Chieftains are enemies found in Reactors, Shadowgate, and Residence Sector."
+  "summary": "The Gatekeepers' unit leaders, Chieftains are enemies found in Reactors, Shadowgate, and Residence Sector.",
+  "icon": "/icons/Chieftain.png"
  },
  {
   "name": "Close-Quarters Combatant",
@@ -301,7 +316,8 @@
   "resistance": "",
   "drops": "Romag Shotgun, 12g Buckshot, Magnetic Alloy, Military Electronics, Cracked Shoulder Light, CQC Helmet, Military M.R.E., Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Mountaineer Armguards, Mountaineer Chestplate, Mountaineer Leggings",
-  "summary": "Close-Quarters Combatants are found in Voussoir, and are often seen patrolling or in stationary locations. They are also commonly found in a squad with other Order soldiers."
+  "summary": "Close-Quarters Combatants are found in Voussoir, and are often seen patrolling or in stationary locations. They are also commonly found in a squad with other Order soldiers.",
+  "icon": "/icons/Close_Quarters_Combatant.png"
  },
  {
   "name": "Composer",
@@ -320,7 +336,8 @@
   "resistance": "",
   "drops": "Organ, Porcelain Shards, Porcelain Key, Porcelain Tablet",
   "harvest": "",
-  "summary": "Composer is a hostile creature found in Flathill, Hydroplant, and Reactors."
+  "summary": "Composer is a hostile creature found in Flathill, Hydroplant, and Reactors.",
+  "icon": "/icons/Composer.png"
  },
  {
   "name": "Containment Bot",
@@ -339,7 +356,8 @@
   "resistance": "Door Bash",
   "drops": "Jailbroken CPU, Vit, Fizz Bang, Rootbear, Pop Snarkle, Kizz Cola",
   "harvest": "Metal Scrap, Glass Scrap, Tech Scrap, Coil, Robot Oil",
-  "summary": "Containment Bot is a hostile robot found in Cascade Laboratories, it is a stronger variant of the Security Bot."
+  "summary": "Containment Bot is a hostile robot found in Cascade Laboratories, it is a stronger variant of the Security Bot.",
+  "icon": ""
  },
  {
   "name": "Corpsewalker",
@@ -358,7 +376,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "",
-  "summary": "Corpsewalker, like their crossover counterpart, is a large black humanoid figure which appears randomly around the player floating in a blank reference pose."
+  "summary": "Corpsewalker is a passive entity that appears in Dunkeltaler Forest.",
+  "icon": "/icons/Corpsewalker.png"
  },
  {
   "name": "Corrupted Bot",
@@ -377,7 +396,8 @@
   "resistance": "",
   "drops": "Heart of Corruption, Murkweed",
   "harvest": "Tech Scrap, Robot Oil, Arcane Scrap, GATE Defense Rune",
-  "summary": "The Corrupted Bot, or G.E.A.R, is an enemy found within GATE Facilities, notably within Cascade's Mist Reactor and Residence Sector."
+  "summary": "The Corrupted Bot, or G.E.A.R, is an enemy found within GATE Facilities, notably within Cascade's Mist Reactor and Residence Sector.",
+  "icon": "/icons/Corrupted_Bot.png"
  },
  {
   "name": "Coworker",
@@ -396,7 +416,8 @@
   "resistance": "",
   "drops": "Human Skull",
   "harvest": "",
-  "summary": "Coworker is a passive entity that occasionally appears at night."
+  "summary": "Coworker is a passive entity that occasionally appears at night.",
+  "icon": "/icons/Coworker.png"
  },
  {
   "name": "Darkwater Beast",
@@ -415,7 +436,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "",
-  "summary": "The Darkwater Beast is a hostile entity that swims within the Hydroplant's reservoir waters. The Darkwater Beast can also be found later in the water beneath the Gale Reactor."
+  "summary": "The Darkwater Beast is a hostile entity that swims within the Hydroplant's reservoir waters. The Darkwater Beast can also be found later in the water beneath the Gale Reactor.",
+  "icon": ""
  },
  {
   "name": "Defense Bot",
@@ -434,7 +456,8 @@
   "resistance": "Door Bash",
   "drops": "Reinforced CPU, Frag Grenade, Rebar",
   "harvest": "Tech Scrap, Coil Winding, Transformer Bushing, Coil, Robot Oil, Toroidal Power Transformer, Human Skull",
-  "summary": "The Defense Bot is a robotic enemy first encountered in the Hydroplant sector."
+  "summary": "The Defense Bot is a robotic enemy first encountered in the Hydroplant sector.",
+  "icon": ""
  },
  {
   "name": "Electro-Pest",
@@ -453,7 +476,8 @@
   "resistance": "Bullet",
   "drops": "",
   "harvest": "Capacitor, Tech Scrap, Raw Pest, Raw Pest Rump, Bio Scrap",
-  "summary": "=== Behavior === Like a standard Pest, the Electro-Pest leaps at its target, causing damage on contact. However, when it begins its leap, it emits a shock ring, dealing 30 Blunt Stun damage to anything in its radius. This can occur only once every 3.5 seconds. If the Electro-Pest's shock ring is charged, attacking it at close range will damage the attacker for 30 Blunt Stun damage."
+  "summary": "Electro-Pest, registry ID IS-0173-B, is a variant of Pest, which has been cybernetically augmented by Dr. Abraham Stern. They can be found around Cascade Laboratories.",
+  "icon": "/icons/Electro_Pest.png"
  },
  {
   "name": "Exor",
@@ -472,7 +496,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Raw Exor Heart, Exor Arm, Exor Quill, Raw Alien Drumstick",
-  "summary": "Exor is a hostile creature found in the Facilities, especially around the Adjustment Wing in Cascade Laboratories."
+  "summary": "Exor is a hostile creature found in the Facilities, especially around the Adjustment Wing in Cascade Laboratories.",
+  "icon": "/icons/Exor.png"
  },
  {
   "name": "Exor Cha",
@@ -491,7 +516,8 @@
   "resistance": "Electricity",
   "drops": "Exor Spear",
   "harvest": "Bio Scrap, Exor Skull, Raw Alien Drumstick, Milk Sac",
-  "summary": "The Exor Cha is an enemy entity found in the Reactors as well as in Village Den da'ko Yeer. It is the third evolved variant of the Exor."
+  "summary": "The Exor Cha is an enemy entity found in the Reactors as well as in Village Den da'ko Yeer. It is the third evolved variant of the Exor.",
+  "icon": "/icons/Exor_Cha.png"
  },
  {
   "name": "Exor Monk",
@@ -510,7 +536,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Raw Exor Heart, Raw Alien Drumstick",
-  "summary": "Energy Blast Attack: * Range: Long range * Dodge Strategy: Timed Dodge: Wait for the animation (raising arm, launching energy blast) before side stepping. Melee Attack: * Range: Short range (1-2 storage crates) * Dodge Strategy: Preemptive Dodge: Maintain a distance greater than 2 storage crates, or dodge backwards/opposite direction when the Monk crouches and raises it's arm. * Speed: Fast, cannot be reacted to. Teleport: * Teleportation: Teleports to safe distance after using energy blast attack or melee attack."
+  "summary": "Exor Monk is a hostile creature found in the Facilities and Anteverse.",
+  "icon": "/icons/Exor_Monk.png"
  },
  {
   "name": "Farmer",
@@ -529,7 +556,8 @@
   "resistance": "",
   "drops": "Silver Scrap, Pitchfork",
   "harvest": "Bio Scrap, Human Skull, Pilgrim Hat",
-  "summary": "Farmer is a hostile enemy found in Canaan."
+  "summary": "Farmer is a hostile enemy found in Canaan.",
+  "icon": "/icons/Farmer.png"
  },
  {
   "name": "Flame Rat",
@@ -548,7 +576,8 @@
   "resistance": "Bullet",
   "drops": "Lodestone Fragment, Tactical Scrap, Black Oil",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), High Inquisitor Suit",
-  "summary": "Flame Rat is a Order soldier found in the Praetorium."
+  "summary": "Flame Rat is a Order soldier found in the Praetorium.",
+  "icon": "/icons/Flame_Rat.png"
  },
  {
   "name": "Furfur",
@@ -567,7 +596,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "",
-  "summary": "Furfur, like their crossover counterpart, is a humanoid demonic creature with a deer skull as a head and a dark red body. It has long, thin arms that are similar to those of a mantis, with the end of the arms splitting into two thin pincers with what can only be described as a sharp thumb. It appears to have the legs of a human, however twisted seemingly below the knee."
+  "summary": "Furfur is a passive entity that appears in Dunkeltaler Forest.",
+  "icon": "/icons/Furfur.png"
  },
  {
   "name": "Garage Rat",
@@ -586,7 +616,8 @@
   "resistance": "",
   "drops": "Pipe Wrench, Oil, Tactical Scrap, Reinforced CPU, Ornate Key",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Rat Suit",
-  "summary": "=== Behavior === The Garage Rat is usually seen patrolling around vehicles or doing maintenance. Unlike their more common brethren, a Garage Rat won't flee from danger."
+  "summary": "The Garage Rat is a hostile Order soldier found in the Praetorium.",
+  "icon": "/icons/Garage_Rat.png"
  },
  {
   "name": "Giant Power Leech",
@@ -605,7 +636,8 @@
   "resistance": "Sharp, Fire",
   "drops": "Powdered Crystal, Circuit Board, Capacitor, Electrical Organ",
   "harvest": "",
-  "summary": "The Giant Power Leech, AKA IS-0211, is a large, semi-crystalline creature originating from Anteverse 23 which appears during the Rolling Blackout Weather Event."
+  "summary": "The Giant Power Leech, AKA IS-0211, is a large, semi-crystalline creature originating from Anteverse 23 which appears during the Rolling Blackout Weather Event.",
+  "icon": ""
  },
  {
   "name": "Grunt",
@@ -624,7 +656,8 @@
   "resistance": "Blunt",
   "drops": "Order Helmet, 9mm Ammo, Military Electronics, Military Pack, Montese SMG, Money, Cracked Shoulder Light, Military M.R.E., Light Gun Repair Kit, Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "The standard rank and file of the Order, Grunts are hostile enemies found throughout Manufacturing West and Cascade Laboratories. Armed with the Montese SMG, they're formidable opponents and especially dangerous in groups. They're usually found in squads with other Order soldiers, but can occasionally be seen guarding areas alone or accompanying a Lab Rat in a patrol."
+  "summary": "The standard rank and file of the Order, Grunts are hostile enemies found throughout Manufacturing West and Cascade Laboratories. Armed with the Montese SMG, they're formidable opponents and especially dangerous in groups. They're usually found in squads with other Order soldiers, but can occasionally be seen guarding areas alone or accompanying a Lab Rat in a patrol.",
+  "icon": "/icons/Grunt.png"
  },
  {
   "name": "Guard",
@@ -643,7 +676,8 @@
   "resistance": "",
   "drops": "Silver Scrap, Splintered Crossbow",
   "harvest": "Bio Scrap, Human Skull, Pilgrim Hat",
-  "summary": "Guard is a hostile enemy found in Canaan."
+  "summary": "Guard is a hostile enemy found in Canaan.",
+  "icon": "/icons/Guard.png"
  },
  {
   "name": "Guard Grunt",
@@ -662,7 +696,8 @@
   "resistance": "Blunt",
   "drops": "9mm Ammo, Military Electronics, Security Pistol, Money, Cracked Shoulder Light, Military M.R.E., Light Gun Repair Kit, Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "The standard rank and file of the Order, Guard Grunts are hostile enemies found throughout Manufacturing West and Cascade Laboratories. Armed with the Security Pistol, they're formidable opponents and especially dangerous in groups. They're usually found in squads with other Order soldiers, but can occasionally be seen guarding areas alone or accompanying a Lab Rat in a patrol."
+  "summary": "The standard rank and file of the Order, Guard Grunts are hostile enemies found throughout Manufacturing West and Cascade Laboratories. Armed with the Security Pistol, they're formidable opponents and especially dangerous in groups. They're usually found in squads with other Order soldiers, but can occasionally be seen guarding areas alone or accompanying a Lab Rat in a patrol.",
+  "icon": ""
  },
  {
   "name": "Guardian of the Fallow",
@@ -681,7 +716,8 @@
   "resistance": "Laser",
   "drops": "Arcane Scrap, Imbued Parchment, Lodestone Fragment, GATE Defense Rune",
   "harvest": "Bio Scrap, Mystagogue's Head, Human Arm (Military)",
-  "summary": "The Guardian of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens."
+  "summary": "The Guardian of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens.",
+  "icon": ""
  },
  {
   "name": "Hive Larva",
@@ -700,7 +736,8 @@
   "resistance": "Acid",
   "drops": "",
   "harvest": "Raw Larva Meat, Larva Figurine",
-  "summary": "Hive Larva is a hostile creature found in the Hive area of The Encroachment."
+  "summary": "Hive Larva is a hostile creature found in the Hive area of The Encroachment.",
+  "icon": "/icons/Hive_Larva.png"
  },
  {
   "name": "IS-0139",
@@ -719,7 +756,8 @@
   "resistance": "Bullet,Electricity",
   "drops": "Powdered Crystal",
   "harvest": "",
-  "summary": "IS-0139s, also known by a fan name Crystallisks, are hostile creatures found in the mines of Manufacturing West, in Cascade Laboratories and Hydroplant."
+  "summary": "IS-0139s, also known by a fan name Crystallisks, are hostile creatures found in the mines of Manufacturing West, in Cascade Laboratories and Hydroplant.",
+  "icon": ""
  },
  {
   "name": "Jotun",
@@ -738,7 +776,8 @@
   "resistance": "Blunt,Fire,Sharp,Bullet,Laser",
   "drops": "Arcane Scrap, .308 Ammo, GATE Defense Rune, Lodestone Fragment",
   "harvest": "Bio Scrap, Head of a Giant, Kevlar Scrap, Giant's Pack",
-  "summary": "The Gatekeepers' bulwark against the terror, Jotun are enemies found in Reactors, Shadowgate, and Residence Sector."
+  "summary": "The Gatekeepers' bulwark against the terror, Jotun are enemies found in Reactors, Shadowgate, and Residence Sector.",
+  "icon": "/icons/Jotun.png"
  },
  {
   "name": "Jotun of the Fallow",
@@ -757,7 +796,8 @@
   "resistance": "Blunt,Fire,Sharp,Bullet,Laser",
   "drops": "Arcane Scrap, .308 Ammo, GATE Defense Rune, Lodestone Fragment",
   "harvest": "Bio Scrap, Head of a Giant, Kevlar Scrap, Giant's Pack",
-  "summary": "The Jotun of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens."
+  "summary": "The Jotun of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens.",
+  "icon": "/icons/Jotun_of_the_Fallow.png"
  },
  {
   "name": "Krasue",
@@ -776,7 +816,8 @@
   "resistance": "",
   "drops": "Frozen Essence",
   "harvest": "",
-  "summary": "Krasue is a hostile entity that appears after entering the Residence Sector. She is a low temperature variation of the Leyak that appears in cold places and will try to freeze its target in place."
+  "summary": "Krasue is a hostile entity that appears after entering the Residence Sector. She is a low temperature variation of the Leyak that appears in cold places and will try to freeze its target in place.",
+  "icon": "/icons/Krasue.png"
  },
  {
   "name": "Lab Rat",
@@ -795,7 +836,8 @@
   "resistance": "",
   "drops": "Rat Scanner, Rat Pack, Tech Scrap, Metal Scrap, Glass Scrap, Plastic Scrap, Cloth Scrap, Ornate Key, Lodestone Fragment, Hexwood",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Rat Suit",
-  "summary": "Lab Rat is a neutral Order soldier found in the Facilities. They begin to appear in the facility (most notably the Office Sector) as the player progress."
+  "summary": "Lab Rat is a neutral Order soldier found in the Facilities. They begin to appear in the facility (most notably the Office Sector) as the player progress.",
+  "icon": "/icons/Lab_Rat.png"
  },
  {
   "name": "Lamogi",
@@ -814,7 +856,8 @@
   "resistance": "",
   "drops": "Black Gunk",
   "harvest": "",
-  "summary": "=== Behavior === Lamogi are quick and rely on heavy knockback. Lamogi die instantly from a single jump on their head."
+  "summary": "Lamogi is a hostile creature found in Royal Range.",
+  "icon": "/icons/Lamogi.png"
  },
  {
   "name": "Larva",
@@ -833,7 +876,8 @@
   "resistance": "Acid",
   "drops": "",
   "harvest": "Raw Larva Meat, Larva Figurine",
-  "summary": "Larva are small grubs found in The Encroachment. Weak, slow, and only dangerous to the unaware and unarmored, they won't pose much of a threat to a prepared and aware scientist."
+  "summary": "Larva are small grubs found in The Encroachment. Weak, slow, and only dangerous to the unaware and unarmored, they won't pose much of a threat to a prepared and aware scientist.",
+  "icon": "/icons/Larva.png"
  },
  {
   "name": "Leyak",
@@ -852,7 +896,8 @@
   "resistance": "",
   "drops": "Leyak Essence",
   "harvest": "",
-  "summary": "Leyak is a hostile entity that appears after entering XR Containment in Cascade Laboratories."
+  "summary": "Leyak is a hostile entity that appears after entering XR Containment in Cascade Laboratories.",
+  "icon": "/icons/Leyak.png"
  },
  {
   "name": "Lodeite",
@@ -871,7 +916,8 @@
   "resistance": "",
   "drops": "Silver Scrap, Lodestone Fragment",
   "harvest": "Bio Scrap, Human Skull",
-  "summary": "Lodeites are a hostile enemy found in Canaan."
+  "summary": "Lodeites are a hostile enemy found in Canaan.",
+  "icon": "/icons/Lodeite.png"
  },
  {
   "name": "Medic",
@@ -890,7 +936,8 @@
   "resistance": "Blunt",
   "drops": "Medic Helmet, 9mm Ammo, Military Electronics, Military Pack, Montese SMG, Money, Cracked Shoulder Light, Military M.R.E., Light Gun Repair Kit",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Exsurgo Armwraps, Exsurgo Tactical Plate, Exsurgo Shinguards",
-  "summary": "Medic is a hostile soldier first found in Manufacturing West. They have the unique ability to heal downed Order soldiers."
+  "summary": "Medic is a hostile soldier first found in Manufacturing West. They have the unique ability to heal downed Order soldiers.",
+  "icon": "/icons/Medic.png"
  },
  {
   "name": "Mother of the Fallow",
@@ -909,7 +956,8 @@
   "resistance": "Laser",
   "drops": "Arcane Scrap, Embellished Censer, 12g Buckshot, Lodestone Fragment, GATE Defense Rune",
   "harvest": "Bio Scrap, Witch Skull",
-  "summary": "The Mother of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens."
+  "summary": "The Mother of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens.",
+  "icon": "/icons/Mother_of_the_Fallow.png"
  },
  {
   "name": "Mountaineer",
@@ -928,7 +976,8 @@
   "resistance": "",
   "drops": "Mountaineer Helmet, Patois Rifle, 5.56 Ammo, Kevlar Scrap, Military Electronics, Cracked Shoulder Light, Alpine Pack, Military M.R.E., Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Mountaineer Armguards, Mountaineer Chestplate, Mountaineer Leggings",
-  "summary": "Mountaineers are found in Voussoir, and are often seen patrolling or in stationary locations. They are also commonly found in a squad with other Order soldiers."
+  "summary": "Mountaineers are found in Voussoir, and are often seen patrolling or in stationary locations. They are also commonly found in a squad with other Order soldiers.",
+  "icon": "/icons/Mountaineer.png"
  },
  {
   "name": "Mushroom Carbuncle",
@@ -947,7 +996,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Raw Carbuncle, Carbuncle Mushroom",
-  "summary": "Shroom Carbuncle is a hostile creature found in the facility."
+  "summary": "Shroom Carbuncle is a hostile creature found in the facility.",
+  "icon": "/icons/Mushroom_Carbuncle.png"
  },
  {
   "name": "Mushroom Peccary",
@@ -966,7 +1016,8 @@
   "resistance": "Blunt,Bullet",
   "drops": "",
   "harvest": "Bio Scrap, Raw Peccary Chop, Carbuncle Mushroom, Raw Alien Drumstick, Mushroom Peccary Skull",
-  "summary": "Mushroom Peccary is a hostile creature found in the facility."
+  "summary": "Mushroom Peccary is a hostile creature found in the facility.",
+  "icon": "/icons/Mushroom_Peccary.png"
  },
  {
   "name": "Mystagogue",
@@ -985,7 +1036,8 @@
   "resistance": "Laser",
   "drops": "Arcane Scrap, Imbued Parchment, Lodestone Fragment, GATE Defense Rune",
   "harvest": "Bio Scrap, Mystagogue's Head, Human Arm (Military)",
-  "summary": "The Gatekeepers' shamans, Mystagogues are enemies found in Reactors, Shadowgate, and Residence Sector."
+  "summary": "The Gatekeepers' shamans, Mystagogues are enemies found in Reactors, Shadowgate, and Residence Sector.",
+  "icon": "/icons/Mystagogue.png"
  },
  {
   "name": "Mystagogue Eye",
@@ -1004,7 +1056,8 @@
   "resistance": "Sharp",
   "drops": "Flickering Eye, Arcane Scrap",
   "harvest": "",
-  "summary": "The Gatekeepers' Mystagogue support robots, Mystagogue Eyes are enemies found in Reactors and Shadowgate. After completing Reactors, they will appear in previous areas such as the Data Farm."
+  "summary": "The Gatekeepers' Mystagogue support robots, Mystagogue Eyes are enemies found in Reactors and Shadowgate. After completing Reactors, they will appear in previous areas such as the Data Farm.",
+  "icon": "/icons/Mystagogue_Eye.png"
  },
  {
   "name": "Neophyte",
@@ -1023,7 +1076,8 @@
   "resistance": "",
   "drops": "Arcane Scrap, 5.56 Ammo, Smashed GATE NVGs, Lodestone Fragment, Gutnic Rifle",
   "harvest": "Bio Scrap, Human Arm (Military), Kevlar Scrap, Human Skull",
-  "summary": "The Gatekeepers' newest initiates and members who have yet to find their path, Neophytes are enemies found in Reactors, Shadowgate, and the Residence Sector."
+  "summary": "The Gatekeepers' newest initiates and members who have yet to find their path, Neophytes are enemies found in Reactors, Shadowgate, and the Residence Sector.",
+  "icon": "/icons/Neophyte.png"
  },
  {
   "name": "Niketas",
@@ -1042,7 +1096,8 @@
   "resistance": "",
   "drops": "Silver Scrap, The Diary of Niketas - 4",
   "harvest": "Bio Scrap, Human Skull, Tech Scrap, Preacher's Hat",
-  "summary": "Niketas is a unique hostile enemy that is the preacher and leader of the cult of Canaan."
+  "summary": "Niketas is a unique hostile enemy that is the preacher and leader of the cult of Canaan.",
+  "icon": "/icons/Niketas.png"
  },
  {
   "name": "Nyth",
@@ -1061,7 +1116,8 @@
   "resistance": "",
   "drops": "Core Fragment, Raw Larva Meat, Hive Larva Figurine",
   "harvest": "",
-  "summary": "Nyth the Gluttonous is a hostile creature found in The Encroachment."
+  "summary": "Nyth the Gluttonous is a hostile creature found in The Encroachment.",
+  "icon": "/icons/Nyth.png"
  },
  {
   "name": "Patriarch of the Fallow",
@@ -1080,7 +1136,8 @@
   "resistance": "",
   "drops": "Arcane Scrap, .357 Magnum Ammo, Chieftain Pack, GATE Defense Rune, Lodestone Fragment, Manomin Magnum",
   "harvest": "Bio Scrap, Chieftain Skull, Human Arm (Military), Kevlar Scrap",
-  "summary": "The Patriarch of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens."
+  "summary": "The Patriarch of the Fallow can be found in Residence Sector as one of the Gatekeepers of the Fallow defending the Dark Lens.",
+  "icon": "/icons/Patriarch_of_the_Fallow.png"
  },
  {
   "name": "Peccary",
@@ -1099,7 +1156,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Raw Peccary Chop, Raw Alien Drumstick, Peccary Skull",
-  "summary": "=== Combat === When it is not in combat, the Peccary will patrol its area, possibly making use of its ability to plant a Carbuncle on a surface along its patrol route using its tail. During combat, the Peccary is an aggressive entity that will charge into its target. It will either tackle against the enemy or perform a leap attack to close the distance. It also has a more dangerous charged attack, where its body will spark with energy before sprinting in a straight line."
+  "summary": "Peccary is a hostile creature found in the facility.",
+  "icon": "/icons/Peccary.png"
  },
  {
   "name": "Peccary Sow",
@@ -1118,7 +1176,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Raw Peccary Chop, Milk Sac, Leather Scrap, Raw Alien Drumstick, Sow Skull",
-  "summary": "Peccary Sow is a hostile creature found in the facility. This specific variant readily spawns in the Wildlife Pens in Cascade Laboratories."
+  "summary": "Peccary Sow is a hostile creature found in the facility. This specific variant readily spawns in the Wildlife Pens in Cascade Laboratories.",
+  "icon": "/icons/Peccary_Sow.png"
  },
  {
   "name": "Pest",
@@ -1137,7 +1196,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Raw Pest Rump, Raw Pest",
-  "summary": "The Pest, registry ID IS-0173-A, is a hostile creature found in the Facilities that is originally from Anteverse 2. It is a rather small creature, taking the shape of a spiked potato or bread loaf, and is the most common creature encountered. It prefers to hide in various nooks and corners to ambush its prey, be it under desks, in vents, or behind boxes."
+  "summary": "The Pest, registry ID IS-0173-A, is a hostile creature found in the Facilities that is originally from Anteverse 2. It is a rather small creature, taking the shape of a spiked potato or bread loaf, and is the most common creature encountered. It prefers to hide in various nooks and corners to ambush its prey, be it under desks, in vents, or behind boxes.",
+  "icon": "/icons/Pest.png"
  },
  {
   "name": "Power Leech",
@@ -1156,7 +1216,8 @@
   "resistance": "Sharp, Fire",
   "drops": "Powdered Crystal, Circuit Board, Capacitor, Electrical Organ",
   "harvest": "",
-  "summary": "The Power Leech, AKA IS-0211, is a parasite-like creature originating from Anteverse 17 which appears during the Rolling Blackout Weather Event."
+  "summary": "The Power Leech, AKA IS-0211, is a parasite-like creature originating from Anteverse 17 which appears during the Rolling Blackout Weather Event.",
+  "icon": "/icons/Power_Leech.png"
  },
  {
   "name": "Reaper",
@@ -1175,7 +1236,8 @@
   "resistance": "",
   "drops": "Night Essence",
   "harvest": "",
-  "summary": "The Reaper is a hostile entity that roams the Security Sector."
+  "summary": "The Reaper is a hostile entity that roams the Security Sector.",
+  "icon": ""
  },
  {
   "name": "Rook",
@@ -1194,7 +1256,8 @@
   "resistance": "",
   "drops": "Rook Helmet, Riot Shield, Sensor, Military Electronics, Cracked Shoulder Light, Combat Knife, Military M.R.E., Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Mountaineer Armguards, Mountaineer Chestplate, Mountaineer Leggings",
-  "summary": "The Rook is an Order soldier first encountered in Voussoir."
+  "summary": "The Rook is an Order soldier first encountered in Voussoir.",
+  "icon": ""
  },
  {
   "name": "Sapper",
@@ -1213,7 +1276,8 @@
   "resistance": "Explosive,Laser",
   "drops": "PETN, Rat Pack, Lodestone Fragment, Ornate Key",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military), Sapper Suit",
-  "summary": "Sappers are hostile enemies introduced in the Reactors."
+  "summary": "Sappers are hostile enemies introduced in the Reactors.",
+  "icon": "/icons/Sapper.png"
  },
  {
   "name": "Security Bot",
@@ -1232,7 +1296,8 @@
   "resistance": "Door Bash",
   "drops": "Security Bot CPU, Vit, Fizz Bang, Rootbear, Pop Snarkle, Slam",
   "harvest": "Metal Scrap, Glass Scrap, Tech Scrap, Coil, Robot Oil",
-  "summary": "The Security Bot is a hostile enemy found within GATE Facilities, notably within Cascade's Office Sector and Manufacturing West."
+  "summary": "The Security Bot is a hostile enemy found within GATE Facilities, notably within Cascade's Office Sector and Manufacturing West.",
+  "icon": "/icons/Security_Bot.png"
  },
  {
   "name": "Shield Trooper",
@@ -1251,7 +1316,8 @@
   "resistance": "",
   "drops": "Riot Shield, Sensor, Military Electronics, Cracked Shoulder Light, Combat Knife, Military M.R.E., Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "Shield Trooper is an Order soldier encountered in the Praetorium. She is the female counterpart to the winterized Rook, with slightly more health."
+  "summary": "Shield Trooper is an Order soldier encountered in the Praetorium. She is the female counterpart to the winterized Rook, with slightly more health.",
+  "icon": ""
  },
  {
   "name": "Shock Trooper",
@@ -1270,7 +1336,8 @@
   "resistance": "",
   "drops": "Romag Shotgun, 12g Buckshot, Magnetic Alloy, Military Electronics, Cracked Shoulder Light, CQC Helmet, Military M.R.E., Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "Shock Troopers are found in the Praetorium, and are often seen patrolling or in stationary locations. They are identical to Close-Quarters Combatants except in appearance."
+  "summary": "Shock Troopers are found in the Praetorium, and are often seen patrolling or in stationary locations. They are identical to Close-Quarters Combatants except in appearance.",
+  "icon": "/icons/Shock_Trooper.png"
  },
  {
   "name": "Skink",
@@ -1289,7 +1356,8 @@
   "resistance": "Fire",
   "drops": "",
   "harvest": "Skink Skull, Raw Skink Meat, Green Fish Liver, Fish Bones, Radfish",
-  "summary": "Skinks are hostile creatures found around the Cloud Reactor. They can be tamed, turning them into Skink (Item)."
+  "summary": "Skinks are hostile creatures found around the Cloud Reactor. They can be tamed, turning them into Skink (Item).",
+  "icon": "/icons/Skink.png"
  },
  {
   "name": "Sniper",
@@ -1308,7 +1376,8 @@
   "resistance": "",
   "drops": "Cracked Shoulder Light, .308 Ammo, Military Electronics, Wessex Rifle, Journal, Money, Canteen, Military M.R.E., Light Gun Repair Kit, Cloth Scrap",
   "harvest": "Human Arm (Military), Sniper Skull, Sagittarii Stealth Plate, Sagittarii Leggings, Sagittarii Stabilizers",
-  "summary": "Long-ranged, cold blooded killers of The Order, Snipers are hostile enemies found in key spots in Manufacturing West, Cascade Laboratories and the Hydroplant. Armed with High-Caliber Sniper Rifles, they often guard critical locations from intruders by executing them from afar, long before they realize what's going on."
+  "summary": "Long-ranged, cold blooded killers of The Order, Snipers are hostile enemies found in key spots in Manufacturing West, Cascade Laboratories and the Hydroplant. Armed with High-Caliber Sniper Rifles, they often guard critical locations from intruders by executing them from afar, long before they realize what's going on.",
+  "icon": "/icons/Sniper.png"
  },
  {
   "name": "Snow Peccary",
@@ -1327,7 +1396,8 @@
   "resistance": "Cold",
   "drops": "",
   "harvest": "Bio Scrap, Raw Alien Drumstick, Raw Peccary Chop, Yeti Fur, Snow Peccary Skull",
-  "summary": "=== Behavior === Snow Peccaries will passively wander around, becoming hostile towards all entities, Gatekeepers, the player and Deployable Objects placed by the player. They cannot open doors, unless in a hostile state. Occasionally, they will spawn Tainted Carbuncles on the floor."
+  "summary": "Snow Peccary is a hostile creature found in the Residence Sector.",
+  "icon": ""
  },
  {
   "name": "Snow Pest",
@@ -1346,7 +1416,8 @@
   "resistance": "Bullet,Cold",
   "drops": "",
   "harvest": "Bio Scrap, Raw Pest, Raw Pest Rump, Yeti Fur",
-  "summary": "The Snow Pest is a hostile creature found in the Residence Sector that is originally from Anteverse 2. It is an winterized adaptation of the common Pest, having a coat of thick fur to protect against frigid environments. It prefers to hide in various nooks and corners to ambush it's prey, be it under desks, in vents, or behind boxes."
+  "summary": "The Snow Pest is a hostile creature found in the Residence Sector that is originally from Anteverse 2. It is an winterized adaptation of the common Pest, having a coat of thick fur to protect against frigid environments. It prefers to hide in various nooks and corners to ambush it's prey, be it under desks, in vents, or behind boxes.",
+  "icon": ""
  },
  {
   "name": "Symphonist",
@@ -1365,7 +1436,8 @@
   "resistance": "",
   "drops": "Symphonist Head, Porcelain Shards, Porcelain Key, Organ, Porcelain Tablet",
   "harvest": "",
-  "summary": "The Symphonist is a hostile creature found in Flathill and in the Facility during Fog Phenomenon Weather Events. They can only spawn after fully completing Flathill."
+  "summary": "The Symphonist is a hostile creature found in Flathill and in the Facility during Fog Phenomenon Weather Events. They can only spawn after fully completing Flathill.",
+  "icon": "/icons/Symphonist.png"
  },
  {
   "name": "Tainted Carbuncle",
@@ -1384,7 +1456,8 @@
   "resistance": "Fire",
   "drops": "",
   "harvest": "Raw Carbuncle",
-  "summary": "Tainted Carbuncle is a hostile creature found in the Facilities. It is a variant of the Carbuncle."
+  "summary": "Tainted Carbuncle is a hostile creature found in the Facilities. It is a variant of the Carbuncle.",
+  "icon": "/icons/Tainted_Carbuncle.png"
  },
  {
   "name": "Tarasque",
@@ -1403,7 +1476,8 @@
   "resistance": "Bullet,Explosive",
   "drops": "",
   "harvest": "Tarasque Ichor, Tarasque Skull",
-  "summary": "Tarasque is a hostile creature found in the Containment area in Cascade Laboratories. It is located in Containment Block Anning."
+  "summary": "Tarasque is a hostile creature found in the Containment area in Cascade Laboratories. It is located in Containment Block Anning.",
+  "icon": "/icons/Tarasque.png"
  },
  {
   "name": "The Moving Box",
@@ -1422,7 +1496,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "",
-  "summary": "The Moving Box, registry ID IS-0247, is a small non-hostile walking box that occasionally follows the player around after progressing through Flathill. It appears as a rough organic cube with a pair of quasi-humanoid legs."
+  "summary": "The Moving Box, registry ID IS-0247, is a small non-hostile walking box that occasionally follows the player around after progressing through Flathill. It appears as a rough organic cube with a pair of quasi-humanoid legs.",
+  "icon": "/icons/The_Moving_Box.png"
  },
  {
   "name": "The Snowman (Enemy)",
@@ -1441,7 +1516,8 @@
   "resistance": "Bullet,Explosive",
   "drops": "Carrot, Snowman's Top Hat, Snowman's Scarf, Snowball, Hexwood",
   "harvest": "",
-  "summary": "The Snowman is a hostile creature found in North Pole, standing in front of the burning Christmas tree in the center. They are inactive until a player 'adjusts their top hat'."
+  "summary": "The Snowman is a hostile creature found in North Pole, standing in front of the burning Christmas tree in the center. They are inactive until a player 'adjusts their top hat'.",
+  "icon": ""
  },
  {
   "name": "The Wayseeker (Enemy)",
@@ -1460,7 +1536,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "",
-  "summary": "The Wayseeker, also known as IS-0117, is an eldritch entity of monstrous size. It is first seen when it is entrapped in Shadowgate by Gatekeepers. And can be fought when Albatross has been reached. It is a long, difficult fight that will drain most of the players resources if they're not well-prepared."
+  "summary": "The Wayseeker, also known as IS-0117, is an eldritch entity of monstrous size. It is first seen when it is entrapped in Shadowgate by Gatekeepers. And can be fought when Albatross has been reached. It is a long, difficult fight that will drain most of the players resources if they're not well-prepared.",
+  "icon": ""
  },
  {
   "name": "Torchbearer",
@@ -1479,7 +1556,8 @@
   "resistance": "",
   "drops": "Silver Scrap",
   "harvest": "Bio Scrap, Human Skull, Pilgrim Hat",
-  "summary": "Torchbearers are a hostile enemy found in Canaan."
+  "summary": "Torchbearers are a hostile enemy found in Canaan.",
+  "icon": "/icons/Torchbearer.png"
  },
  {
   "name": "Trooper",
@@ -1498,7 +1576,8 @@
   "resistance": "",
   "drops": "Patois Rifle, 5.56 Ammo, Kevlar Scrap, Military Electronics, Cracked Shoulder Light, Military M.R.E., Cloth Scrap",
   "harvest": "Bio Scrap, Human Skull, Human Arm (Military)",
-  "summary": "Troopers are found in the Praetorium, and are often seen patrolling or in stationary locations. They are identical to Mountaineers except in appearance."
+  "summary": "Troopers are found in the Praetorium, and are often seen patrolling or in stationary locations. They are identical to Mountaineers except in appearance.",
+  "icon": "/icons/Trooper.png"
  },
  {
   "name": "Volatile Exor",
@@ -1517,7 +1596,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Plutonic Blood, Exor Quill, Plutonic Carapace, Volatile Exor Skull",
-  "summary": "Volatile Exor is a hostile creature found in the Dusk and Mist Reactors. It is the fourth evolved variant of the Exor."
+  "summary": "Volatile Exor is a hostile creature found in the Dusk and Mist Reactors. It is the fourth evolved variant of the Exor.",
+  "icon": "/icons/Volatile_Exor.png"
  },
  {
   "name": "Volatile Pest",
@@ -1536,7 +1616,8 @@
   "resistance": "",
   "drops": "",
   "harvest": "Bio Scrap, Plutonic Carapace, Raw Pest Rump, Raw Pest",
-  "summary": "Volatile Pest, registry ID IS-0173-C, is a further mutation of the Pest (IS-0173-A). It is most commonly found in the Reactors Sector. Volatile Pest emits a small amount of ambient radation and can explode on impact."
+  "summary": "Volatile Pest, registry ID IS-0173-C, is a further mutation of the Pest (IS-0173-A). It is most commonly found in the Reactors Sector. Volatile Pest emits a small amount of ambient radation and can explode on impact.",
+  "icon": "/icons/Volatile_Pest.png"
  },
  {
   "name": "Witch",
@@ -1555,7 +1636,8 @@
   "resistance": "Laser",
   "drops": "Arcane Scrap, Embellished Censer, 12g Buckshot, Lodestone Fragment, GATE Defense Rune",
   "harvest": "Bio Scrap, Witch Skull",
-  "summary": "The Gatekeepers' warrior witches, Witches are enemies found in Shadowgate and Residence Sector."
+  "summary": "The Gatekeepers' warrior witches, Witches are enemies found in Shadowgate and Residence Sector.",
+  "icon": "/icons/Witch.png"
  },
  {
   "name": "Woodsman",
@@ -1574,7 +1656,8 @@
   "resistance": "",
   "drops": "Silver Scrap, Woodsman's Axe",
   "harvest": "Bio Scrap, Human Skull",
-  "summary": "Woodsman is a hostile enemy found in Canaan."
+  "summary": "Woodsman is a hostile enemy found in Canaan.",
+  "icon": "/icons/Woodsman.png"
  },
  {
   "name": "Yeti",
@@ -1593,7 +1676,8 @@
   "resistance": "Bullet, Electricity",
   "drops": "",
   "harvest": "Yeti Skull, Yeti Fur",
-  "summary": "The Yeti is a hostile entity that roams the area surrounding Voussoir."
+  "summary": "The Yeti is a hostile entity that roams the area surrounding Voussoir.",
+  "icon": "/icons/Yeti.png"
  },
  {
   "name": "Zombie",
@@ -1612,6 +1696,7 @@
   "resistance": "",
   "drops": "",
   "harvest": "Human Skull, Bio Scrap",
-  "summary": "Zombie is a hostile creature found in the Containment Block Helmholtz and in the Furniture Store."
+  "summary": "Zombie is a hostile creature found in the Containment Block Helmholtz and in the Furniture Store.",
+  "icon": "/icons/Zombie.png"
  }
 ]
