@@ -60,5 +60,31 @@
   ],
   "footerNote": "Fan-made database. Not affiliated with the game publisher.",
   "gameVersion": "0.9",
-  "dataUpdated": "2026-09-06"
+  "dataUpdated": "2026-09-06",
+  "sisterSites": [
+    {
+      "name": "FactorioDB",
+      "url": "https://factorio.lootseer.com",
+      "blurb": "Recipes with exact craft times and ingredient counts."
+    },
+    {
+      "name": "IcarusDB",
+      "url": "https://icarus.lootseer.com",
+      "blurb": "Weapon durability, food buffs and creature health per biome."
+    },
+    {
+      "name": "ValheimDB",
+      "url": "https://valheim.lootseer.com",
+      "blurb": "Weapon damage per tier, food health and creature resistances."
+    },
+    {
+      "name": "DayZDB",
+      "url": "https://dayz.lootseer.com",
+      "blurb": "Food energy, water, ammo damage and penetration."
+    }
+  ],
+  "hubSite": {
+    "name": "LootSeer",
+    "url": "https://lootseer.com"
+  }
 }
