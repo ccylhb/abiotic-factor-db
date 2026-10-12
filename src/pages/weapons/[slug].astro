@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import weapons from "../../data/weapons.json";
+import proseMap from "../../data/prose_weapons.json";
 
 import Related from "../../components/Related.astro";
 export function getStaticPaths() {
@@ -11,6 +12,7 @@ export function getStaticPaths() {
 }
 
 const { weapon } = Astro.props;
+const prose = (proseMap as any)[weapon.slug];
 const sameType = weapons
   .filter((w) => w.weaponType && weapon.weaponType && w.weaponType === weapon.weaponType && w.slug !== weapon.slug)
   .slice(0, 8);
@@ -43,12 +45,16 @@ const desc =
     </table>
   </div>
 
-  {weapon.summary && (
-    <>
-      <h2>About {weapon.name}</h2>
-      <p>{weapon.summary}</p>
-    </>
-  )}
+  <h2>About {weapon.name}</h2>
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : weapon.summary ? (
+    <p>{weapon.summary}</p>
+  ) : null}
 
   <p class="muted">
     Choosing between weapons: match the damage type to enemy weaknesses — check the

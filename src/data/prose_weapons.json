@@ -1,0 +1,1219 @@
+{
+ "308_Ammo": {
+  "lead": ".308 Ammo is an Ammo in Abiotic Factor. It is a Tier 2 item. It weighs 0.06 per unit. In-game it is described as: \"Ammo for any .308 weapon.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall .308 Ammo is \"a situational Ammo\" pick."
+ },
+ "357_Magnum_Ammo": {
+  "lead": ".357 Magnum Ammo is an Ammo in Abiotic Factor. It is a Tier 2 item. It weighs 0.04 per unit. In-game it is described as: \"Ammo for any .357 Magnum weapon.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall .357 Magnum Ammo is \"a situational Ammo\" pick."
+ },
+ "12g_Buckshot": {
+  "lead": "12g Buckshot is an Ammo in Abiotic Factor. It is a Tier 3 item. It weighs 0.03 per unit. In-game it is described as: \"Ammo for any shotgun.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall 12g Buckshot is \"a situational Ammo\" pick."
+ },
+ "5.56_Ammo": {
+  "lead": "5.56 Ammo is an Ammo in Abiotic Factor. It is a Tier 5 item. It weighs 0.05 per unit. In-game it is described as: \"Ammo for any 5.56 weapon.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 40."
+  ],
+  "verdict": "Overall 5.56 Ammo is \"a situational Ammo\" pick."
+ },
+ "9mm_Ammo": {
+  "lead": "9mm Ammo is an Ammo in Abiotic Factor. It is a Tier 1 item. It weighs 0.02 per unit. In-game it is described as: \"Ammo for any 9mm weapon.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 64."
+  ],
+  "verdict": "Overall 9mm Ammo is \"a situational Ammo\" pick."
+ },
+ "Acid_Bolt": {
+  "lead": "Acid Bolt is an Ammo in Abiotic Factor. It is a Tier 3 item. It weighs 0.03 per unit. In-game it is described as: \"An acid-coated bolt that melts away armor.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall Acid Bolt is \"a situational Ammo\" pick."
+ },
+ "Acid_Mace": {
+  "lead": "Acid Mace is a Blunt Melee in Abiotic Factor. It deals 36 damage of the Blunt type. It is a Tier 6 item. It weighs 5 per unit. In-game it is described as: \"A crude mace fashioned from mutated carapace. Deals bonus acid damage so long as it’s regularly dipped in radioactive sludge.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 36 damage places it among the stronger of the 18 Blunt Melee entries tracked here (#4 by raw damage).",
+   "Against the enemies catalogued here, 9 are weak to Blunt damage — including Giant Power Leech, Neophyte, Snow Peccary, and 6 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 70 durability before repair."
+  ],
+  "verdict": "Overall Acid Mace is \"a strong Blunt Melee\" pick whose Blunt damage profile should be matched to enemy weaknesses."
+ },
+ "Antique_Shotgun": {
+  "lead": "Antique Shotgun is an Overworld Ranged in Abiotic Factor. It deals 30 damage of the Shotgun Pellet type. It is a Tier 3 item. It weighs 6 per unit. In-game it is described as: \"A break-action double barrel shotgun of a rather old make.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 30 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Shotgun Pellet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Antique Shotgun is \"a middle-of-the-pack Overworld Ranged\" pick whose Shotgun Pellet damage profile should be matched to enemy weaknesses."
+ },
+ "Arcbolt_Spear": {
+  "lead": "Arcbolt Spear is a Sharp Melee in Abiotic Factor. It deals 26 damage of the Sharp type. It is a Tier 6 item. It weighs 3 per unit. In-game it is described as: \"An advanced electrical melee weapon delivering a devastating initial charge that arcs to nearby enemies.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 26 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#9 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 60 durability before repair."
+  ],
+  "verdict": "Overall Arcbolt Spear is \"a middle-of-the-pack Sharp Melee\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Auto_10": {
+  "lead": "Auto 10 is an Overworld Ranged in Abiotic Factor. It deals 30 damage of the Small Bullet type. It is a Tier 3 item. It weighs 3.5 per unit. In-game it is described as: \"An enhanced 9mm semi-automatic pistol with extra magazine capacity and a built-in muzzle brake to reduce recoil.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 30 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Small Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Auto 10 is \"a middle-of-the-pack Overworld Ranged\" pick whose Small Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Basic_Baton": {
+  "lead": "Basic Baton is a Blunt Melee in Abiotic Factor. It deals 8 damage. It is a Tier 0 item. It weighs 3 per unit. In-game it is described as: \"Security nightstick, built for bashing.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 8 damage places it on the lower end of the 18 Blunt Melee entries tracked here (#16 by raw damage).",
+   "Practical notes: it has 15 durability before repair."
+  ],
+  "verdict": "Overall Basic Baton is \"a low-damage Blunt Melee\" pick."
+ },
+ "Baton": {
+  "lead": "Baton is a Blunt Melee in Abiotic Factor. It deals 12 damage. It is a Tier 4 item. It weighs 3 per unit. In-game it is described as: \"Security nightstick, built for bashing.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 12 damage places it mid-pack of the 18 Blunt Melee entries tracked here (#11 by raw damage).",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Baton is \"a middle-of-the-pack Blunt Melee\" pick."
+ },
+ "Boom_Bait": {
+  "lead": "Boom Bait is a Throwable in Abiotic Factor. It deals 25 damage of the Sharp type. It is a Tier 1 item. It weighs 1 per unit. In-game it is described as: \"A device that emits a beeping noise to attract enemies, then a damaging detonation.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 25 damage places it mid-pack of the 14 Throwable entries tracked here (#9 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Boom Bait is \"a middle-of-the-pack Throwable\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Cane_Sword": {
+  "lead": "Cane Sword is a Sharp Melee in Abiotic Factor. It deals 18 damage. It is a Tier 3 item. It weighs 4 per unit. In-game it is described as: \"A cane containing a hidden blade.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 18 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#14 by raw damage).",
+   "Practical notes: it has 22 durability before repair."
+  ],
+  "verdict": "Overall Cane Sword is \"a middle-of-the-pack Sharp Melee\" pick."
+ },
+ "Carbon_Pickaxe": {
+  "lead": "Carbon Pickaxe is a Heavy Sharp Melee in Abiotic Factor. It deals 85 damage. It is a Tier 3 item. It weighs 5 per unit. In-game it is described as: \"Lighter than a normal pickaxe, consuming less stamina when swung.\"",
+  "body": [
+   "A heavy sharp melee weapon: slow swings but high per-hit damage — good for opening on a single tough target rather than clearing a crowd.",
+   "Its 85 damage places it among the stronger of the 6 Heavy Sharp Melee entries tracked here (#1 by raw damage).",
+   "Practical notes: it has 45 durability before repair."
+  ],
+  "verdict": "Overall Carbon Pickaxe is \"a strong Heavy Sharp Melee\" pick."
+ },
+ "Cluster_Grenade": {
+  "lead": "Cluster Grenade is a Throwable in Abiotic Factor. It deals 150 damage of the Explosive type. It is a Tier 6 item. It weighs 0.25 per unit. In-game it is described as: \"A grenade that contains many individual incendiaries.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 150 damage places it mid-pack of the 14 Throwable entries tracked here (#6 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Explosive damage — including Nyth — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Cluster Grenade is \"a middle-of-the-pack Throwable\" pick whose Explosive damage profile should be matched to enemy weaknesses."
+ },
+ "Cluster_Rocket": {
+  "lead": "Cluster Rocket is an Ammo in Abiotic Factor. It is a Tier 6 item. It weighs 1 per unit. In-game it is described as: \"A rocket filled with a chaotic cluster of explosive grenades.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Cluster Rocket is \"a situational Ammo\" pick."
+ },
+ "Combat_Knife": {
+  "lead": "Combat Knife is a Sharp Melee in Abiotic Factor. It deals 12 damage. It is a Tier 5 item. It weighs 1 per unit. In-game it is described as: \"A knife with only one purpose.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 12 damage places it on the lower end of the 20 Sharp Melee entries tracked here (#17 by raw damage).",
+   "Practical notes: it has 20 durability before repair."
+  ],
+  "verdict": "Overall Combat Knife is \"a low-damage Sharp Melee\" pick."
+ },
+ "Crowbar": {
+  "lead": "Crowbar is a Heavy Sharp Melee in Abiotic Factor. It deals 42 damage. It is a Tier 2 item. It weighs 5 per unit. In-game it is described as: \"A solid piece of steel, but not something you could just swing about with one hand.\"",
+  "body": [
+   "A heavy sharp melee weapon: slow swings but high per-hit damage — good for opening on a single tough target rather than clearing a crowd.",
+   "Its 42 damage places it on the lower end of the 6 Heavy Sharp Melee entries tracked here (#5 by raw damage).",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Crowbar is \"a low-damage Heavy Sharp Melee\" pick."
+ },
+ "Crowbar_2.0": {
+  "lead": "Crowbar 2.0 is a Heavy Sharp Melee in Abiotic Factor. It deals 75 damage. It is a Tier 2 item. It weighs 5 per unit. In-game it is described as: \"An iconic close-quarters heavy weapon that drags enemies towards you.\"",
+  "body": [
+   "A heavy sharp melee weapon: slow swings but high per-hit damage — good for opening on a single tough target rather than clearing a crowd.",
+   "Its 75 damage places it among the stronger of the 6 Heavy Sharp Melee entries tracked here (#2 by raw damage).",
+   "Practical notes: it has 45 durability before repair."
+  ],
+  "verdict": "Overall Crowbar 2.0 is \"a strong Heavy Sharp Melee\" pick."
+ },
+ "Deatomizer": {
+  "lead": "Deatomizer is a Science Ranged in Abiotic Factor. It deals 15 damage of the Laser type. It is a Tier 5 item. It weighs 10 per unit. In-game it is described as: \"A hefty laser cannon for sustained firing and an alternate mode for massive output.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 15 damage places it on the lower end of the 22 Science Ranged entries tracked here (#17 by raw damage).",
+   "Against the enemies catalogued here, 2 are weak to Laser damage — including Defense Bot and Reaper — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Deatomizer is \"a low-damage Science Ranged\" pick whose Laser damage profile should be matched to enemy weaknesses."
+ },
+ "Desk_Leg": {
+  "lead": "Desk Leg is a Blunt Melee in Abiotic Factor. It deals 7 damage. It is a Tier 1 item. It weighs 3 per unit. In-game it is described as: \"A leg from a desk.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 7 damage places it on the lower end of the 18 Blunt Melee entries tracked here (#18 by raw damage).",
+   "Practical notes: it has 18 durability before repair."
+  ],
+  "verdict": "Overall Desk Leg is \"a low-damage Blunt Melee\" pick."
+ },
+ "Electro-Thrower": {
+  "lead": "Electro-Thrower is a Science Ranged in Abiotic Factor. It deals 15 damage of the Electricity type. It is a Tier 3 item. It weighs 10 per unit. In-game it is described as: \"A supercharged electricity-throwing short-range cannon.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 15 damage places it on the lower end of the 22 Science Ranged entries tracked here (#17 by raw damage).",
+   "Against the enemies catalogued here, 9 are weak to Electricity damage — including Behemoth, Armored Exor, Guardian of the Fallow, and 6 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 60 durability before repair."
+  ],
+  "verdict": "Overall Electro-Thrower is \"a low-damage Science Ranged\" pick whose Electricity damage profile should be matched to enemy weaknesses."
+ },
+ "Electron_Grenade": {
+  "lead": "Electron Grenade is a Throwable in Abiotic Factor. It deals 75 damage of the Electricity type. It is a Tier 3 item. It weighs 0.2 per unit. In-game it is described as: \"Stuns enemies for an extended period.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 75 damage places it mid-pack of the 14 Throwable entries tracked here (#7 by raw damage).",
+   "Against the enemies catalogued here, 9 are weak to Electricity damage — including Behemoth, Armored Exor, Guardian of the Fallow, and 6 more — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Electron Grenade is \"a middle-of-the-pack Throwable\" pick whose Electricity damage profile should be matched to enemy weaknesses."
+ },
+ "Endothermic_Hammer": {
+  "lead": "Endothermic Hammer is a Blunt Melee in Abiotic Factor. It deals 52 damage. It is a Tier 7 item. It weighs 5 per unit. In-game it is described as: \"A solid maul made of digital gold infused with frozen essence. Has a chance to freeze enemies on hit.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 52 damage places it the hardest-hitting of the 18 Blunt Melee entries tracked here (#2 by raw damage).",
+   "Practical notes: it has 100 durability before repair."
+  ],
+  "verdict": "Overall Endothermic Hammer is \"a top-damage Blunt Melee\" pick."
+ },
+ "Energy_Pistol": {
+  "lead": "Energy Pistol is a Science Ranged in Abiotic Factor. It deals 10 damage of the Laser type. It is a Tier 4 item. It weighs 3 per unit. In-game it is described as: \"A battery-charged laser pistol.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 10 damage places it on the lower end of the 22 Science Ranged entries tracked here (#21 by raw damage).",
+   "Against the enemies catalogued here, 2 are weak to Laser damage — including Defense Bot and Reaper — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Energy Pistol is \"a low-damage Science Ranged\" pick whose Laser damage profile should be matched to enemy weaknesses."
+ },
+ "Exor_Flail": {
+  "lead": "Exor Flail is a Blunt Melee in Abiotic Factor. It deals 33 damage. It is a Tier 6 item. It weighs 5 per unit. In-game it is described as: \"A massive flail, made from bits and pieces of other worlds. A blunt weapon with a chance to cause bleeding.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 33 damage places it among the stronger of the 18 Blunt Melee entries tracked here (#5 by raw damage).",
+   "Practical notes: it has 44 durability before repair."
+  ],
+  "verdict": "Overall Exor Flail is \"a strong Blunt Melee\" pick."
+ },
+ "Exor_Spear": {
+  "lead": "Exor Spear is a Sharp Melee in Abiotic Factor. It deals 30 damage. It is a Tier 6 item. It weighs 2 per unit. In-game it is described as: \"A spear no human hands have ever touched, present company excluded.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 30 damage places it among the stronger of the 20 Sharp Melee entries tracked here (#8 by raw damage).",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Exor Spear is \"a strong Sharp Melee\" pick."
+ },
+ "Explosive_Cartridge": {
+  "lead": "Explosive Cartridge is an Ammo in Abiotic Factor. It is a Tier 3 item. It weighs 0.05 per unit. In-game it is described as: \"Highly explosive ammo built for impact detonation.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall Explosive Cartridge is \"a situational Ammo\" pick."
+ },
+ "Explosive_Sledge": {
+  "lead": "Explosive Sledge is a Heavy Blunt Melee in Abiotic Factor. It deals 60 damage of the Heavy Blunt type. It is a Tier 3 item. It weighs 11 per unit. In-game it is described as: \"Incredible tech meets incredible heft, with this large sledgehammer that uses Explosive Cartridges as ammunition.\"",
+  "body": [
+   "A heavy blunt melee weapon: it staggers and breaks through armor, at the cost of swing speed and stamina.",
+   "Its 60 damage places it among the stronger of the 5 Heavy Blunt Melee entries tracked here (#2 by raw damage).",
+   "Practical notes: it has 25 durability before repair."
+  ],
+  "verdict": "Overall Explosive Sledge is \"a strong Heavy Blunt Melee\" pick whose Heavy Blunt damage profile should be matched to enemy weaknesses."
+ },
+ "Flamethrower": {
+  "lead": "Flamethrower is a Science Ranged in Abiotic Factor. It deals 20 damage of the \"Holy\" Fire type. It is a Tier 7 item. It weighs 12 per unit. In-game it is described as: \"A high-pressure, lodestone-fueled flame-spewer.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 20 damage places it on the lower end of the 22 Science Ranged entries tracked here (#16 by raw damage).",
+   "Practical notes: it has 150 durability before repair."
+  ],
+  "verdict": "Overall Flamethrower is \"a low-damage Science Ranged\" pick whose \"Holy\" Fire damage profile should be matched to enemy weaknesses."
+ },
+ "Frag_Grenade": {
+  "lead": "Frag Grenade is a Throwable in Abiotic Factor. It deals 400 damage of the Explosive type. It is a Tier 2 item. It weighs 0.2 per unit. In-game it is described as: \"A military-grade fragmentation grenade.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 400 damage places it the hardest-hitting of the 14 Throwable entries tracked here (#2 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Explosive damage — including Nyth — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Frag Grenade is \"a top-damage Throwable\" pick whose Explosive damage profile should be matched to enemy weaknesses."
+ },
+ "Grinder": {
+  "lead": "Grinder is a Science Ranged in Abiotic Factor. It deals 45 damage of the Sharp/\"Holy\"/Fire type. It is a Tier 2 item. It weighs 5 per unit. In-game it is described as: \"A launcher that propels grinder discs at high velocity.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 45 damage places it among the stronger of the 22 Science Ranged entries tracked here (#8 by raw damage).",
+   "Against the enemies catalogued here, 23 are weak to Sharp/\"Holy\"/Fire damage — including Behemoth, Corrupted Bot, Jotun, and 20 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 35 durability before repair."
+  ],
+  "verdict": "Overall Grinder is \"a strong Science Ranged\" pick whose Sharp/\"Holy\"/Fire damage profile should be matched to enemy weaknesses."
+ },
+ "Grinder_Disc": {
+  "lead": "Grinder Disc is an Ammo in Abiotic Factor. It is a Tier 2 item. It weighs 0.1 per unit. In-game it is described as: \"A disc with a very sharp edge.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 32."
+  ],
+  "verdict": "Overall Grinder Disc is \"a situational Ammo\" pick."
+ },
+ "Gutnic_Rifle": {
+  "lead": "Gutnic Rifle is an Overworld Ranged in Abiotic Factor. It deals 40 damage of the Large Bullet type. It is a Tier 6 item. It weighs 7 per unit. In-game it is described as: \"A thoroughly serviceable assault rifle, with an arcane edge.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 40 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#9 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Large Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 60 durability before repair."
+  ],
+  "verdict": "Overall Gutnic Rifle is \"a middle-of-the-pack Overworld Ranged\" pick whose Large Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Hardlight_Saber": {
+  "lead": "Hardlight Saber is a Sharp Melee in Abiotic Factor. It deals 75 damage of the Laser/Plasma type. It is a Tier 6 item. It weighs 8.5 per unit. In-game it is described as: \"A plasma-fueled, two-handed melee weapon that deals extra damage to shields and is able to deflect most types of projectiles.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 75 damage places it the hardest-hitting of the 20 Sharp Melee entries tracked here (#1 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Laser/Plasma damage — including The Snowman (Enemy), Defense Bot, Tarasque, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Hardlight Saber is \"a top-damage Sharp Melee\" pick whose Laser/Plasma damage profile should be matched to enemy weaknesses."
+ },
+ "Hardlight_Sledge": {
+  "lead": "Hardlight Sledge is a Heavy Blunt Melee in Abiotic Factor. It deals 150 damage of the Laser/Plasma type. It is a Tier 6 item. It weighs 8 per unit. In-game it is described as: \"A heavy hardlight projection system that creates a dense bludgeoning field. Alternatively it can project a forward-facing barrier to deflect incoming attacks.\"",
+  "body": [
+   "A heavy blunt melee weapon: it staggers and breaks through armor, at the cost of swing speed and stamina.",
+   "Its 150 damage places it among the stronger of the 5 Heavy Blunt Melee entries tracked here (#1 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Laser/Plasma damage — including The Snowman (Enemy), Defense Bot, Tarasque, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 100 durability before repair."
+  ],
+  "verdict": "Overall Hardlight Sledge is \"a strong Heavy Blunt Melee\" pick whose Laser/Plasma damage profile should be matched to enemy weaknesses."
+ },
+ "Hardlight_Spear": {
+  "lead": "Hardlight Spear is a Sharp Melee in Abiotic Factor. It deals 48 damage of the Laser/Plasma type. It is a Tier 6 item. It weighs 8.5 per unit. In-game it is described as: \"A firm thrusting weapon, fueled by plasma and light, with a projectile-hurling mechanism for those capable of throwing weaponry.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 48 damage places it among the stronger of the 20 Sharp Melee entries tracked here (#4 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Laser/Plasma damage — including The Snowman (Enemy), Defense Bot, Tarasque, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 52 durability before repair."
+  ],
+  "verdict": "Overall Hardlight Spear is \"a strong Sharp Melee\" pick whose Laser/Plasma damage profile should be matched to enemy weaknesses."
+ },
+ "Harpoon_Spear": {
+  "lead": "Harpoon Spear is a Sharp Melee in Abiotic Factor. It deals 35 damage. It is a Tier 5 item. It weighs 3 per unit. In-game it is described as: \"A hardy maritime spear capable of dragging targets towards you.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 35 damage places it among the stronger of the 20 Sharp Melee entries tracked here (#7 by raw damage).",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Harpoon Spear is \"a strong Sharp Melee\" pick."
+ },
+ "Hypercross_Magbow": {
+  "lead": "Hypercross Magbow is a Science Ranged in Abiotic Factor. It deals 170 damage of the Sharp type. It is a Tier 6 item. It weighs 4 per unit. In-game it is described as: \"A fast, flat, near-silent and extremely powerful magnetic projectile launcher with dual bolt compartments.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 170 damage places it the hardest-hitting of the 22 Science Ranged entries tracked here (#3 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Hypercross Magbow is \"a top-damage Science Ranged\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Ice_X_Rifle": {
+  "lead": "Ice X Rifle is an Overworld Ranged in Abiotic Factor. It deals 150 damage of the Sniper Bullet type. It is a Tier 7 item. It weighs 7 per unit. In-game it is described as: \"A highly experimental sniper rifle, cryogenically retrofitted for hyper-velocity ice projectiles that briefly freeze targets.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 150 damage places it the hardest-hitting of the 21 Overworld Ranged entries tracked here (#1 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Sniper Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Ice X Rifle is \"a top-damage Overworld Ranged\" pick whose Sniper Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Impact_Hammer": {
+  "lead": "Impact Hammer is a Heavy Blunt Melee in Abiotic Factor. It deals 60 damage. It is a Tier 5 item. It weighs 5 per unit. In-game it is described as: \"A hydraulic sledgehammer with a secondary blow on weakened targets.\"",
+  "body": [
+   "A heavy blunt melee weapon: it staggers and breaks through armor, at the cost of swing speed and stamina.",
+   "Its 60 damage places it among the stronger of the 5 Heavy Blunt Melee entries tracked here (#2 by raw damage).",
+   "Practical notes: it has 45 durability before repair."
+  ],
+  "verdict": "Overall Impact Hammer is \"a strong Heavy Blunt Melee\" pick."
+ },
+ "Industrial_Crossbow": {
+  "lead": "Industrial Crossbow is a Science Ranged in Abiotic Factor. It deals 32 damage of the Sharp/Acid/Electricity/\"Holy\" type. It is a Tier 2 item. It weighs 3 per unit. In-game it is described as: \"A robust, reinforced crossbow with short range scope.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 32 damage places it mid-pack of the 22 Science Ranged entries tracked here (#12 by raw damage).",
+   "Against the enemies catalogued here, 29 are weak to Sharp/Acid/Electricity/\"Holy\" damage — including Behemoth, Armored Exor, Guardian of the Fallow, and 26 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 28 durability before repair."
+  ],
+  "verdict": "Overall Industrial Crossbow is \"a middle-of-the-pack Science Ranged\" pick whose Sharp/Acid/Electricity/\"Holy\" damage profile should be matched to enemy weaknesses."
+ },
+ "Keresphere": {
+  "lead": "Keresphere is a Throwable in Abiotic Factor. It is a Tier 4 item. It weighs 0.125 per unit. In-game it is described as: \"A grenade that causes those within its yield to flee in terror.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Keresphere is \"a situational Throwable\" pick."
+ },
+ "Kitchen_Knife": {
+  "lead": "Kitchen Knife is a Sharp Melee in Abiotic Factor. It deals 3 damage. It is a Tier 1 item. It weighs 1 per unit. In-game it is described as: \"A blade used in cooking.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 3 damage places it on the lower end of the 20 Sharp Melee entries tracked here (#20 by raw damage).",
+   "Practical notes: it has 20 durability before repair."
+  ],
+  "verdict": "Overall Kitchen Knife is \"a low-damage Sharp Melee\" pick."
+ },
+ "Laser_Grenade": {
+  "lead": "Laser Grenade is a Throwable in Abiotic Factor. It deals 10 damage of the Laser type. It is a Tier 6 item. It weighs 1.25 per unit. In-game it is described as: \"A bouncing display of dazzling lights that may cause extreme harm to anything in their path.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 10 damage places it on the lower end of the 14 Throwable entries tracked here (#12 by raw damage).",
+   "Against the enemies catalogued here, 2 are weak to Laser damage — including Defense Bot and Reaper — so this is worth carrying before those fights."
+  ],
+  "verdict": "Overall Laser Grenade is \"a low-damage Throwable\" pick whose Laser damage profile should be matched to enemy weaknesses."
+ },
+ "Laser_Katana": {
+  "lead": "Laser Katana is a Sharp Melee in Abiotic Factor. It deals 60 damage of the Sharp/Laser type. It is a Tier 5 item. It weighs 10 per unit. In-game it is described as: \"A blade that unleashes deadly laser energy when swung.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 60 damage places it the hardest-hitting of the 20 Sharp Melee entries tracked here (#2 by raw damage).",
+   "Against the enemies catalogued here, 8 are weak to Sharp/Laser damage — including Defense Bot, Neophyte, Captain, and 5 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Laser Katana is \"a top-damage Sharp Melee\" pick whose Sharp/Laser damage profile should be matched to enemy weaknesses."
+ },
+ "Laser_Pistol": {
+  "lead": "Laser Pistol is a Science Ranged in Abiotic Factor. It deals 30 damage of the Laser type. It is a Tier 6 item. It weighs 3 per unit. In-game it is described as: \"A laser-powered sidearm that can also be recharged manually.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 30 damage places it mid-pack of the 22 Science Ranged entries tracked here (#13 by raw damage).",
+   "Against the enemies catalogued here, 2 are weak to Laser damage — including Defense Bot and Reaper — so this is worth carrying before those fights.",
+   "Practical notes: it has 45 durability before repair."
+  ],
+  "verdict": "Overall Laser Pistol is \"a middle-of-the-pack Science Ranged\" pick whose Laser damage profile should be matched to enemy weaknesses."
+ },
+ "Lightning_Spear": {
+  "lead": "Lightning Spear is a Sharp Melee in Abiotic Factor. It deals 26 damage of the Sharp type. It is a Tier 3 item. It weighs 3 per unit. In-game it is described as: \"A spear with high electrical discharge, capable of sending bolts of lightning towards additional targets.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 26 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#9 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 35 durability before repair."
+  ],
+  "verdict": "Overall Lightning Spear is \"a middle-of-the-pack Sharp Melee\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Lode_Disc": {
+  "lead": "Lode Disc is an Ammo in Abiotic Factor. It is a Tier 4 item. It weighs 0.1 per unit. In-game it is described as: \"A disc from another world, capable of igniting targets, even through armor.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 32."
+  ],
+  "verdict": "Overall Lode Disc is \"a situational Ammo\" pick."
+ },
+ "Lode_Pistol": {
+  "lead": "Lode Pistol is a Science Ranged in Abiotic Factor. It deals 75 damage of the Large Bullet type. It is a Tier 4 item. It weighs 4 per unit. In-game it is described as: \"A break-action coil pistol retro-fitted with Lodestone technology for rapid charging and micro-detonation rounds.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 75 damage places it among the stronger of the 22 Science Ranged entries tracked here (#5 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Large Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 55 durability before repair."
+  ],
+  "verdict": "Overall Lode Pistol is \"a strong Science Ranged\" pick whose Large Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Lodehammer": {
+  "lead": "Lodehammer is a Blunt Melee in Abiotic Factor. It deals 30 damage of the Blunt type. It is a Tier 4 item. It weighs 4 per unit. In-game it is described as: \"A fire-dealing warhammer enhanced with Lodestone energy transmission technology.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 30 damage places it among the stronger of the 18 Blunt Melee entries tracked here (#6 by raw damage).",
+   "Against the enemies catalogued here, 9 are weak to Blunt damage — including Giant Power Leech, Neophyte, Snow Peccary, and 6 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 42 durability before repair."
+  ],
+  "verdict": "Overall Lodehammer is \"a strong Blunt Melee\" pick whose Blunt damage profile should be matched to enemy weaknesses."
+ },
+ "Lodespear": {
+  "lead": "Lodespear is a Sharp Melee in Abiotic Factor. It deals 25 damage of the Sharp type. It is a Tier 4 item. It weighs 4 per unit. In-game it is described as: \"A fire-spreading spear with amplified lethality of Lodestone technology.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 25 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 42 durability before repair."
+  ],
+  "verdict": "Overall Lodespear is \"a middle-of-the-pack Sharp Melee\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Lodestone_Bolt": {
+  "lead": "Lodestone Bolt is an Ammo in Abiotic Factor. It is a Tier 4 item. It weighs 0.04 per unit. In-game it is described as: \"A bolt with otherworldly properties, capable of igniting targets, even through armor.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall Lodestone Bolt is \"a situational Ammo\" pick."
+ },
+ "Lodestone_Crossbow": {
+  "lead": "Lodestone Crossbow is a Science Ranged in Abiotic Factor. It deals 40 damage of the Sharp/Acid/Electricity/\"Holy\" type. It is a Tier 4 item. It weighs 5 per unit. In-game it is described as: \"A repeating crossbow crafted from a hybrid of medieval, modern and distinctly otherworldly elements.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 40 damage places it mid-pack of the 22 Science Ranged entries tracked here (#9 by raw damage).",
+   "Against the enemies catalogued here, 29 are weak to Sharp/Acid/Electricity/\"Holy\" damage — including Behemoth, Armored Exor, Guardian of the Fallow, and 26 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Lodestone Crossbow is \"a middle-of-the-pack Science Ranged\" pick whose Sharp/Acid/Electricity/\"Holy\" damage profile should be matched to enemy weaknesses."
+ },
+ "Magbow": {
+  "lead": "Magbow is a Science Ranged in Abiotic Factor. It deals 120 damage of the Sharp type. It is a Tier 4 item. It weighs 4 per unit. In-game it is described as: \"A magnetically accelerated crossbow.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 120 damage places it among the stronger of the 22 Science Ranged entries tracked here (#4 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Magbow is \"a strong Science Ranged\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Magma_Skink_(Weapon)": {
+  "lead": "Magma Skink (Weapon) is a Science Ranged in Abiotic Factor. It deals 180 damage of the Fire type. It is a Tier 6 item. It weighs 10 per unit. In-game it is described as: \"A change in diet has made this creature’s acidic mucus highly combustible.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 180 damage places it the hardest-hitting of the 22 Science Ranged entries tracked here (#2 by raw damage).",
+   "Against the enemies catalogued here, 12 are weak to Fire damage — including Behemoth, The Snowman (Enemy), Tarasque, and 9 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 60 durability before repair."
+  ],
+  "verdict": "Overall Magma Skink (Weapon) is \"a top-damage Science Ranged\" pick whose Fire damage profile should be matched to enemy weaknesses."
+ },
+ "Makeshift_Bolt": {
+  "lead": "Makeshift Bolt is an Ammo in Abiotic Factor. It is a Tier 1 item. It weighs 0.03 per unit. In-game it is described as: \"Ammo for any crossbow.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall Makeshift Bolt is \"a situational Ammo\" pick."
+ },
+ "Makeshift_Crossbow": {
+  "lead": "Makeshift Crossbow is a Science Ranged in Abiotic Factor. It deals 26 damage of the Sharp/Acid/Electricity/\"Holy\" type. It is a Tier 1 item. It weighs 3 per unit. In-game it is described as: \"A scrappy crossbow made from office supplies.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 26 damage places it mid-pack of the 22 Science Ranged entries tracked here (#14 by raw damage).",
+   "Against the enemies catalogued here, 29 are weak to Sharp/Acid/Electricity/\"Holy\" damage — including Behemoth, Armored Exor, Guardian of the Fallow, and 26 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 22 durability before repair."
+  ],
+  "verdict": "Overall Makeshift Crossbow is \"a middle-of-the-pack Science Ranged\" pick whose Sharp/Acid/Electricity/\"Holy\" damage profile should be matched to enemy weaknesses."
+ },
+ "Makeshift_Spear": {
+  "lead": "Makeshift Spear is a Sharp Melee in Abiotic Factor. It deals 10 damage. It is a Tier 1 item. It weighs 3 per unit. In-game it is described as: \"A spear assembled from office and kitchen supplies.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 10 damage places it on the lower end of the 20 Sharp Melee entries tracked here (#18 by raw damage).",
+   "Practical notes: it has 25 durability before repair."
+  ],
+  "verdict": "Overall Makeshift Spear is \"a low-damage Sharp Melee\" pick."
+ },
+ "Manomin_Magnum": {
+  "lead": "Manomin Magnum is an Overworld Ranged in Abiotic Factor. It deals 115 damage of the Large Bullet type. It is a Tier 6 item. It weighs 7 per unit. In-game it is described as: \"A hefty magnum that has been defaced - or enhanced.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 115 damage places it the hardest-hitting of the 21 Overworld Ranged entries tracked here (#3 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Large Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 80 durability before repair."
+  ],
+  "verdict": "Overall Manomin Magnum is \"a top-damage Overworld Ranged\" pick whose Large Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Megaton_Flask": {
+  "lead": "Megaton Flask is a Throwable in Abiotic Factor. It deals 600 damage of the Explosive type. It is a Tier 6 item. It weighs 0.23 per unit. In-game it is described as: \"An EXTREMELY volatile mixture. Any damage to the glass will unleash a catastrophic explosion.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 600 damage places it the hardest-hitting of the 14 Throwable entries tracked here (#1 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Explosive damage — including Nyth — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 64."
+  ],
+  "verdict": "Overall Megaton Flask is \"a top-damage Throwable\" pick whose Explosive damage profile should be matched to enemy weaknesses."
+ },
+ "Montese_SMG": {
+  "lead": "Montese SMG is an Overworld Ranged in Abiotic Factor. It deals 30 damage of the Small Bullet type. It is a Tier 2 item. It weighs 5 per unit. In-game it is described as: \"A rapid-fire weapon of an unusual make, brought here by a paramilitary force.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 30 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Small Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Montese SMG is \"a middle-of-the-pack Overworld Ranged\" pick whose Small Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Mugnade": {
+  "lead": "Mugnade is a Throwable in Abiotic Factor. It deals 350 damage of the Explosive type. It is a Tier 2 item. It weighs 0.35 per unit. In-game it is described as: \"A makeshift, throwable fragmentation grenade.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 350 damage places it among the stronger of the 14 Throwable entries tracked here (#5 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Explosive damage — including Nyth — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Mugnade is \"a strong Throwable\" pick whose Explosive damage profile should be matched to enemy weaknesses."
+ },
+ "Net_Launcher": {
+  "lead": "Net Launcher is a Science Ranged in Abiotic Factor. It deals 10 damage. It is a Tier 2 item. It weighs 2 per unit. In-game it is described as: \"A compact cannon that launches electrified nets at high velocity and over greater distances. Stuns larger beasts than thrown nets and deals some electrical damage.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 10 damage places it on the lower end of the 22 Science Ranged entries tracked here (#21 by raw damage).",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Net Launcher is \"a low-damage Science Ranged\" pick."
+ },
+ "Night_Magnum": {
+  "lead": "Night Magnum is an Overworld Ranged in Abiotic Factor. It deals 100 damage of the Large Bullet type. It is a Tier 4 item. It weighs 8 per unit. In-game it is described as: \"A heavy-hitting magnum revolver lubricated with the black oil of night.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 100 damage places it among the stronger of the 21 Overworld Ranged entries tracked here (#5 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Large Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Night Magnum is \"a strong Overworld Ranged\" pick whose Large Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Null_Grenade": {
+  "lead": "Null Grenade is a Throwable in Abiotic Factor. It deals 400 damage of the Shield Neutralizer type. It is a Tier 6 item. It weighs 0.5 per unit. In-game it is described as: \"An anti-hardlight grenade that will neutralize most shields, for a period of time.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 400 damage places it the hardest-hitting of the 14 Throwable entries tracked here (#2 by raw damage).",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Null Grenade is \"a top-damage Throwable\" pick whose Shield Neutralizer damage profile should be matched to enemy weaknesses."
+ },
+ "Oar": {
+  "lead": "Oar is a Heavy Blunt Melee in Abiotic Factor. It deals 50 damage. It is a Tier 3 item. It weighs 10 per unit. In-game it is described as: \"A rickety old oar, somehow heavier than it looks.\"",
+  "body": [
+   "A heavy blunt melee weapon: it staggers and breaks through armor, at the cost of swing speed and stamina.",
+   "Its 50 damage places it on the lower end of the 5 Heavy Blunt Melee entries tracked here (#4 by raw damage).",
+   "Practical notes: it has 15 durability before repair."
+  ],
+  "verdict": "Overall Oar is \"a low-damage Heavy Blunt Melee\" pick."
+ },
+ "Ornate_Daggers": {
+  "lead": "Ornate Daggers is a Sharp Melee in Abiotic Factor. It deals 18 damage. It is a Tier 7 item. It weighs 2 per unit. In-game it is described as: \"A pair of deadly and beautiful daggers for close range engagements.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 18 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#14 by raw damage).",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Ornate Daggers is \"a middle-of-the-pack Sharp Melee\" pick."
+ },
+ "Ornate_Knife": {
+  "lead": "Ornate Knife is a Sharp Melee in Abiotic Factor. It deals 20 damage. It is a Tier 7 item. It weighs 1 per unit. In-game it is described as: \"A knife that is as ornate and balanced as it is sturdy and delicate.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 20 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#12 by raw damage).",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Ornate Knife is \"a middle-of-the-pack Sharp Melee\" pick."
+ },
+ "Patois_Rifle": {
+  "lead": "Patois Rifle is an Overworld Ranged in Abiotic Factor. It deals 50 damage of the Large Bullet type. It is a Tier 5 item. It weighs 7 per unit. In-game it is described as: \"A burst-fire assault rifle designed to deliver exceptional damage to anything down range.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 50 damage places it among the stronger of the 21 Overworld Ranged entries tracked here (#7 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Large Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Patois Rifle is \"a strong Overworld Ranged\" pick whose Large Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Peccary_Club": {
+  "lead": "Peccary Club is a Heavy Sharp Melee in Abiotic Factor. It deals 40 damage. It is a Tier 1 item. It weighs 4.5 per unit. In-game it is described as: \"A huge, heavy club armed with sharp teeth from an alien lifeform.\"",
+  "body": [
+   "A heavy sharp melee weapon: slow swings but high per-hit damage — good for opening on a single tough target rather than clearing a crowd.",
+   "Its 40 damage places it on the lower end of the 6 Heavy Sharp Melee entries tracked here (#6 by raw damage).",
+   "Practical notes: it has 15 durability before repair."
+  ],
+  "verdict": "Overall Peccary Club is \"a low-damage Heavy Sharp Melee\" pick."
+ },
+ "Penetrator_Rocket": {
+  "lead": "Penetrator Rocket is an Ammo in Abiotic Factor. It is a Tier 6 item. It weighs 1 per unit. In-game it is described as: \"A rocket that trades explosive power for unmitigated penetration through multiple targets.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Penetrator Rocket is \"a situational Ammo\" pick."
+ },
+ "Pickaxe": {
+  "lead": "Pickaxe is a Heavy Sharp Melee in Abiotic Factor. It deals 45 damage. It is a Tier 2 item. It weighs 10 per unit. In-game it is described as: \"A massive digging tool, albeit a touch out of date for the circumstances.\"",
+  "body": [
+   "A heavy sharp melee weapon: slow swings but high per-hit damage — good for opening on a single tough target rather than clearing a crowd.",
+   "Its 45 damage places it mid-pack of the 6 Heavy Sharp Melee entries tracked here (#4 by raw damage).",
+   "Practical notes: it has 22 durability before repair."
+  ],
+  "verdict": "Overall Pickaxe is \"a middle-of-the-pack Heavy Sharp Melee\" pick."
+ },
+ "Pipe_Club": {
+  "lead": "Pipe Club is a Blunt Melee in Abiotic Factor. It deals 8 damage. It is a Tier 1 item. It weighs 5 per unit. In-game it is described as: \"A hefty pipe with a gauge on the end for added weight.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 8 damage places it on the lower end of the 18 Blunt Melee entries tracked here (#16 by raw damage).",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Pipe Club is \"a low-damage Blunt Melee\" pick."
+ },
+ "Pipe_Cudgel": {
+  "lead": "Pipe Cudgel is a Blunt Melee in Abiotic Factor. It deals 22 damage. It is a Tier 5 item. It weighs 5 per unit. In-game it is described as: \"A strong, sturdy pipe, but nothing you haven't seen before.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 22 damage places it mid-pack of the 18 Blunt Melee entries tracked here (#8 by raw damage).",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Pipe Cudgel is \"a middle-of-the-pack Blunt Melee\" pick."
+ },
+ "Pipe_Pistol": {
+  "lead": "Pipe Pistol is a Science Ranged in Abiotic Factor. It deals 50 damage of the Large Bullet type. It is a Tier 2 item. It weighs 3 per unit. In-game it is described as: \"An electromagnetically charged projectile launcher. It's sort of like a pistol.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 50 damage places it among the stronger of the 22 Science Ranged entries tracked here (#7 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Large Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Pipe Pistol is \"a strong Science Ranged\" pick whose Large Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Pipe_Wrench": {
+  "lead": "Pipe Wrench is a Blunt Melee in Abiotic Factor. It deals 12 damage. It is a Tier 2 item. It weighs 2 per unit. In-game it is described as: \"A heavy duty wrench.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 12 damage places it mid-pack of the 18 Blunt Melee entries tracked here (#11 by raw damage).",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Pipe Wrench is \"a middle-of-the-pack Blunt Melee\" pick."
+ },
+ "Pitchfork": {
+  "lead": "Pitchfork is a Sharp Melee in Abiotic Factor. It deals 10 damage. It is a Tier 4 item. It weighs 3 per unit. In-game it is described as: \"A rusty old pitchfork, equally suitable for shoveling hay or rabble-rousing.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 10 damage places it on the lower end of the 20 Sharp Melee entries tracked here (#18 by raw damage).",
+   "Practical notes: it has 25 durability before repair."
+  ],
+  "verdict": "Overall Pitchfork is \"a low-damage Sharp Melee\" pick."
+ },
+ "Plasma_Disc": {
+  "lead": "Plasma Disc is an Ammo in Abiotic Factor. It is a Tier 6 item. It weighs 0.1 per unit. In-game it is described as: \"A disc aflame with charged up plasma, exploding on contact.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 32."
+  ],
+  "verdict": "Overall Plasma Disc is \"a situational Ammo\" pick."
+ },
+ "Plasma_Flail": {
+  "lead": "Plasma Flail is a Blunt Melee in Abiotic Factor. It deals 65 damage of the Laser type. It is a Tier 5 item. It weighs 4 per unit. In-game it is described as: \"A sphere of hot plasma suspended in an advanced magnet array, swung wildly from a precarious braid of wires and gizmos.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 65 damage places it the hardest-hitting of the 18 Blunt Melee entries tracked here (#1 by raw damage).",
+   "Against the enemies catalogued here, 2 are weak to Laser damage — including Defense Bot and Reaper — so this is worth carrying before those fights.",
+   "Practical notes: it has 75 durability before repair."
+  ],
+  "verdict": "Overall Plasma Flail is \"a top-damage Blunt Melee\" pick whose Laser damage profile should be matched to enemy weaknesses."
+ },
+ "Plasmois_Rifle": {
+  "lead": "Plasmois Rifle is an Overworld Ranged in Abiotic Factor. It deals 50 damage of the Plasma type. It is a Tier 6 item. It weighs 8 per unit. In-game it is described as: \"A rifle retooled to ionize projectiles that deal increased damage against bodyshields, with all pre-installed biometric locks now removed.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 50 damage places it among the stronger of the 21 Overworld Ranged entries tracked here (#7 by raw damage).",
+   "Against the enemies catalogued here, 4 are weak to Plasma damage — including The Snowman (Enemy), Tarasque, Mushroom Peccary, and 1 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 52 durability before repair."
+  ],
+  "verdict": "Overall Plasmois Rifle is \"a strong Overworld Ranged\" pick whose Plasma damage profile should be matched to enemy weaknesses."
+ },
+ "Polished_Antique_Shotgun": {
+  "lead": "Polished Antique Shotgun is an Overworld Ranged in Abiotic Factor. It deals 30 damage of the Shotgun Pellet type. It is a Tier 6 item. It weighs 6 per unit. In-game it is described as: \"A break-action double barrel shotgun of a rather old make. ... And something more.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 30 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Shotgun Pellet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Polished Antique Shotgun is \"a middle-of-the-pack Overworld Ranged\" pick whose Shotgun Pellet damage profile should be matched to enemy weaknesses."
+ },
+ "Quantum_Pick": {
+  "lead": "Quantum Pick is a Sharp Melee in Abiotic Factor. It deals 50 damage. It is a Tier 6 item. It weighs 4 per unit. In-game it is described as: \"A throwable pick that returns automatically to the hand.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 50 damage places it the hardest-hitting of the 20 Sharp Melee entries tracked here (#3 by raw damage).",
+   "Practical notes: it has 80 durability before repair."
+  ],
+  "verdict": "Overall Quantum Pick is \"a top-damage Sharp Melee\" pick."
+ },
+ "Quill_Rifle": {
+  "lead": "Quill Rifle is a Science Ranged in Abiotic Factor. It deals 35 damage of the Sharp/Acid type. It is a Tier 5 item. It weighs 8 per unit. In-game it is described as: \"A re-engineered bioweapon, turning Exor quills into deadly homing bolts that stick into targets and coat them with acidic residue.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 35 damage places it mid-pack of the 22 Science Ranged entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 19 are weak to Sharp/Acid damage — including Armored Exor, Jotun, Jotun of the Fallow, and 16 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 45 durability before repair."
+  ],
+  "verdict": "Overall Quill Rifle is \"a middle-of-the-pack Science Ranged\" pick whose Sharp/Acid damage profile should be matched to enemy weaknesses."
+ },
+ "Quill_Spear": {
+  "lead": "Quill Spear is a Sharp Melee in Abiotic Factor. It deals 42 damage. It is a Tier 6 item. It weighs 2.5 per unit. In-game it is described as: \"A spear based loosely on existing Exor designs, capable of loading and firing a barrage of deadly quills.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 42 damage places it among the stronger of the 20 Sharp Melee entries tracked here (#5 by raw damage).",
+   "Practical notes: it has 45 durability before repair."
+  ],
+  "verdict": "Overall Quill Spear is \"a strong Sharp Melee\" pick."
+ },
+ "REDACTION_Grenade": {
+  "lead": "REDACTION Grenade is a Throwable in Abiotic Factor. It deals 400 damage of the Black Hole type. It is a Tier 6 item. It weighs 3 per unit. In-game it is described as: \"Whatever information was available on this device, it's long gone now.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 400 damage places it the hardest-hitting of the 14 Throwable entries tracked here (#2 by raw damage)."
+  ],
+  "verdict": "Overall REDACTION Grenade is \"a top-damage Throwable\" pick whose Black Hole damage profile should be matched to enemy weaknesses."
+ },
+ "Rail_Rifle": {
+  "lead": "Rail Rifle is an Overworld Ranged in Abiotic Factor. It deals 120 damage of the Sniper Bullet type. It is a Tier 5 item. It weighs 7 per unit. In-game it is described as: \"A magnetically extended and rechambered hyper-projectile sniper rifle.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 120 damage places it the hardest-hitting of the 21 Overworld Ranged entries tracked here (#2 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Sniper Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Rail Rifle is \"a top-damage Overworld Ranged\" pick whose Sniper Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Ramrod": {
+  "lead": "Ramrod is a Blunt Melee in Abiotic Factor. It deals 44 damage of the Blunt type. It is a Tier 6 item. It weighs 5 per unit. In-game it is described as: \"A powerful electrical mace with an extended capacitor bank for heavier shocks.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 44 damage places it among the stronger of the 18 Blunt Melee entries tracked here (#3 by raw damage).",
+   "Against the enemies catalogued here, 9 are weak to Blunt damage — including Giant Power Leech, Neophyte, Snow Peccary, and 6 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 60 durability before repair."
+  ],
+  "verdict": "Overall Ramrod is \"a strong Blunt Melee\" pick whose Blunt damage profile should be matched to enemy weaknesses."
+ },
+ "Rat_Scanner": {
+  "lead": "Rat Scanner is a Blunt Melee in Abiotic Factor. It deals 12 damage. It is a Tier 2 item. It weighs 2 per unit. In-game it is described as: \"An ornamented device built for scanning something in the environment that isn't immediately clear. Should make a decent whacking stick, though.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 12 damage places it mid-pack of the 18 Blunt Melee entries tracked here (#11 by raw damage).",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Rat Scanner is \"a middle-of-the-pack Blunt Melee\" pick."
+ },
+ "Rebar_Bolt": {
+  "lead": "Rebar Bolt is an Ammo in Abiotic Factor. It is a Tier 4 item. It weighs 0.07 per unit. In-game it is described as: \"Ammo for a high-tech crossbow.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall Rebar Bolt is \"a situational Ammo\" pick."
+ },
+ "Rocket": {
+  "lead": "Rocket is an Ammo in Abiotic Factor. It is a Tier 6 item. It weighs 1 per unit. In-game it is described as: \"A highly explosive self-propelled rocket with a single purpose.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Rocket is \"a situational Ammo\" pick."
+ },
+ "Rocket_Launcher": {
+  "lead": "Rocket Launcher is a Science Ranged in Abiotic Factor. It deals 1150 damage of the Explosive type. It is a Tier 6 item. It weighs 10 per unit. In-game it is described as: \"An extremely capable explosive-hurtling device with a homing mechanism implemented in the scope. Rockets can be manually detonated mid-flight when guided. Depending on the ammunition used, the function of this launcher can vary.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 1150 damage places it the hardest-hitting of the 22 Science Ranged entries tracked here (#1 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Explosive damage — including Nyth — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Rocket Launcher is \"a top-damage Science Ranged\" pick whose Explosive damage profile should be matched to enemy weaknesses."
+ },
+ "Romag_Shotgun": {
+  "lead": "Romag Shotgun is an Overworld Ranged in Abiotic Factor. It deals 18 damage of the Shotgun Pellet type. It is a Tier 3 item. It weighs 6 per unit. In-game it is described as: \"An assault shotgun, coated in black.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 18 damage places it on the lower end of the 21 Overworld Ranged entries tracked here (#19 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Shotgun Pellet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Romag Shotgun is \"a low-damage Overworld Ranged\" pick whose Shotgun Pellet damage profile should be matched to enemy weaknesses."
+ },
+ "Scrapshot": {
+  "lead": "Scrapshot is a Science Ranged in Abiotic Factor. It deals 12 damage of the Shotgun Pellet type. It is a Tier 2 item. It weighs 8 per unit. In-game it is described as: \"Break action electromagnetic scrap shotgun.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 12 damage places it on the lower end of the 22 Science Ranged entries tracked here (#19 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Shotgun Pellet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 20 durability before repair."
+  ],
+  "verdict": "Overall Scrapshot is \"a low-damage Science Ranged\" pick whose Shotgun Pellet damage profile should be matched to enemy weaknesses."
+ },
+ "Scrapshot_Ammo": {
+  "lead": "Scrapshot Ammo is an Ammo in Abiotic Factor. It is a Tier 2 item. It weighs 0.035 per unit. In-game it is described as: \"Makeshift ammo for makeshift weapons.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall Scrapshot Ammo is \"a situational Ammo\" pick."
+ },
+ "Scrapshot_FL": {
+  "lead": "Scrapshot FL is a Science Ranged in Abiotic Factor. It deals 12 damage of the Shotgun Pellet type. It is a Tier 2 item. It weighs 8.5 per unit. In-game it is described as: \"Break action electromagnetic scrap shotgun with a flashlight attached to it.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 12 damage places it on the lower end of the 22 Science Ranged entries tracked here (#19 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Shotgun Pellet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 20 durability before repair."
+  ],
+  "verdict": "Overall Scrapshot FL is \"a low-damage Science Ranged\" pick whose Shotgun Pellet damage profile should be matched to enemy weaknesses."
+ },
+ "Security_Pistol": {
+  "lead": "Security Pistol is an Overworld Ranged in Abiotic Factor. It deals 26 damage of the Small Bullet type. It is a Tier 1 item. It weighs 3 per unit. In-game it is described as: \"Your standard-issue firearm for facility security.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 26 damage places it on the lower end of the 21 Overworld Ranged entries tracked here (#17 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Small Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 35 durability before repair."
+  ],
+  "verdict": "Overall Security Pistol is \"a low-damage Overworld Ranged\" pick whose Small Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Security_Pistol_FL": {
+  "lead": "Security Pistol FL is an Overworld Ranged in Abiotic Factor. It deals 26 damage of the Small Bullet type. It is a Tier 1 item. It weighs 3.2 per unit. In-game it is described as: \"Your standard-issue firearm for facility security, with a flashlight duct taped to it.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 26 damage places it on the lower end of the 21 Overworld Ranged entries tracked here (#17 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Small Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 35 durability before repair."
+  ],
+  "verdict": "Overall Security Pistol FL is \"a low-damage Overworld Ranged\" pick whose Small Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Seeker_Quill": {
+  "lead": "Seeker Quill is an Ammo in Abiotic Factor. It is a Tier 5 item. It weighs 0.05 per unit. In-game it is described as: \"An Exor quill with a bit of homing science to spice things up.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 30."
+  ],
+  "verdict": "Overall Seeker Quill is \"a situational Ammo\" pick."
+ },
+ "Shock_Bolt": {
+  "lead": "Shock Bolt is an Ammo in Abiotic Factor. It is a Tier 4 item. It weighs 0.04 per unit. In-game it is described as: \"A bolt with stunning capabilities.\"",
+  "body": [
+   "Ammunition rather than a weapon in its own right — carry the guns that chamber it and match the round to the engagement distance.",
+   "Practical notes: it stacks up to 20."
+  ],
+  "verdict": "Overall Shock Bolt is \"a situational Ammo\" pick."
+ },
+ "Shredshot": {
+  "lead": "Shredshot is a Science Ranged in Abiotic Factor. It deals 22 damage of the Shotgun Pellet type. It is a Tier 5 item. It weighs 8.5 per unit. In-game it is described as: \"A break-action coil gun refitted with extended magazine capacity and rapid-charge ultracapacitors for micro-detonation on impact.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 22 damage places it mid-pack of the 22 Science Ranged entries tracked here (#15 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Shotgun Pellet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 35 durability before repair."
+  ],
+  "verdict": "Overall Shredshot is \"a middle-of-the-pack Science Ranged\" pick whose Shotgun Pellet damage profile should be matched to enemy weaknesses."
+ },
+ "Skink_(Weapon)": {
+  "lead": "Skink (Weapon) is a Science Ranged in Abiotic Factor. It deals 40 damage of the Acid type. It is a Tier 6 item. It weighs 10 per unit. In-game it is described as: \"A deadly biological cannon, with a very affable demeanour.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 40 damage places it mid-pack of the 22 Science Ranged entries tracked here (#9 by raw damage).",
+   "Against the enemies catalogued here, 14 are weak to Acid damage — including Armored Exor, Jotun, Jotun of the Fallow, and 11 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 60 durability before repair."
+  ],
+  "verdict": "Overall Skink (Weapon) is \"a middle-of-the-pack Science Ranged\" pick whose Acid damage profile should be matched to enemy weaknesses."
+ },
+ "Sledgehammer": {
+  "lead": "Sledgehammer is a Heavy Blunt Melee in Abiotic Factor. It deals 45 damage. It is a Tier 2 item. It weighs 9 per unit. In-game it is described as: \"An exceptionally heavy hammer for pounding things into the ground.\"",
+  "body": [
+   "A heavy blunt melee weapon: it staggers and breaks through armor, at the cost of swing speed and stamina.",
+   "Its 45 damage places it on the lower end of the 5 Heavy Blunt Melee entries tracked here (#5 by raw damage).",
+   "Practical notes: it has 20 durability before repair."
+  ],
+  "verdict": "Overall Sledgehammer is \"a low-damage Heavy Blunt Melee\" pick."
+ },
+ "Slushie_Bomb": {
+  "lead": "Slushie Bomb is a Throwable in Abiotic Factor. It deals Cold damage. It is a Tier 1 item. It weighs 0.15 per unit. In-game it is described as: \"Once an ice cold drink, now turned into an ice bomb of sorts. Can really put a chill on any encounter.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Slushie Bomb is \"a situational Throwable\" pick whose Cold damage profile should be matched to enemy weaknesses."
+ },
+ "Snowball": {
+  "lead": "Snowball is a Throwable in Abiotic Factor. It is a Tier 3 item. It weighs 0.1 per unit. In-game it is described as: \"Your typical ball of packed ice and snow.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Practical notes: it stacks up to 32."
+  ],
+  "verdict": "Overall Snowball is \"a situational Throwable\" pick."
+ },
+ "Snowfall_Shotgun": {
+  "lead": "Snowfall Shotgun is an Overworld Ranged in Abiotic Factor. It deals 18 damage of the Cold type. It is a Tier 7 item. It weighs 7 per unit. In-game it is described as: \"A heavy shotgun, cryogenically refitted to fire ricocheting rounds that freeze enemies.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 18 damage places it on the lower end of the 21 Overworld Ranged entries tracked here (#19 by raw damage).",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Snowfall Shotgun is \"a low-damage Overworld Ranged\" pick whose Cold damage profile should be matched to enemy weaknesses."
+ },
+ "Stun_Baton": {
+  "lead": "Stun Baton is a Blunt Melee in Abiotic Factor. It deals 25 damage. It is a Tier 4 item. It weighs 3 per unit. In-game it is described as: \"An electrified baton that briefly immobilizes enemies.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 25 damage places it among the stronger of the 18 Blunt Melee entries tracked here (#7 by raw damage).",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Stun Baton is \"a strong Blunt Melee\" pick."
+ },
+ "Sword": {
+  "lead": "Sword is a Sharp Melee in Abiotic Factor. It deals 20 damage. It is a Tier 3 item. It weighs 10 per unit. In-game it is described as: \"An edged, bladed weapon intended for cutting.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 20 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#12 by raw damage).",
+   "Practical notes: it has 38 durability before repair."
+  ],
+  "verdict": "Overall Sword is \"a middle-of-the-pack Sharp Melee\" pick."
+ },
+ "Talagi_Magnum": {
+  "lead": "Talagi Magnum is an Overworld Ranged in Abiotic Factor. It deals 100 damage of the Large Bullet type. It is a Tier 2 item. It weighs 7 per unit. In-game it is described as: \"A high-powered handcannon capable of neutralizing large foes and completely obliterating smaller ones.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 100 damage places it among the stronger of the 21 Overworld Ranged entries tracked here (#5 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Large Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Talagi Magnum is \"a strong Overworld Ranged\" pick whose Large Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Tech_Sceptre": {
+  "lead": "Tech Sceptre is a Blunt Melee in Abiotic Factor. It deals 18 damage of the Blunt type. It is a Tier 3 item. It weighs 5 per unit. In-game it is described as: \"An electrically charged mace. Requires a charge to deal electrical damage and knock back enemies.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 18 damage places it mid-pack of the 18 Blunt Melee entries tracked here (#10 by raw damage).",
+   "Against the enemies catalogued here, 9 are weak to Blunt damage — including Giant Power Leech, Neophyte, Snow Peccary, and 6 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 40 durability before repair."
+  ],
+  "verdict": "Overall Tech Sceptre is \"a middle-of-the-pack Blunt Melee\" pick whose Blunt damage profile should be matched to enemy weaknesses."
+ },
+ "Thermal_Mallet": {
+  "lead": "Thermal Mallet is a Blunt Melee in Abiotic Factor. It deals 20 damage of the Blunt type. It is a Tier 2 item. It weighs 3 per unit. In-game it is described as: \"A sturdy hammer capable of leaving scorching fire at the location it hits.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 20 damage places it mid-pack of the 18 Blunt Melee entries tracked here (#9 by raw damage).",
+   "Against the enemies catalogued here, 9 are weak to Blunt damage — including Giant Power Leech, Neophyte, Snow Peccary, and 6 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 35 durability before repair."
+  ],
+  "verdict": "Overall Thermal Mallet is \"a middle-of-the-pack Blunt Melee\" pick whose Blunt damage profile should be matched to enemy weaknesses."
+ },
+ "Thermite_Molotov": {
+  "lead": "Thermite Molotov is a Throwable in Abiotic Factor. It deals 10 damage of the Fire type. It is a Tier 3 item. It weighs 0.35 per unit. In-game it is described as: \"An explosive charge made from alien residue.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 10 damage places it on the lower end of the 14 Throwable entries tracked here (#12 by raw damage).",
+   "Against the enemies catalogued here, 12 are weak to Fire damage — including Behemoth, The Snowman (Enemy), Tarasque, and 9 more — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 10."
+  ],
+  "verdict": "Overall Thermite Molotov is \"a low-damage Throwable\" pick whose Fire damage profile should be matched to enemy weaknesses."
+ },
+ "Thresher": {
+  "lead": "Thresher is a Science Ranged in Abiotic Factor. It deals 60 damage of the Sharp/\"Holy\"/Fire type. It is a Tier 5 item. It weighs 5 per unit. In-game it is described as: \"A heavy-hitting carbon alloy blade launcher with a twin-tier accelerator.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Its 60 damage places it among the stronger of the 22 Science Ranged entries tracked here (#6 by raw damage).",
+   "Against the enemies catalogued here, 23 are weak to Sharp/\"Holy\"/Fire damage — including Behemoth, Corrupted Bot, Jotun, and 20 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Thresher is \"a strong Science Ranged\" pick whose Sharp/\"Holy\"/Fire damage profile should be matched to enemy weaknesses."
+ },
+ "Throw_Net": {
+  "lead": "Throw Net is a Throwable in Abiotic Factor. It is a Tier 1 item. It weighs 0.1 per unit. In-game it is described as: \"A throwable net, great for temporarily trapping small creatures, leaving them vulnerable. This net might even confuse a larger creature for a short while.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Practical notes: it stacks up to 16."
+  ],
+  "verdict": "Overall Throw Net is \"a situational Throwable\" pick."
+ },
+ "Throwing_Crystal": {
+  "lead": "Throwing Crystal is a Throwable in Abiotic Factor. It deals 16 damage of the Sharp type. It is a Tier 2 item. It weighs 0.075 per unit. In-game it is described as: \"A pellucid blade made from the knapped crystal remains of IS-0139, fragile but expertly balanced for throwing.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 16 damage places it on the lower end of the 14 Throwable entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 64."
+  ],
+  "verdict": "Overall Throwing Crystal is \"a low-damage Throwable\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Throwing_Dart": {
+  "lead": "Throwing Dart is a Throwable in Abiotic Factor. It deals 9 damage of the Sharp type. It is a Tier 1 item. It weighs 0.05 per unit. In-game it is described as: \"A simple, throwable blade, but unlikely to survive the journey.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 9 damage places it on the lower end of the 14 Throwable entries tracked here (#14 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 64."
+  ],
+  "verdict": "Overall Throwing Dart is \"a low-damage Throwable\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Throwing_Quill": {
+  "lead": "Throwing Quill is a Throwable in Abiotic Factor. It deals 22 damage of the Sharp/Acid type. It is a Tier 4 item. It weighs 0.1 per unit. In-game it is described as: \"A throwable, acidic quill derived from IS-0184 and its kin. Not particularly durable, but particularly deadly.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 22 damage places it on the lower end of the 14 Throwable entries tracked here (#10 by raw damage).",
+   "Against the enemies catalogued here, 19 are weak to Sharp/Acid damage — including Armored Exor, Jotun, Jotun of the Fallow, and 16 more — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 64."
+  ],
+  "verdict": "Overall Throwing Quill is \"a low-damage Throwable\" pick whose Sharp/Acid damage profile should be matched to enemy weaknesses."
+ },
+ "Throwing_Shard": {
+  "lead": "Throwing Shard is a Throwable in Abiotic Factor. It deals 32 damage of the Sharp/Cold type. It is a Tier 7 item. It weighs 0.125 per unit. In-game it is described as: \"A lethally sharp and strong blade of super-hardened ice.\"",
+  "body": [
+   "A throwable: soften or finish a target from range without committing to melee, then pick up what it leaves behind.",
+   "Its 32 damage places it mid-pack of the 14 Throwable entries tracked here (#8 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp/Cold damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it stacks up to 64."
+  ],
+  "verdict": "Overall Throwing Shard is \"a middle-of-the-pack Throwable\" pick whose Sharp/Cold damage profile should be matched to enemy weaknesses."
+ },
+ "Thumper_Shotgun": {
+  "lead": "Thumper Shotgun is an Overworld Ranged in Abiotic Factor. It deals 18 damage of the Acid type. It is a Tier 5 item. It weighs 7 per unit. In-game it is described as: \"A hefty shotgun that launches acidic, ricocheting rounds, with biometric locks removed.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 18 damage places it on the lower end of the 21 Overworld Ranged entries tracked here (#19 by raw damage).",
+   "Against the enemies catalogued here, 14 are weak to Acid damage — including Armored Exor, Jotun, Jotun of the Fallow, and 11 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 35 durability before repair."
+  ],
+  "verdict": "Overall Thumper Shotgun is \"a low-damage Overworld Ranged\" pick whose Acid damage profile should be matched to enemy weaknesses."
+ },
+ "Toaster_SMG": {
+  "lead": "Toaster SMG is an Overworld Ranged in Abiotic Factor. It deals 30 damage of the Fire type. It is a Tier 3 item. It weighs 5 per unit. In-game it is described as: \"A 9mm SMG augmented to coat rounds in a flammable gel that ignites targets, with biometric locks removed.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 30 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 12 are weak to Fire damage — including Behemoth, The Snowman (Enemy), Tarasque, and 9 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Toaster SMG is \"a middle-of-the-pack Overworld Ranged\" pick whose Fire damage profile should be matched to enemy weaknesses."
+ },
+ "Toilet_Plunger": {
+  "lead": "Toilet Plunger is a Blunt Melee in Abiotic Factor. It deals 10 damage. It is a Tier 5 item. It weighs 0.75 per unit. In-game it is described as: \"It sort of speaks for itself.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 10 damage places it on the lower end of the 18 Blunt Melee entries tracked here (#15 by raw damage).",
+   "Practical notes: it has 20 durability before repair."
+  ],
+  "verdict": "Overall Toilet Plunger is \"a low-damage Blunt Melee\" pick."
+ },
+ "Umbrella": {
+  "lead": "Umbrella is a Blunt Melee in Abiotic Factor. It deals 12 damage. It is a Tier 3 item. It weighs 6 per unit. In-game it is described as: \"Portable protection from rain or sun.\"",
+  "body": [
+   "A blunt melee weapon — it staggers enemies and is the natural answer to armored or shielded foes.",
+   "Its 12 damage places it mid-pack of the 18 Blunt Melee entries tracked here (#11 by raw damage).",
+   "Practical notes: it has 10 durability before repair."
+  ],
+  "verdict": "Overall Umbrella is \"a middle-of-the-pack Blunt Melee\" pick."
+ },
+ "Verdant_Skink_(Weapon)": {
+  "lead": "Verdant Skink (Weapon) is a Science Ranged in Abiotic Factor. It is a Tier 6 item. It weighs 10 per unit. In-game it is described as: \"Flings skink mucus to apply medical aid to allies from afar. Charged shots create larger healing clouds.\"",
+  "body": [
+   "A science-tier ranged weapon — it draws on the facility's own tech and typically trades conventional ammo for energy or exotic payloads.",
+   "Practical notes: it has 60 durability before repair."
+  ],
+  "verdict": "Overall Verdant Skink (Weapon) is \"a situational Science Ranged\" pick."
+ },
+ "Verenkov's_SMG": {
+  "lead": "Verenkov's SMG is an Overworld Ranged in Abiotic Factor. It deals 30 damage of the Plasma type. It is a Tier 6 item. It weighs 5 per unit. In-game it is described as: \"A heavily retooled SMG that ionizes projectiles for greater damage against bodyshields, with biometric locks removed.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 30 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#11 by raw damage).",
+   "Against the enemies catalogued here, 4 are weak to Plasma damage — including The Snowman (Enemy), Tarasque, Mushroom Peccary, and 1 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 50 durability before repair."
+  ],
+  "verdict": "Overall Verenkov's SMG is \"a middle-of-the-pack Overworld Ranged\" pick whose Plasma damage profile should be matched to enemy weaknesses."
+ },
+ "Volt_Staff": {
+  "lead": "Volt Staff is a Sharp Melee in Abiotic Factor. It deals 42 damage. It is a Tier 6 item. It weighs 4 per unit. In-game it is described as: \"An augmented Exor staff that condenses and discharges bioelectric energy. Charges by striking foes.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 42 damage places it among the stronger of the 20 Sharp Melee entries tracked here (#5 by raw damage).",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Volt Staff is \"a strong Sharp Melee\" pick."
+ },
+ "Weapons_and_Ammo": {
+  "lead": "Weapons and Ammo is a weapon in Abiotic Factor.",
+  "body": [
+   "A usable weapon in the facility — check its damage type against enemy weaknesses before you commit."
+  ],
+  "verdict": "Overall Weapons and Ammo is \"a situational weapon\" pick."
+ },
+ "Welding_Spear": {
+  "lead": "Welding Spear is a Sharp Melee in Abiotic Factor. It deals 18 damage of the Sharp type. It is a Tier 2 item. It weighs 3 per unit. In-game it is described as: \"A superheated spear capable of dealing explosive fire damage to targets.\"",
+  "body": [
+   "A sharp melee weapon — fast enough for hit-and-run and strong on single targets, since bleed-style damage rewards staying on one enemy.",
+   "Its 18 damage places it mid-pack of the 20 Sharp Melee entries tracked here (#14 by raw damage).",
+   "Against the enemies catalogued here, 6 are weak to Sharp damage — including Neophyte, Captain, Grunt, and 3 more — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Welding Spear is \"a middle-of-the-pack Sharp Melee\" pick whose Sharp damage profile should be matched to enemy weaknesses."
+ },
+ "Wessex_Rifle": {
+  "lead": "Wessex Rifle is an Overworld Ranged in Abiotic Factor. It deals 105 damage of the Sniper Bullet type. It is a Tier 2 item. It weighs 7 per unit. In-game it is described as: \"A high-powered, bolt-action, military-grade sniper rifle.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 105 damage places it among the stronger of the 21 Overworld Ranged entries tracked here (#4 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Sniper Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 30 durability before repair."
+  ],
+  "verdict": "Overall Wessex Rifle is \"a strong Overworld Ranged\" pick whose Sniper Bullet damage profile should be matched to enemy weaknesses."
+ },
+ "Woodsman's_Axe": {
+  "lead": "Woodsman's Axe is a Heavy Sharp Melee in Abiotic Factor. It deals 60 damage. It is a Tier 4 item. It weighs 10 per unit. In-game it is described as: \"A hefty axe for felling the strongest trees. Or foes.\"",
+  "body": [
+   "A heavy sharp melee weapon: slow swings but high per-hit damage — good for opening on a single tough target rather than clearing a crowd.",
+   "Its 60 damage places it mid-pack of the 6 Heavy Sharp Melee entries tracked here (#3 by raw damage).",
+   "Practical notes: it has 22 durability before repair."
+  ],
+  "verdict": "Overall Woodsman's Axe is \"a middle-of-the-pack Heavy Sharp Melee\" pick."
+ },
+ "Z-17": {
+  "lead": "Z-17 is an Overworld Ranged in Abiotic Factor. It deals 36 damage of the Small Bullet type. It is a Tier 5 item. It weighs 4 per unit. In-game it is described as: \"An exceptionally well-engineered and balanced semi-automatic sidearm with integrated suppressor, weighted for high velocity and low recoil.\"",
+  "body": [
+   "A conventional firearm. Keep it fed with the matching ammo type and use range to soften a target before it closes the gap.",
+   "Its 36 damage places it mid-pack of the 21 Overworld Ranged entries tracked here (#10 by raw damage).",
+   "Against the enemies catalogued here, 1 is weak to Small Bullet damage — including Zombie — so this is worth carrying before those fights.",
+   "Practical notes: it has 45 durability before repair."
+  ],
+  "verdict": "Overall Z-17 is \"a middle-of-the-pack Overworld Ranged\" pick whose Small Bullet damage profile should be matched to enemy weaknesses."
+ }
+}

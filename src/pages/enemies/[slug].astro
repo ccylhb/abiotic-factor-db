@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import enemies from "../../data/enemies.json";
+import proseMap from "../../data/prose_enemies.json";
 
 import Related from "../../components/Related.astro";
 export function getStaticPaths() {
@@ -11,6 +12,7 @@ export function getStaticPaths() {
 }
 
 const { enemy } = Astro.props;
+const prose = (proseMap as any)[enemy.slug];
 const sameType = enemies
   .filter((e) => e.type && enemy.type && e.type === enemy.type && e.slug !== enemy.slug)
   .slice(0, 8);
@@ -44,12 +46,16 @@ const desc =
     </table>
   </div>
 
-  {enemy.summary && (
-    <>
-      <h2>About {enemy.name}</h2>
-      <p>{enemy.summary}</p>
-    </>
-  )}
+  <h2>About {enemy.name}</h2>
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : enemy.summary ? (
+    <p>{enemy.summary}</p>
+  ) : null}
 
   <p class="muted">
     Fighting {enemy.name}: exploit its {enemy.weakness || "weak points"} and avoid

@@ -1,0 +1,2277 @@
+{
+ "A.E.G.I.S._Chestplate": {
+  "lead": "A.E.G.I.S. Chestplate is a Chest Armor item in Abiotic Factor. It provides 15 armor. It adds 1 heat resistance. It is Tier 3. In-game it is described as: \"An industrial-edged curiass reinforced by carbon fiber.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 15 armor ranks #25 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 9 and has 43 durability."
+  ],
+  "verdict": "Overall A.E.G.I.S. Chestplate is a Chest Armor piece best used as part of its full set to unlock \"The Resistance\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "A.E.G.I.S._Greaves": {
+  "lead": "A.E.G.I.S. Greaves is a Leg Armor item in Abiotic Factor. It provides 15 armor. It is Tier 3. In-game it is described as: \"Protective leg-wear with multi-layer carbon fiber reinforcement.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 15 armor ranks #25 of 33 entries here — on the lower end.",
+   "On the details, it weighs 9 and has 27 durability."
+  ],
+  "verdict": "Overall A.E.G.I.S. Greaves is a Leg Armor piece best used as part of its full set to unlock \"The Resistance\"."
+ },
+ "A.E.G.I.S._Helmet": {
+  "lead": "A.E.G.I.S. Helmet is a Head Armor item in Abiotic Factor. It provides 15 armor. It is Tier 3. In-game it is described as: \"Heavy duty head protection, reinforced with carbon fiber.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 15 armor ranks #24 of 61 entries here — above average.",
+   "On the details, it weighs 9 and has 30 durability."
+  ],
+  "verdict": "Overall A.E.G.I.S. Helmet is a Head Armor piece best used as part of its full set to unlock \"The Resistance\"."
+ },
+ "A.E.G.I.S._Pauldrons": {
+  "lead": "A.E.G.I.S. Pauldrons is an Arm Armor item in Abiotic Factor. It provides 15 armor. It adds 1 heat resistance. It is Tier 3. In-game it is described as: \"Carbon-reinforced arm protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 15 armor ranks #25 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 9 and has 27 durability."
+  ],
+  "verdict": "Overall A.E.G.I.S. Pauldrons is a Arm Armor piece best used as part of its full set to unlock \"The Resistance\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "A.T.O.M.S._Chestplate": {
+  "lead": "A.T.O.M.S. Chestplate is a Chest Armor item in Abiotic Factor. It provides 22 armor. It adds 1 heat resistance. It is Tier 6. In-game it is described as: \"Significantly enhanced chest shielding.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 22 armor ranks #7 of 37 entries here — above average.",
+   "On the details, it weighs 9 and has 55 durability."
+  ],
+  "verdict": "Overall A.T.O.M.S. Chestplate is a Chest Armor piece best used as part of its full set to unlock \"The Resistance\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "A.T.O.M.S._Greaves": {
+  "lead": "A.T.O.M.S. Greaves is a Leg Armor item in Abiotic Factor. It provides 22 armor. It is Tier 6. In-game it is described as: \"Powerfully upgraded protective leg-wear.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 22 armor ranks #7 of 33 entries here — above average.",
+   "On the details, it weighs 9 and has 42 durability."
+  ],
+  "verdict": "Overall A.T.O.M.S. Greaves is a Leg Armor piece best used as part of its full set to unlock \"The Resistance\"."
+ },
+ "A.T.O.M.S._Helmet": {
+  "lead": "A.T.O.M.S. Helmet is a Head Armor item in Abiotic Factor. It provides 22 armor. It is Tier 6. In-game it is described as: \"Heavily reinforced head protection elevated from its industrial origins.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 22 armor ranks #7 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 9 and has 45 durability."
+  ],
+  "verdict": "Overall A.T.O.M.S. Helmet is a Head Armor piece best used as part of its full set to unlock \"The Resistance\"."
+ },
+ "A.T.O.M.S._Pauldrons": {
+  "lead": "A.T.O.M.S. Pauldrons is an Arm Armor item in Abiotic Factor. It provides 22 armor. It adds 1 heat resistance. It is Tier 6. In-game it is described as: \"Highly advanced arm protections.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 22 armor ranks #7 of 38 entries here — above average.",
+   "On the details, it weighs 9 and has 42 durability."
+  ],
+  "verdict": "Overall A.T.O.M.S. Pauldrons is a Arm Armor piece best used as part of its full set to unlock \"The Resistance\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Accursed_Hood": {
+  "lead": "Accursed Hood is a Head Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"A sturdy cloth-draped mask with careful spiral woodwork, reminiscent of the natural weavings of the Hexwood from which it's carved.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Hexed Skin\"; wearing the full set upgrades it to \"Hexed Soul\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 17 armor ranks #18 of 61 entries here — above average.",
+   "On the details, it weighs 6 and has 32 durability."
+  ],
+  "verdict": "Overall Accursed Hood is a Head Armor piece best used as part of its full set to unlock \"Hexed Soul\"."
+ },
+ "Alpha_Helmet": {
+  "lead": "Alpha Helmet is a Head Armor item in Abiotic Factor. It provides 9 armor. It is Tier 3. In-game it is described as: \"A helmet made from a rare, red Peccary.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 9 armor ranks #37 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 5 and has 35 durability."
+  ],
+  "verdict": "Overall Alpha Helmet is a Head Armor piece."
+ },
+ "Alpine_Pack": {
+  "lead": "Alpine Pack is a Backpack item in Abiotic Factor. It is Tier 5. In-game it is described as: \"An artic pack for cold-weather mountaineering.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Alpine Pack is a Backpack piece."
+ },
+ "Anteplate_Gauntlets": {
+  "lead": "Anteplate Gauntlets is an Arm Armor item in Abiotic Factor. It provides 24 armor. It is Tier 7. In-game it is described as: \"Highly-protective arm defense leveraging the mortal remains of exotic creatures and some other nifty stuff.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 24 armor ranks #4 of 38 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 35 durability."
+  ],
+  "verdict": "Overall Anteplate Gauntlets is a Arm Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Anteplate_Helm": {
+  "lead": "Anteplate Helm is a Head Armor item in Abiotic Factor. It provides 24 armor. It is Tier 7. In-game it is described as: \"An extremely heavy-duty helmet that wears its bio-scavenged origins proudly.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 24 armor ranks #4 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 40 durability."
+  ],
+  "verdict": "Overall Anteplate Helm is a Head Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Anteplate_Plackart": {
+  "lead": "Anteplate Plackart is a Chest Armor item in Abiotic Factor. It provides 24 armor. It adds 1 heat resistance. It is Tier 7. In-game it is described as: \"Strengthened body armor largely crafted from armored bodies.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 24 armor ranks #4 of 37 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 50 durability."
+  ],
+  "verdict": "Overall Anteplate Plackart is a Chest Armor piece best used as part of its full set to unlock \"Thorns\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Anteplate_Sabatons": {
+  "lead": "Anteplate Sabatons is a Leg Armor item in Abiotic Factor. It provides 24 armor. It is Tier 7. In-game it is described as: \"Hardened and reinforced leg defenses forged from defensive insects, amongst other things.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 24 armor ranks #4 of 33 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 35 durability."
+  ],
+  "verdict": "Overall Anteplate Sabatons is a Leg Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Baseball_Cap": {
+  "lead": "Baseball Cap is a Head Armor item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A sporty baseball cap.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 0.1 and has 100 durability."
+  ],
+  "verdict": "Overall Baseball Cap is a Head Armor piece."
+ },
+ "Basic_Backpack": {
+  "lead": "Basic Backpack is a Backpack item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A very small backpack.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 3."
+  ],
+  "verdict": "Overall Basic Backpack is a Backpack piece."
+ },
+ "Beanie": {
+  "lead": "Beanie is a Head Armor item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A cozy beanie.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 0.1 and has 100 durability."
+  ],
+  "verdict": "Overall Beanie is a Head Armor piece."
+ },
+ "Beekeeper_Suit": {
+  "lead": "Beekeeper Suit is a Full Body Suit item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A suit purpose-built for protecting the wearer from all kinds of stinging insects, without doing much else.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Beekeeper Suit is a Full Body Suit piece."
+ },
+ "Behemoth_Helmet": {
+  "lead": "Behemoth Helmet is a Head Armor item in Abiotic Factor. It provides 18 armor. It is Tier 6. In-game it is described as: \"A helmet made from the head of a colossal brute.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 18 armor ranks #15 of 61 entries here — above average.",
+   "On the details, it weighs 20 and has 25 durability."
+  ],
+  "verdict": "Overall Behemoth Helmet is a Head Armor piece."
+ },
+ "Bindings_of_Malediction": {
+  "lead": "Bindings of Malediction is an Arm Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"The protection these gauntlets grant goes beyond the mundane, starting with the name.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Hexed Skin\"; wearing the full set upgrades it to \"Hexed Soul\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 17 armor ranks #18 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 6 and has 20 durability."
+  ],
+  "verdict": "Overall Bindings of Malediction is a Arm Armor piece best used as part of its full set to unlock \"Hexed Soul\"."
+ },
+ "Bio-Fusion_Imitator": {
+  "lead": "Bio-Fusion Imitator is a Trinket item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A field-generating imitator that sends a low electrical signal through the wearer's body, allowing the operation of artifact weapons and overriding any lower tier bio-metric lockouts.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Bio-Fusion Imitator is a Trinket piece."
+ },
+ "Bio-Metric_Armwraps": {
+  "lead": "Bio-Metric Armwraps is an Arm Armor item in Abiotic Factor. It provides 2 armor. It is Tier 2. In-game it is described as: \"These armwraps don't provide much armour, but they do allow the wearer to operate certain weapons.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 2 armor ranks #33 of 38 entries here — on the lower end.",
+   "On the details, it weighs 7 and has 12 durability."
+  ],
+  "verdict": "Overall Bio-Metric Armwraps is a Arm Armor piece."
+ },
+ "Bio-Mimic_Armwraps": {
+  "lead": "Bio-Mimic Armwraps is an Arm Armor item in Abiotic Factor. It provides 4 armor. It is Tier 5. In-game it is described as: \"These armwraps don't provide much armor, but they do allow the wearer to operate special weapons.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 4 armor ranks #30 of 38 entries here — on the lower end.",
+   "On the details, it weighs 7 and has 20 durability."
+  ],
+  "verdict": "Overall Bio-Mimic Armwraps is a Arm Armor piece."
+ },
+ "Bionic_Legs": {
+  "lead": "Bionic Legs is a Leg Armor item in Abiotic Factor. It provides 5 armor. It is Tier 3. In-game it is described as: \"Cobbled together by ingenuity, and a bit of hope, these legs will allow the wearer to move faster and land harder.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Leg Armor slot its 5 armor ranks #30 of 33 entries here — on the lower end.",
+   "On the details, it weighs 12 and has 25 durability."
+  ],
+  "verdict": "Overall Bionic Legs is a Leg Armor piece."
+ },
+ "Blacksmithing_Apron": {
+  "lead": "Blacksmithing Apron is a Chest Armor item in Abiotic Factor. It provides 6 armor. It adds 1 heat resistance. In-game it is described as: \"A very heavy apron used by blacksmiths.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 6 armor ranks #30 of 37 entries here — on the lower end.",
+   "On the details, it weighs 18 and has 30 durability."
+  ],
+  "verdict": "Overall Blacksmithing Apron is a Chest Armor piece, and its heat resistance makes it the right pick for those hazards."
+ },
+ "Blacksmithing_Gloves": {
+  "lead": "Blacksmithing Gloves is an Arm Armor item in Abiotic Factor. It provides 6 armor. It is Tier 2. In-game it is described as: \"Very heavy gloves, typically worn by metalworkers.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 6 armor ranks #29 of 38 entries here — on the lower end.",
+   "On the details, it weighs 16 and has 20 durability."
+  ],
+  "verdict": "Overall Blacksmithing Gloves is a Arm Armor piece."
+ },
+ "Bonnet": {
+  "lead": "Bonnet is a Head Armor item in Abiotic Factor. It is Tier 4. In-game it is described as: \"Seemly headwear from a bygone age.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 1 and has 10 durability."
+  ],
+  "verdict": "Overall Bonnet is a Head Armor piece."
+ },
+ "Breacher_Helmet": {
+  "lead": "Breacher Helmet is a Head Armor item in Abiotic Factor. It provides 12 armor. It is Tier 3. In-game it is described as: \"A helmet of military make, adorned with strange markings and iron bars laid across the face shield.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 12 armor ranks #30 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 17 and has 30 durability."
+  ],
+  "verdict": "Overall Breacher Helmet is a Head Armor piece."
+ },
+ "Breastplate_of_Hex": {
+  "lead": "Breastplate of Hex is a Chest Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"Body armor crafted from the wood of an extremely unusual tree.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Hexed Skin\"; wearing the full set upgrades it to \"Hexed Soul\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 17 armor ranks #18 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 6 and has 37 durability."
+  ],
+  "verdict": "Overall Breastplate of Hex is a Chest Armor piece best used as part of its full set to unlock \"Hexed Soul\"."
+ },
+ "Bucket_Hat": {
+  "lead": "Bucket Hat is a Head Armor item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A utilitarian sun protector.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 0.1 and has 100 durability."
+  ],
+  "verdict": "Overall Bucket Hat is a Head Armor piece."
+ },
+ "CQC_Helmet": {
+  "lead": "CQC Helmet is a Head Armor item in Abiotic Factor. It provides 28 armor. It is Tier 5. In-game it is described as: \"Heavy duty head protection for combat and cold.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 28 armor ranks #1 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 17 and has 30 durability."
+  ],
+  "verdict": "Overall CQC Helmet is a Head Armor piece."
+ },
+ "Captain's_Beret": {
+  "lead": "Captain's Beret is a Head Armor item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A beret worn by what appear to be the squad leaders. It features some sort of rune on the front.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 2 and has 5 durability."
+  ],
+  "verdict": "Overall Captain's Beret is a Head Armor piece."
+ },
+ "Carapace_Gauntlets": {
+  "lead": "Carapace Gauntlets is an Arm Armor item in Abiotic Factor. It provides 18 armor. It is Tier 3. In-game it is described as: \"A chitinous set of arm protectors, built from slain beasts and bit of scientific engineering.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 18 armor ranks #16 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 7 and has 25 durability."
+  ],
+  "verdict": "Overall Carapace Gauntlets is a Arm Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Carapace_Helm": {
+  "lead": "Carapace Helm is a Head Armor item in Abiotic Factor. It provides 18 armor. It is Tier 3. In-game it is described as: \"A sturdy helmet built from some lab equipment and alien carapace.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 18 armor ranks #15 of 61 entries here — above average.",
+   "On the details, it weighs 7 and has 30 durability."
+  ],
+  "verdict": "Overall Carapace Helm is a Head Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Carapace_Plackart": {
+  "lead": "Carapace Plackart is a Chest Armor item in Abiotic Factor. It provides 18 armor. It adds 1 heat resistance. It is Tier 3. In-game it is described as: \"A strong chestplate built from the shells of insects and a few other things.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 18 armor ranks #16 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 7 and has 40 durability."
+  ],
+  "verdict": "Overall Carapace Plackart is a Chest Armor piece best used as part of its full set to unlock \"Thorns\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Carapace_Sabatons": {
+  "lead": "Carapace Sabatons is a Leg Armor item in Abiotic Factor. It provides 18 armor. It is Tier 3. In-game it is described as: \"Leg protection built from the backs of many foes with some laboratory scrap holding it all together.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 18 armor ranks #17 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 7 and has 25 durability."
+  ],
+  "verdict": "Overall Carapace Sabatons is a Leg Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Carbuncle_Balloon": {
+  "lead": "Carbuncle Balloon is a Trinket item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A floating flesh-balloon that reduces pack weight.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 0."
+  ],
+  "verdict": "Overall Carbuncle Balloon is a Trinket piece."
+ },
+ "Carbuncle_Crest": {
+  "lead": "Carbuncle Crest is a Head Armor item in Abiotic Factor. It provides 2 armor. It is Tier 3. In-game it is described as: \"A purple pinnacle of perfection.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 2 armor ranks #49 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 15 durability."
+  ],
+  "verdict": "Overall Carbuncle Crest is a Head Armor piece."
+ },
+ "Carbuncle_Crown": {
+  "lead": "Carbuncle Crown is a Head Armor item in Abiotic Factor. It provides 2 armor. It is Tier 1. In-game it is described as: \"A fancy hat cobbled accordingly from the carcass of a contemptible carbuncle.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 2 armor ranks #49 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 15 durability."
+  ],
+  "verdict": "Overall Carbuncle Crown is a Head Armor piece."
+ },
+ "Cascade_Gauntlets": {
+  "lead": "Cascade Gauntlets is an Arm Armor item in Abiotic Factor. It provides 18 armor. It is Tier 5. In-game it is described as: \"Strong arm covers to keep threats at bay.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 18 armor ranks #16 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 7 and has 35 durability."
+  ],
+  "verdict": "Overall Cascade Gauntlets is a Arm Armor piece best used as part of its full set to unlock \"Threat Sensor\"."
+ },
+ "Cascade_Hauberk": {
+  "lead": "Cascade Hauberk is a Chest Armor item in Abiotic Factor. It provides 18 armor. It is Tier 5. In-game it is described as: \"Science combines with ingenuity to create a chestplate that's effective, light and just a little bit comfy.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 18 armor ranks #16 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 7 and has 45 durability."
+  ],
+  "verdict": "Overall Cascade Hauberk is a Chest Armor piece best used as part of its full set to unlock \"Threat Sensor\"."
+ },
+ "Cascade_Helm": {
+  "lead": "Cascade Helm is a Head Armor item in Abiotic Factor. It provides 18 armor. It is Tier 5. In-game it is described as: \"A strong high-tech helm with a premium visor, provided there's enough of the system present.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 18 armor ranks #15 of 61 entries here — above average.",
+   "On the details, it weighs 7 and has 35 durability."
+  ],
+  "verdict": "Overall Cascade Helm is a Head Armor piece best used as part of its full set to unlock \"Threat Sensor\"."
+ },
+ "Cascade_Legplates": {
+  "lead": "Cascade Legplates is a Leg Armor item in Abiotic Factor. It provides 21 armor. It is Tier 5. In-game it is described as: \"Leg armor made from strong metal alloys and a heap of science.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 21 armor ranks #10 of 33 entries here — above average.",
+   "On the details, it weighs 7 and has 25 durability."
+  ],
+  "verdict": "Overall Cascade Legplates is a Leg Armor piece best used as part of its full set to unlock \"Threat Sensor\"."
+ },
+ "Cerenkov_Legplates": {
+  "lead": "Cerenkov Legplates is a Leg Armor item in Abiotic Factor. It provides 26 armor. It is Tier 6. In-game it is described as: \"Steel-clad legplates, tempered by hot, radioactive spillage and bound together by digital question marks.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Gamma Converter\"; wearing the full set upgrades it to \"Gamma God\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 26 armor ranks #1 of 33 entries here — one of the highest values.",
+   "On the details, it weighs 8 and has 70 durability."
+  ],
+  "verdict": "Overall Cerenkov Legplates is a Leg Armor piece best used as part of its full set to unlock \"Gamma God\"."
+ },
+ "Charge_Shield": {
+  "lead": "Charge Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A shield that delivers an electric shock when struck.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 4 and has 36 durability."
+  ],
+  "verdict": "Overall Charge Shield is a Off-Hand Armament piece."
+ },
+ "Chef_Apron": {
+  "lead": "Chef Apron is a Chest Armor item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A classic mess-preventing cooking apron.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "On the details, it weighs 2 and has 15 durability."
+  ],
+  "verdict": "Overall Chef Apron is a Chest Armor piece."
+ },
+ "Chef_Hat": {
+  "lead": "Chef Hat is a Head Armor item in Abiotic Factor. It is Tier 1. In-game it is described as: \"The hallmark of a true chef.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 1 and has 10 durability."
+  ],
+  "verdict": "Overall Chef Hat is a Head Armor piece."
+ },
+ "Chieftain_Pack": {
+  "lead": "Chieftain Pack is a Backpack item in Abiotic Factor. It is Tier 6. In-game it is described as: \"A rugged, customised backpack focused on field utility, with just a smidge of aegis.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 6."
+  ],
+  "verdict": "Overall Chieftain Pack is a Backpack piece."
+ },
+ "Clamp_Shield": {
+  "lead": "Clamp Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 7. In-game it is described as: \"A shield that projects a rapid-flux vacuum field to temporarily freeze attackers.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 4 and has 56 durability."
+  ],
+  "verdict": "Overall Clamp Shield is a Off-Hand Armament piece."
+ },
+ "Cold_Storage_Pack": {
+  "lead": "Cold Storage Pack is a Backpack item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A large, heavily-insulated field backpack with a dedicated freezer pocket and dual cooling sections.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 8."
+  ],
+  "verdict": "Overall Cold Storage Pack is a Backpack piece."
+ },
+ "Commander's_Cap": {
+  "lead": "Commander's Cap is a Head Armor item in Abiotic Factor. It provides 2 armor. It is Tier 3. In-game it is described as: \"A suitably weather-worn cap that sits atop the head of all commanders of a Planetary Legion.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 2 armor ranks #49 of 61 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 10 durability."
+  ],
+  "verdict": "Overall Commander's Cap is a Head Armor piece."
+ },
+ "Containment_Gloves": {
+  "lead": "Containment Gloves is an Arm Armor item in Abiotic Factor. It provides 1 armor. It is Tier 3. In-game it is described as: \"Long purple gloves, typically worn by those handing precious objects.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 1 armor ranks #34 of 38 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 20 durability."
+  ],
+  "verdict": "Overall Containment Gloves is a Arm Armor piece."
+ },
+ "Core_Companion": {
+  "lead": "Core Companion is a Trinket item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A cold stone with a very soft glow. Pets seem to respond positively to it.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Core Companion is a Trinket piece."
+ },
+ "Corn_Husk_Doll": {
+  "lead": "Corn Husk Doll is a Trinket item in Abiotic Factor. It is Tier 4. In-game it is described as: \"An unsightly doll made from the raw husks of fetid corn.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Corn Husk Doll is a Trinket piece."
+ },
+ "Cowboy_Hat": {
+  "lead": "Cowboy Hat is a Head Armor item in Abiotic Factor. It provides 1 armor. It is Tier 3. In-game it is described as: \"A leather cowboy hat.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 1 armor ranks #55 of 61 entries here — on the lower end.",
+   "On the details, it weighs 0.1 and has 100 durability."
+  ],
+  "verdict": "Overall Cowboy Hat is a Head Armor piece."
+ },
+ "Crystalline_Casque": {
+  "lead": "Crystalline Casque is a Head Armor item in Abiotic Factor. It provides 16 armor. It is Tier 4. In-game it is described as: \"Lightweight head armor crafted from crystalline remains.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 16 armor ranks #23 of 61 entries here — above average.",
+   "On the details, it weighs 10 and has 32 durability."
+  ],
+  "verdict": "Overall Crystalline Casque is a Head Armor piece best used as part of its full set to unlock \"Crystalline Cloak\"."
+ },
+ "Crystalline_Couters": {
+  "lead": "Crystalline Couters is an Arm Armor item in Abiotic Factor. It provides 16 armor. It is Tier 4. In-game it is described as: \"Light but protective crystalline arm protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 16 armor ranks #22 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 20 durability."
+  ],
+  "verdict": "Overall Crystalline Couters is a Arm Armor piece best used as part of its full set to unlock \"Crystalline Cloak\"."
+ },
+ "Crystalline_Cuirass": {
+  "lead": "Crystalline Cuirass is a Chest Armor item in Abiotic Factor. It provides 16 armor. It adds 1 heat resistance. It is Tier 4. In-game it is described as: \"Jagged and reflective armor created from curious dust.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 16 armor ranks #22 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 37 durability."
+  ],
+  "verdict": "Overall Crystalline Cuirass is a Chest Armor piece best used as part of its full set to unlock \"Crystalline Cloak\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Crystalline_Cuisses": {
+  "lead": "Crystalline Cuisses is a Leg Armor item in Abiotic Factor. It provides 16 armor. It is Tier 4. In-game it is described as: \"Crystalline, lightweight leg protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 16 armor ranks #22 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 20 durability."
+  ],
+  "verdict": "Overall Crystalline Cuisses is a Leg Armor piece best used as part of its full set to unlock \"Crystalline Cloak\"."
+ },
+ "Crystalline_Vial": {
+  "lead": "Crystalline Vial is a Trinket item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A small crystalline shard, emitting a purple light in response to conductivity in the air.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Crystalline Vial is a Trinket piece."
+ },
+ "Cushion_Chestplate": {
+  "lead": "Cushion Chestplate is a Chest Armor item in Abiotic Factor. It provides 2 armor. It is Tier 1. In-game it is described as: \"A big chestplate made from cloth, tape and stuffing.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 2 armor ranks #35 of 37 entries here — on the lower end.",
+   "On the details, it weighs 6 and has 15 durability."
+  ],
+  "verdict": "Overall Cushion Chestplate is a Chest Armor piece."
+ },
+ "Dangling_Gravity_Cube": {
+  "lead": "Dangling Gravity Cube is a Trinket item in Abiotic Factor. It is Tier 3. In-game it is described as: \"An unusual cube that makes people feel a little lighter than normal.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 0.5."
+  ],
+  "verdict": "Overall Dangling Gravity Cube is a Trinket piece."
+ },
+ "Diving_Suit": {
+  "lead": "Diving Suit is a Full Body Suit item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A diving suit with a rebreather for extended underwater journeys.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Diving Suit is a Full Body Suit piece."
+ },
+ "Driving_Cap": {
+  "lead": "Driving Cap is a Head Armor item in Abiotic Factor. It is Tier 3.",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 0.1 and has 100 durability."
+  ],
+  "verdict": "Overall Driving Cap is a Head Armor piece."
+ },
+ "Dunkeltaler_Backpack": {
+  "lead": "Dunkeltaler Backpack is a Backpack item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A yellow backpack from just below the treeline.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 2.25."
+  ],
+  "verdict": "Overall Dunkeltaler Backpack is a Backpack piece."
+ },
+ "Egg_Head": {
+  "lead": "Egg Head is a Head Armor item in Abiotic Factor. It provides 1 armor. It is Tier 3. In-game it is described as: \"An oval hat no doubt created by a scientist who has truly lost their marbles.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 1 armor ranks #55 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 100 durability."
+  ],
+  "verdict": "Overall Egg Head is a Head Armor piece."
+ },
+ "Employee_Locator": {
+  "lead": "Employee Locator is a Trinket item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A signal beacon that detects the pagers of nearby GATE employees.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Employee Locator is a Trinket piece."
+ },
+ "Excursion_Suit": {
+  "lead": "Excursion Suit is a Full Body Suit item in Abiotic Factor. It adds 1 heat resistance. It is Tier 7. In-game it is described as: \"A full-body hyper-mobility exosuit based on experimental GATE electro-active polymer research and some even more speculative technology.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 20."
+  ],
+  "verdict": "Overall Excursion Suit is a Full Body Suit piece, and its heat resistance makes it the right pick for those hazards."
+ },
+ "Exor_Hood": {
+  "lead": "Exor Hood is a Head Armor item in Abiotic Factor. It provides 22 armor. It is Tier 6. In-game it is described as: \"A broad plate of skull and bone from an all-too common foe.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Exor Agility\"; wearing the full set upgrades it to \"Spirit of the Exor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 22 armor ranks #7 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 5 and has 45 durability."
+  ],
+  "verdict": "Overall Exor Hood is a Head Armor piece best used as part of its full set to unlock \"Spirit of the Exor\"."
+ },
+ "Exor_Shinguards": {
+  "lead": "Exor Shinguards is a Leg Armor item in Abiotic Factor. It provides 22 armor. It is Tier 6. In-game it is described as: \"Thick plates of boney barricade.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Exor Agility\"; wearing the full set upgrades it to \"Spirit of the Exor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 22 armor ranks #7 of 33 entries here — above average.",
+   "On the details, it weighs 5 and has 45 durability."
+  ],
+  "verdict": "Overall Exor Shinguards is a Leg Armor piece best used as part of its full set to unlock \"Spirit of the Exor\"."
+ },
+ "Exor_Spines": {
+  "lead": "Exor Spines is a Chest Armor item in Abiotic Factor. It provides 22 armor. It adds 1 heat resistance. It is Tier 6. In-game it is described as: \"Ridges of bone and spike, quill and carapace.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Exor Agility\"; wearing the full set upgrades it to \"Spirit of the Exor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 22 armor ranks #7 of 37 entries here — above average.",
+   "On the details, it weighs 5 and has 25 durability."
+  ],
+  "verdict": "Overall Exor Spines is a Chest Armor piece best used as part of its full set to unlock \"Spirit of the Exor\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Exor_Straps": {
+  "lead": "Exor Straps is an Arm Armor item in Abiotic Factor. It provides 22 armor. It is Tier 6. In-game it is described as: \"Strong shell, embracing stronger bone.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Exor Agility\"; wearing the full set upgrades it to \"Spirit of the Exor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 22 armor ranks #7 of 38 entries here — above average.",
+   "On the details, it weighs 5 and has 45 durability."
+  ],
+  "verdict": "Overall Exor Straps is a Arm Armor piece best used as part of its full set to unlock \"Spirit of the Exor\"."
+ },
+ "Exsurgo_Armwraps": {
+  "lead": "Exsurgo Armwraps is an Arm Armor item in Abiotic Factor. It provides 16 armor. It is Tier 6. In-game it is described as: \"Protective armwear acquired from an Order medic.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Anointed Warden\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 16 armor ranks #22 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall Exsurgo Armwraps is a Arm Armor piece best used as part of its full set to unlock \"Anointed Warden\"."
+ },
+ "Exsurgo_Shinguards": {
+  "lead": "Exsurgo Shinguards is a Leg Armor item in Abiotic Factor. It provides 16 armor. It is Tier 6. In-game it is described as: \"Flexible leg defenses once worn by those often required to kneel in the field.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Anointed Warden\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 16 armor ranks #22 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall Exsurgo Shinguards is a Leg Armor piece best used as part of its full set to unlock \"Anointed Warden\"."
+ },
+ "Exsurgo_Tactical_Plate": {
+  "lead": "Exsurgo Tactical Plate is a Chest Armor item in Abiotic Factor. It provides 16 armor. It is Tier 6. In-game it is described as: \"Heavy-duty tactical body armor from an unfortunate Order medic.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Anointed Warden\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 16 armor ranks #22 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 45 durability."
+  ],
+  "verdict": "Overall Exsurgo Tactical Plate is a Chest Armor piece best used as part of its full set to unlock \"Anointed Warden\"."
+ },
+ "Extemp_Armwraps": {
+  "lead": "Extemp Armwraps is an Arm Armor item in Abiotic Factor. It provides 17 armor. It is Tier 5. In-game it is described as: \"Hastily devised arm defense, upgraded to provide decent protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 17 armor ranks #18 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 3.5 and has 35 durability."
+  ],
+  "verdict": "Overall Extemp Armwraps is a Arm Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Extemp_Chestplate": {
+  "lead": "Extemp Chestplate is a Chest Armor item in Abiotic Factor. It provides 17 armor. It is Tier 5. In-game it is described as: \"Improvised chest defense enhanced to an impressive degree.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 17 armor ranks #18 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 3.5 and has 47 durability."
+  ],
+  "verdict": "Overall Extemp Chestplate is a Chest Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Extemp_Helmet": {
+  "lead": "Extemp Helmet is a Head Armor item in Abiotic Factor. It provides 17 armor. It is Tier 5. In-game it is described as: \"Ad hoc head protection elevated to respectable armor.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 17 armor ranks #18 of 61 entries here — above average.",
+   "On the details, it weighs 3.5 and has 42 durability."
+  ],
+  "verdict": "Overall Extemp Helmet is a Head Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Extemp_Legwraps": {
+  "lead": "Extemp Legwraps is a Leg Armor item in Abiotic Factor. It provides 17 armor. It is Tier 5. In-game it is described as: \"Swiftly constructed leg armor, considerably improved.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 17 armor ranks #18 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 3.5 and has 35 durability."
+  ],
+  "verdict": "Overall Extemp Legwraps is a Leg Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Exulum_Bindings": {
+  "lead": "Exulum Bindings is an Arm Armor item in Abiotic Factor. It provides 26 armor. It is Tier 7. In-game it is described as: \"Tightly bound arm protection designed for an Order Exulum.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Burden\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 26 armor ranks #1 of 38 entries here — one of the highest values.",
+   "On the details, it weighs 15 and has 40 durability."
+  ],
+  "verdict": "Overall Exulum Bindings is a Arm Armor piece best used as part of its full set to unlock \"Burden\"."
+ },
+ "Exulum_Ribcage": {
+  "lead": "Exulum Ribcage is a Chest Armor item in Abiotic Factor. It provides 26 armor. It is Tier 7. In-game it is described as: \"Heavy frontline chest armor emblazoned with Order arcana.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Burden\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 26 armor ranks #1 of 37 entries here — one of the highest values.",
+   "On the details, it weighs 15 and has 45 durability."
+  ],
+  "verdict": "Overall Exulum Ribcage is a Chest Armor piece best used as part of its full set to unlock \"Burden\"."
+ },
+ "Exulum_Shackles": {
+  "lead": "Exulum Shackles is a Leg Armor item in Abiotic Factor. It provides 26 armor. It is Tier 7. In-game it is described as: \"Hardened leg defenses intended for a disgraced Order Exulum.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Burden\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 26 armor ranks #1 of 33 entries here — one of the highest values.",
+   "On the details, it weighs 15 and has 40 durability."
+  ],
+  "verdict": "Overall Exulum Shackles is a Leg Armor piece best used as part of its full set to unlock \"Burden\"."
+ },
+ "F.O.R.G.E._Chestplate": {
+  "lead": "F.O.R.G.E. Chestplate is a Chest Armor item in Abiotic Factor. It provides 10 armor. It adds 1 heat resistance. It is Tier 2. In-game it is described as: \"A quickly-fashioned cuirass.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 10 armor ranks #28 of 37 entries here — on the lower end.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall F.O.R.G.E. Chestplate is a Chest Armor piece best used as part of its full set to unlock \"The Resistance\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "F.O.R.G.E._Greaves": {
+  "lead": "F.O.R.G.E. Greaves is a Leg Armor item in Abiotic Factor. It provides 10 armor. It is Tier 2. In-game it is described as: \"Industrial leg protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 10 armor ranks #28 of 33 entries here — on the lower end.",
+   "On the details, it weighs 10 and has 22 durability."
+  ],
+  "verdict": "Overall F.O.R.G.E. Greaves is a Leg Armor piece best used as part of its full set to unlock \"The Resistance\"."
+ },
+ "F.O.R.G.E._Helmet": {
+  "lead": "F.O.R.G.E. Helmet is a Head Armor item in Abiotic Factor. It provides 10 armor. It is Tier 2. In-game it is described as: \"A decent attempt at actual head protection.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 10 armor ranks #33 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 25 durability."
+  ],
+  "verdict": "Overall F.O.R.G.E. Helmet is a Head Armor piece best used as part of its full set to unlock \"The Resistance\"."
+ },
+ "F.O.R.G.E._Pauldrons": {
+  "lead": "F.O.R.G.E. Pauldrons is an Arm Armor item in Abiotic Factor. It provides 10 armor. It adds 1 heat resistance. It is Tier 2. In-game it is described as: \"A better-than-basic pair of protective arm wraps.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defiance\"; wearing the full set upgrades it to \"The Resistance\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 10 armor ranks #28 of 38 entries here — on the lower end.",
+   "On the details, it weighs 10 and has 22 durability."
+  ],
+  "verdict": "Overall F.O.R.G.E. Pauldrons is a Arm Armor piece best used as part of its full set to unlock \"The Resistance\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Field_Sample_Pack": {
+  "lead": "Field Sample Pack is a Backpack item in Abiotic Factor. It is Tier 4. In-game it is described as: \"A large, heavily-insulated field backpack with multiple radiation containment slots for perfect shielding while transporting hazardous materials.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 8."
+  ],
+  "verdict": "Overall Field Sample Pack is a Backpack piece."
+ },
+ "Fire_Proximity_Suit": {
+  "lead": "Fire Proximity Suit is a Full Body Suit item in Abiotic Factor. It adds 3 heat resistance. It is Tier 2. In-game it is described as: \"Worn by volcano researchers and molten manufacturing workers. Blocks most exposure to high heat and flame.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 6."
+  ],
+  "verdict": "Overall Fire Proximity Suit is a Full Body Suit piece, and its heat resistance makes it the right pick for those hazards."
+ },
+ "Floppy_Hat": {
+  "lead": "Floppy Hat is a Head Armor item in Abiotic Factor. It provides 2 armor. It is Tier 5. In-game it is described as: \"A snug hat to keep even the coldest scientist toasty and warm.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 2 armor ranks #49 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3.75 and has 20 durability."
+  ],
+  "verdict": "Overall Floppy Hat is a Head Armor piece."
+ },
+ "Fog_Lantern": {
+  "lead": "Fog Lantern is a Trinket item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A humming lantern that seems to react when in the presence of lingering water vapor.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Fog Lantern is a Trinket piece."
+ },
+ "Gardening_Gloves": {
+  "lead": "Gardening Gloves is an Arm Armor item in Abiotic Factor. It provides 1 armor. It is Tier 0. In-game it is described as: \"Rough green gloves, typically worn by gardeners and those working with thorny plants.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 1 armor ranks #34 of 38 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 20 durability."
+  ],
+  "verdict": "Overall Gardening Gloves is a Arm Armor piece."
+ },
+ "Geiger_Counter_Keychain": {
+  "lead": "Geiger Counter Keychain is a Trinket item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A compact device that detects radiation in the immediate area.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1.5."
+  ],
+  "verdict": "Overall Geiger Counter Keychain is a Trinket piece."
+ },
+ "Gel_Tube": {
+  "lead": "Gel Tube is a Trinket item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A small tube that emits a comfy orange glow.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 0.5."
+  ],
+  "verdict": "Overall Gel Tube is a Trinket piece."
+ },
+ "Giant's_Pack": {
+  "lead": "Giant's Pack is a Backpack item in Abiotic Factor. It is Tier 6. In-game it is described as: \"A large carrying case from a fallen Gatekeeper of enormous stature.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 6."
+  ],
+  "verdict": "Overall Giant's Pack is a Backpack piece."
+ },
+ "Glitch_Pack": {
+  "lead": "Glitch Pack is a Backpack item in Abiotic Factor. It is Tier 6. In-game it is described as: \"A strange multi-purpose pack with ultra-dimensional properties and a variety of slots for cooling, warming, and radioactive protection.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 8."
+  ],
+  "verdict": "Overall Glitch Pack is a Backpack piece."
+ },
+ "Glow_Shard": {
+  "lead": "Glow Shard is a Trinket item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A small anomalous gem that constantly emits a white light.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Glow Shard is a Trinket piece."
+ },
+ "Golden_Wreath": {
+  "lead": "Golden Wreath is a Head Armor item in Abiotic Factor. It is Tier 4. In-game it is described as: \"An exquisitely crafted wreath of purest gold.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Golden Wreath is a Head Armor piece."
+ },
+ "Greek_Bracers": {
+  "lead": "Greek Bracers is an Arm Armor item in Abiotic Factor. It provides 1 armor. It is Tier 1. In-game it is described as: \"Classic, if basic, arm protection for old-world infantry.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 1 armor ranks #34 of 38 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 5 durability."
+  ],
+  "verdict": "Overall Greek Bracers is a Arm Armor piece."
+ },
+ "Greek_Greaves": {
+  "lead": "Greek Greaves is a Leg Armor item in Abiotic Factor. It provides 1 armor. It is Tier 1. In-game it is described as: \"Light leg protection that will not interfere with movement, or enemy weapons, either, really.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Leg Armor slot its 1 armor ranks #32 of 33 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 5 durability."
+  ],
+  "verdict": "Overall Greek Greaves is a Leg Armor piece."
+ },
+ "Greek_Helmet": {
+  "lead": "Greek Helmet is a Head Armor item in Abiotic Factor. It provides 1 armor. It is Tier 1. In-game it is described as: \"A helmet, more polished than one might think, but the quality of metal is subject to the opinion of the material sciences.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 1 armor ranks #55 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3.75 and has 5 durability."
+  ],
+  "verdict": "Overall Greek Helmet is a Head Armor piece."
+ },
+ "Greek_Linothorax": {
+  "lead": "Greek Linothorax is a Chest Armor item in Abiotic Factor. It provides 1 armor. It is Tier 1. In-game it is described as: \"Lightweight chest protection in the hoplite tradition.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 1 armor ranks #37 of 37 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 5 durability."
+  ],
+  "verdict": "Overall Greek Linothorax is a Chest Armor piece."
+ },
+ "Hard_Hat": {
+  "lead": "Hard Hat is a Head Armor item in Abiotic Factor. It provides 3 armor. It is Tier 1. In-game it is described as: \"A durable helmet to protect warehouse workers.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 3 armor ranks #45 of 61 entries here — on the lower end.",
+   "On the details, it weighs 7 and has 25 durability."
+  ],
+  "verdict": "Overall Hard Hat is a Head Armor piece."
+ },
+ "Hardlight_Shield": {
+  "lead": "Hardlight Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 6. In-game it is described as: \"A magnificent and anti-material shield of dazzling hardlight, if it’s got charge.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Hardlight Shield is a Off-Hand Armament piece."
+ },
+ "Hardlight_Shield_Generator": {
+  "lead": "Hardlight Shield Generator is a Trinket item in Abiotic Factor. It is Tier 6. In-game it is described as: \"A repurposed Gatekeeper hardlight shield, adding another layer of protection when worn.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Hardlight Shield Generator is a Trinket piece."
+ },
+ "Hasta_Tria's_Right_Boot": {
+  "lead": "Hasta Tria's Right Boot is a Trinket item in Abiotic Factor. It is Tier 7. In-game it is described as: \"A boot worn deep with travel, worn raw with time.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Hasta Tria's Right Boot is a Trinket piece."
+ },
+ "Hazardous_Materials_Suit": {
+  "lead": "Hazardous Materials Suit is a Full Body Suit item in Abiotic Factor. It is Tier 1. In-game it is described as: \"Worn by scientists to study radiation and biohazardous materials. Greatly reduces radiation buildup.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Hazardous Materials Suit is a Full Body Suit piece."
+ },
+ "Heater_Shield": {
+  "lead": "Heater Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 2. In-game it is described as: \"Portable protection that brings the heat.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 3 and has 36 durability."
+  ],
+  "verdict": "Overall Heater Shield is a Off-Hand Armament piece."
+ },
+ "Hexwood_Shield": {
+  "lead": "Hexwood Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 4. In-game it is described as: \"The wood of this shield seems to spread and grow with a will of its own, or maybe with the will of its wielder. It is difficult to tell.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 3 and has 30 durability."
+  ],
+  "verdict": "Overall Hexwood Shield is a Off-Hand Armament piece."
+ },
+ "High_Inquisitor_Suit": {
+  "lead": "High Inquisitor Suit is a Full Body Suit item in Abiotic Factor. It is Tier 7. In-game it is described as: \"An ornate, fullbody accoutrement indicating one has achieved the most supreme rank of Inquisitor.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall High Inquisitor Suit is a Full Body Suit piece."
+ },
+ "High-Vis_Vest": {
+  "lead": "High-Vis Vest is a Chest Armor item in Abiotic Factor. It provides 2 armor. It is Tier 2. In-game it is described as: \"For those who like being seen.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 2 armor ranks #35 of 37 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 25 durability."
+  ],
+  "verdict": "Overall High-Vis Vest is a Chest Armor piece."
+ },
+ "Hiking_Pack": {
+  "lead": "Hiking Pack is a Backpack item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A large hiking backpack with a very supportive frame.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 10."
+  ],
+  "verdict": "Overall Hiking Pack is a Backpack piece."
+ },
+ "Horned_Helmet": {
+  "lead": "Horned Helmet is a Head Armor item in Abiotic Factor. It provides 20 armor. It is Tier 6. In-game it is described as: \"A horned helmet worn by the so-called Chieftains, patriarch of most Gatekeeper units.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 20 armor ranks #9 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 8 and has 30 durability."
+  ],
+  "verdict": "Overall Horned Helmet is a Head Armor piece."
+ },
+ "Hydroplant_Hat": {
+  "lead": "Hydroplant Hat is a Head Armor item in Abiotic Factor. It provides 12 armor. It is Tier 5. In-game it is described as: \"A hardy helmet to protect hydroplant workers.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 12 armor ranks #30 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 9 and has 40 durability."
+  ],
+  "verdict": "Overall Hydroplant Hat is a Head Armor piece."
+ },
+ "Hyperion_Gauntlets": {
+  "lead": "Hyperion Gauntlets is an Arm Armor item in Abiotic Factor. It provides 26 armor. It is Tier 7. In-game it is described as: \"Unmatched defensive arm shielding that sacrifices nothing in the name of protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 26 armor ranks #1 of 38 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 42 durability."
+  ],
+  "verdict": "Overall Hyperion Gauntlets is a Arm Armor piece best used as part of its full set to unlock \"Threat Sensor\"."
+ },
+ "Hyperion_Hauberk": {
+  "lead": "Hyperion Hauberk is a Chest Armor item in Abiotic Factor. It provides 26 armor. It adds 1 heat resistance. It is Tier 7. In-game it is described as: \"Extremely enhanced and effective body armor with a few experimental tricks under the hood.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 26 armor ranks #1 of 37 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 55 durability."
+  ],
+  "verdict": "Overall Hyperion Hauberk is a Chest Armor piece best used as part of its full set to unlock \"Threat Sensor\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Hyperion_Helm": {
+  "lead": "Hyperion Helm is a Head Armor item in Abiotic Factor. It provides 26 armor. It is Tier 7. In-game it is described as: \"High-tech head protection that balances extreme defensive capacity against the eternal risk of over-engineering.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 26 armor ranks #2 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 45 durability."
+  ],
+  "verdict": "Overall Hyperion Helm is a Head Armor piece best used as part of its full set to unlock \"Threat Sensor\"."
+ },
+ "Hyperion_Legplates": {
+  "lead": "Hyperion Legplates is a Leg Armor item in Abiotic Factor. It provides 26 armor. It is Tier 7. In-game it is described as: \"Heavily armored and augmented leg defenses.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Motion Sensor\"; wearing the full set upgrades it to \"Threat Sensor\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 26 armor ranks #1 of 33 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 42 durability."
+  ],
+  "verdict": "Overall Hyperion Legplates is a Leg Armor piece best used as part of its full set to unlock \"Threat Sensor\"."
+ },
+ "Interfection_Katar": {
+  "lead": "Interfection Katar is an Off-Hand Armament item in Abiotic Factor. It is Tier 7. In-game it is described as: \"An offhand knife for quick stabs and parrying.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 2 and has 100 durability."
+  ],
+  "verdict": "Overall Interfection Katar is a Off-Hand Armament piece."
+ },
+ "Interfector_Breeches": {
+  "lead": "Interfector Breeches is a Leg Armor item in Abiotic Factor. It provides 17 armor. It is Tier 7. In-game it is described as: \"Advanced, classical leg protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Leg Armor slot its 17 armor ranks #18 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 5 and has 40 durability."
+  ],
+  "verdict": "Overall Interfector Breeches is a Leg Armor piece."
+ },
+ "Interfector_Chestwraps": {
+  "lead": "Interfector Chestwraps is a Chest Armor item in Abiotic Factor. It provides 17 armor. It is Tier 7. In-game it is described as: \"Old world style meets modern materials in a surprisingly comfortable and limber armor system.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 17 armor ranks #18 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 5 and has 45 durability."
+  ],
+  "verdict": "Overall Interfector Chestwraps is a Chest Armor piece."
+ },
+ "Interfector_Helm": {
+  "lead": "Interfector Helm is a Head Armor item in Abiotic Factor. It provides 17 armor. It is Tier 7. In-game it is described as: \"High-grade combat headwear adorned with chainmail coverings.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 17 armor ranks #18 of 61 entries here — above average.",
+   "On the details, it weighs 5 and has 45 durability."
+  ],
+  "verdict": "Overall Interfector Helm is a Head Armor piece."
+ },
+ "Interfector_Sleeves": {
+  "lead": "Interfector Sleeves is an Arm Armor item in Abiotic Factor. It provides 17 armor. It is Tier 7. In-game it is described as: \"Protective close-combat gauntlets.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 17 armor ranks #18 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 5 and has 40 durability."
+  ],
+  "verdict": "Overall Interfector Sleeves is a Arm Armor piece."
+ },
+ "Ionized_Coreplate": {
+  "lead": "Ionized Coreplate is a Chest Armor item in Abiotic Factor. It provides 26 armor. It adds 1 heat resistance. It is Tier 6. In-game it is described as: \"A metallic encasing of nuclear-tempered alloy held together by an indecipherable digital interweave.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Gamma Converter\"; wearing the full set upgrades it to \"Gamma God\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 26 armor ranks #1 of 37 entries here — one of the highest values.",
+   "On the details, it weighs 8 and has 80 durability."
+  ],
+  "verdict": "Overall Ionized Coreplate is a Chest Armor piece best used as part of its full set to unlock \"Gamma God\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Jack_O'_Lantern_Mask": {
+  "lead": "Jack O' Lantern Mask is a Head Armor item in Abiotic Factor. It provides 2 armor. It is Tier 4. In-game it is described as: \"A vegetal helmet with an orange rictus grin.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 2 armor ranks #49 of 61 entries here — on the lower end.",
+   "On the details, it weighs 5 and has 10 durability."
+  ],
+  "verdict": "Overall Jack O' Lantern Mask is a Head Armor piece."
+ },
+ "Jester_Cap": {
+  "lead": "Jester Cap is a Head Armor item in Abiotic Factor. It provides 1 armor. It is Tier 1. In-game it is described as: \"The whimsical headwear of an old-world buffoon.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 1 armor ranks #55 of 61 entries here — on the lower end.",
+   "On the details, it weighs 1 and has 20 durability."
+  ],
+  "verdict": "Overall Jester Cap is a Head Armor piece."
+ },
+ "Jinxed_Shinplates": {
+  "lead": "Jinxed Shinplates is a Leg Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"Leg protection with a touch of the arcane.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Hexed Skin\"; wearing the full set upgrades it to \"Hexed Soul\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 17 armor ranks #18 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 6 and has 20 durability."
+  ],
+  "verdict": "Overall Jinxed Shinplates is a Leg Armor piece best used as part of its full set to unlock \"Hexed Soul\"."
+ },
+ "Jolly_Cap": {
+  "lead": "Jolly Cap is a Head Armor item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A small, multicolour hat constructed from felt and dreams.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 2 and has 10 durability."
+  ],
+  "verdict": "Overall Jolly Cap is a Head Armor piece."
+ },
+ "Jotunhelm": {
+  "lead": "Jotunhelm is a Head Armor item in Abiotic Factor. It provides 24 armor. It is Tier 6. In-game it is described as: \"A helmet restored from the fallen remains of one of the Gatekeeper's best - and largest.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 24 armor ranks #4 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 16 and has 30 durability."
+  ],
+  "verdict": "Overall Jotunhelm is a Head Armor piece."
+ },
+ "Jugaar_Armwraps": {
+  "lead": "Jugaar Armwraps is an Arm Armor item in Abiotic Factor. It provides 14 armor. It is Tier 3. In-game it is described as: \"Arm protection, swiftly concocted, recently improved.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 14 armor ranks #26 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 3.5 and has 30 durability."
+  ],
+  "verdict": "Overall Jugaar Armwraps is a Arm Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Jugaar_Chestplate": {
+  "lead": "Jugaar Chestplate is a Chest Armor item in Abiotic Factor. It provides 14 armor. It is Tier 3. In-game it is described as: \"Rapidly devised chest protection with some running improvements.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 14 armor ranks #26 of 37 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 42 durability."
+  ],
+  "verdict": "Overall Jugaar Chestplate is a Chest Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Jugaar_Helmet": {
+  "lead": "Jugaar Helmet is a Head Armor item in Abiotic Factor. It provides 14 armor. It is Tier 3. In-game it is described as: \"Protective headwear of an improved, yet still improvised nature.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 14 armor ranks #26 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 3.5 and has 37 durability."
+  ],
+  "verdict": "Overall Jugaar Helmet is a Head Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Jugaar_Legwraps": {
+  "lead": "Jugaar Legwraps is a Leg Armor item in Abiotic Factor. It provides 14 armor. It is Tier 3. In-game it is described as: \"Leg defense, hastily contrived, somewhat enhanced.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 14 armor ranks #26 of 33 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 30 durability."
+  ],
+  "verdict": "Overall Jugaar Legwraps is a Leg Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Karate_Helmet": {
+  "lead": "Karate Helmet is a Head Armor item in Abiotic Factor. It provides 2 armor. It is Tier 1. In-game it is described as: \"Makes getting punched in the head suck slightly less.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 2 armor ranks #49 of 61 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 15 durability."
+  ],
+  "verdict": "Overall Karate Helmet is a Head Armor piece."
+ },
+ "Kintsugi_Adornments": {
+  "lead": "Kintsugi Adornments is a Chest Armor item in Abiotic Factor. It provides 20 armor. It is Tier 6. In-game it is described as: \"Ceramic-alloy body armor enhanced in both defense and aesthetics.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 20 armor ranks #10 of 37 entries here — above average.",
+   "On the details, it weighs 3 and has 52 durability."
+  ],
+  "verdict": "Overall Kintsugi Adornments is a Chest Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Kintsugi_Casque": {
+  "lead": "Kintsugi Casque is a Head Armor item in Abiotic Factor. It provides 20 armor. It is Tier 6. In-game it is described as: \"Ornate ceramic head armor infused with strengthening metallic fibers.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 20 armor ranks #9 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 3 and has 46 durability."
+  ],
+  "verdict": "Overall Kintsugi Casque is a Head Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Kintsugi_Greaves": {
+  "lead": "Kintsugi Greaves is a Leg Armor item in Abiotic Factor. It provides 20 armor. It is Tier 6. In-game it is described as: \"Leg protection that's as effective as it is alluring.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 20 armor ranks #11 of 33 entries here — above average.",
+   "On the details, it weighs 3 and has 42 durability."
+  ],
+  "verdict": "Overall Kintsugi Greaves is a Leg Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Kintsugi_Vambraces": {
+  "lead": "Kintsugi Vambraces is an Arm Armor item in Abiotic Factor. It provides 20 armor. It is Tier 6. In-game it is described as: \"Ceramic arm defense of the highest order.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 20 armor ranks #10 of 38 entries here — above average.",
+   "On the details, it weighs 3 and has 42 durability."
+  ],
+  "verdict": "Overall Kintsugi Vambraces is a Arm Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Kite_Shield": {
+  "lead": "Kite Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 3. In-game it is described as: \"An old shield from a bygone age.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 5 and has 40 durability."
+  ],
+  "verdict": "Overall Kite Shield is a Off-Hand Armament piece."
+ },
+ "Kylie_(Shield_Generator)": {
+  "lead": "Kylie (Shield Generator) is a Trinket item in Abiotic Factor. It is Tier 7. In-game it is described as: \"An extremely dense data storage device parented to a personal shield generator. This unique unit allegedly contains the translated digital consciousness of Kylie Muir.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Kylie (Shield Generator) is a Trinket piece."
+ },
+ "Kylie_(Trinket)": {
+  "lead": "Kylie (Trinket) is a Trinket item in Abiotic Factor. It is Tier 5. In-game it is described as: \"An extremely dense data storage device, allegedly containing the translated digital consciousness of Kylie Muir.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1.21."
+  ],
+  "verdict": "Overall Kylie (Trinket) is a Trinket piece."
+ },
+ "Lab_Gloves": {
+  "lead": "Lab Gloves is an Arm Armor item in Abiotic Factor. It provides 1 armor. It is Tier 0. In-game it is described as: \"Sleek white gloves, typically worn by lab workers.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 1 armor ranks #34 of 38 entries here — on the lower end.",
+   "On the details, it weighs 1 and has 20 durability."
+  ],
+  "verdict": "Overall Lab Gloves is a Arm Armor piece."
+ },
+ "Lab_Mask": {
+  "lead": "Lab Mask is a Head Armor item in Abiotic Factor. It provides 3 armor. It is Tier 3. In-game it is described as: \"An airtight mask often used by those working with dangerous chemicals.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 3 armor ranks #45 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 15 durability."
+  ],
+  "verdict": "Overall Lab Mask is a Head Armor piece."
+ },
+ "Larva_Suit": {
+  "lead": "Larva Suit is a Full Body Suit item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A suit made from Larval remains. Renders the user less suspicious to larvae and their ilk.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 8."
+  ],
+  "verdict": "Overall Larva Suit is a Full Body Suit piece."
+ },
+ "Lead_Vest": {
+  "lead": "Lead Vest is a Chest Armor item in Abiotic Factor. It provides 5 armor. It is Tier 1. In-game it is described as: \"A heavy lead vest typically used to block harmful x-rays.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 5 armor ranks #31 of 37 entries here — on the lower end.",
+   "On the details, it weighs 15 and has 15 durability."
+  ],
+  "verdict": "Overall Lead Vest is a Chest Armor piece."
+ },
+ "Legate_Bracers": {
+  "lead": "Legate Bracers is an Arm Armor item in Abiotic Factor. It provides 22 armor. It is Tier 7. In-game it is described as: \"Reinforced arm defenses designed for an Order Legate.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Rite of Command\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 22 armor ranks #7 of 38 entries here — above average.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall Legate Bracers is a Arm Armor piece best used as part of its full set to unlock \"Rite of Command\"."
+ },
+ "Legate_Chestplate": {
+  "lead": "Legate Chestplate is a Chest Armor item in Abiotic Factor. It provides 22 armor. It is Tier 7. In-game it is described as: \"High quality body armor obtained from an Order officer lost in the field.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Rite of Command\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 22 armor ranks #7 of 37 entries here — above average.",
+   "On the details, it weighs 10 and has 45 durability."
+  ],
+  "verdict": "Overall Legate Chestplate is a Chest Armor piece best used as part of its full set to unlock \"Rite of Command\"."
+ },
+ "Legate_Legguards": {
+  "lead": "Legate Legguards is a Leg Armor item in Abiotic Factor. It provides 22 armor. It is Tier 7. In-game it is described as: \"Strong tactical leg protection intended for use by Order officers.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Rite of Command\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 22 armor ranks #7 of 33 entries here — above average.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall Legate Legguards is a Leg Armor piece best used as part of its full set to unlock \"Rite of Command\"."
+ },
+ "Lodestone_Shield": {
+  "lead": "Lodestone Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 4. In-game it is described as: \"A heat-emitting shield that leverages lodestone technology to defend and deal otherworldly damage to enemies.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 3 and has 46 durability."
+  ],
+  "verdict": "Overall Lodestone Shield is a Off-Hand Armament piece."
+ },
+ "Lucent_Casque": {
+  "lead": "Lucent Casque is a Head Armor item in Abiotic Factor. It provides 19 armor. It is Tier 6. In-game it is described as: \"Cold-worked crystal head defense with curious optical properties under certain conditions.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 19 armor ranks #13 of 61 entries here — above average.",
+   "On the details, it weighs 9 and has 37 durability."
+  ],
+  "verdict": "Overall Lucent Casque is a Head Armor piece best used as part of its full set to unlock \"Crystalline Cloak\"."
+ },
+ "Lucent_Couters": {
+  "lead": "Lucent Couters is an Arm Armor item in Abiotic Factor. It provides 19 armor. It is Tier 6. In-game it is described as: \"Carefully tempered crystalline arm protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 19 armor ranks #13 of 38 entries here — above average.",
+   "On the details, it weighs 9 and has 27 durability."
+  ],
+  "verdict": "Overall Lucent Couters is a Arm Armor piece best used as part of its full set to unlock \"Crystalline Cloak\"."
+ },
+ "Lucent_Cuirass": {
+  "lead": "Lucent Cuirass is a Chest Armor item in Abiotic Factor. It provides 19 armor. It adds 1 heat resistance. It is Tier 6. In-game it is described as: \"Crystalline body armor alloyed and hardened with experimental precipitates.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 19 armor ranks #13 of 37 entries here — above average.",
+   "On the details, it weighs 9 and has 42 durability."
+  ],
+  "verdict": "Overall Lucent Cuirass is a Chest Armor piece best used as part of its full set to unlock \"Crystalline Cloak\", and its heat resistance makes it the right pick for those hazards."
+ },
+ "Lucent_Cuisses": {
+  "lead": "Lucent Cuisses is a Leg Armor item in Abiotic Factor. It provides 19 armor. It is Tier 6. In-game it is described as: \"Crystal-based leg armor, reworked and deformed to increase resilience.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Crystalline Reflection\"; wearing the full set upgrades it to \"Crystalline Cloak\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 19 armor ranks #14 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 9 and has 27 durability."
+  ],
+  "verdict": "Overall Lucent Cuisses is a Leg Armor piece best used as part of its full set to unlock \"Crystalline Cloak\"."
+ },
+ "Lucky_Fishing_Hat": {
+  "lead": "Lucky Fishing Hat is a Head Armor item in Abiotic Factor. It is Tier 1. In-game it is described as: \"As lucky as it is quirky.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 1 and has 100 durability."
+  ],
+  "verdict": "Overall Lucky Fishing Hat is a Head Armor piece."
+ },
+ "Maestro_Adornments": {
+  "lead": "Maestro Adornments is a Chest Armor item in Abiotic Factor. It provides 12 armor. It is Tier 1. In-game it is described as: \"Chest protection made to mimic the inhabitants of Anteverse 1, with a few creative liberties.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 12 armor ranks #27 of 37 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 34 durability."
+  ],
+  "verdict": "Overall Maestro Adornments is a Chest Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Maestro_Casque": {
+  "lead": "Maestro Casque is a Head Armor item in Abiotic Factor. It provides 12 armor. It is Tier 1. In-game it is described as: \"A helmet sewn together from paper and padding, with the melodious qualities of a cardboard box.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 12 armor ranks #30 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 3 and has 30 durability."
+  ],
+  "verdict": "Overall Maestro Casque is a Head Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Maestro_Greaves": {
+  "lead": "Maestro Greaves is a Leg Armor item in Abiotic Factor. It provides 12 armor. It is Tier 1. In-game it is described as: \"A scrappy leg armor made from pieces of much taller beings.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 12 armor ranks #27 of 33 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 18 durability."
+  ],
+  "verdict": "Overall Maestro Greaves is a Leg Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Maestro_Vambraces": {
+  "lead": "Maestro Vambraces is an Arm Armor item in Abiotic Factor. It provides 12 armor. It is Tier 1. In-game it is described as: \"A sturdy porcelain clad these arm wrappings.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 12 armor ranks #27 of 38 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 18 durability."
+  ],
+  "verdict": "Overall Maestro Vambraces is a Arm Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Makeshift_Armwraps": {
+  "lead": "Makeshift Armwraps is an Arm Armor item in Abiotic Factor. It provides 4 armor. It is Tier 1. In-game it is described as: \"Ad hoc arm protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 4 armor ranks #30 of 38 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 20 durability."
+  ],
+  "verdict": "Overall Makeshift Armwraps is a Arm Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Makeshift_Backpack": {
+  "lead": "Makeshift Backpack is a Backpack item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A very small backpack made from cloth scraps.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 2."
+  ],
+  "verdict": "Overall Makeshift Backpack is a Backpack piece."
+ },
+ "Makeshift_Chestplate": {
+  "lead": "Makeshift Chestplate is a Chest Armor item in Abiotic Factor. It provides 4 armor. It is Tier 1. In-game it is described as: \"A hastily constructed piece of body armor.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 4 armor ranks #32 of 37 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 37 durability."
+  ],
+  "verdict": "Overall Makeshift Chestplate is a Chest Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Makeshift_Helmet": {
+  "lead": "Makeshift Helmet is a Head Armor item in Abiotic Factor. It provides 4 armor. It is Tier 1. In-game it is described as: \"A passable excuse for a helmet.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 4 armor ranks #43 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 32 durability."
+  ],
+  "verdict": "Overall Makeshift Helmet is a Head Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Makeshift_Legwraps": {
+  "lead": "Makeshift Legwraps is a Leg Armor item in Abiotic Factor. It provides 4 armor. It is Tier 1. In-game it is described as: \"Leg protection, of a sort.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 4 armor ranks #31 of 33 entries here — on the lower end.",
+   "On the details, it weighs 3.5 and has 20 durability."
+  ],
+  "verdict": "Overall Makeshift Legwraps is a Leg Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Medic_Helmet": {
+  "lead": "Medic Helmet is a Head Armor item in Abiotic Factor. It provides 3 armor. It is Tier 2. In-game it is described as: \"A medic helmet of military make, adorned with strange markings.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 3 armor ranks #45 of 61 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 25 durability."
+  ],
+  "verdict": "Overall Medic Helmet is a Head Armor piece."
+ },
+ "Military_Pack": {
+  "lead": "Military Pack is a Backpack item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A backpack of military specification.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Military Pack is a Backpack piece."
+ },
+ "Mountaineer_Armguards": {
+  "lead": "Mountaineer Armguards is an Arm Armor item in Abiotic Factor. It provides 24 armor. It is Tier 5. In-game it is described as: \"Padded and gloved, these arm guards are ready for snow - and bullets.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Mountaineer\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 24 armor ranks #4 of 38 entries here — one of the highest values.",
+   "On the details, it weighs 20 and has 20 durability."
+  ],
+  "verdict": "Overall Mountaineer Armguards is a Arm Armor piece best used as part of its full set to unlock \"Mountaineer\"."
+ },
+ "Mountaineer_Chestplate": {
+  "lead": "Mountaineer Chestplate is a Chest Armor item in Abiotic Factor. It provides 24 armor. It is Tier 5. In-game it is described as: \"Padded for protection in cold climes and combat, the cozyness of this jacket-vest combination is only rivaled by its sheer weight.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Mountaineer\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 24 armor ranks #4 of 37 entries here — one of the highest values.",
+   "On the details, it weighs 25 and has 25 durability."
+  ],
+  "verdict": "Overall Mountaineer Chestplate is a Chest Armor piece best used as part of its full set to unlock \"Mountaineer\"."
+ },
+ "Mountaineer_Helmet": {
+  "lead": "Mountaineer Helmet is a Head Armor item in Abiotic Factor. It provides 10 armor. It is Tier 5. In-game it is described as: \"A helmet worn by alps-ascending assailants.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 10 armor ranks #33 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 7 and has 25 durability."
+  ],
+  "verdict": "Overall Mountaineer Helmet is a Head Armor piece."
+ },
+ "Mountaineer_Leggings": {
+  "lead": "Mountaineer Leggings is a Leg Armor item in Abiotic Factor. It provides 24 armor. It is Tier 5. In-game it is described as: \"As warm as they are heavy, these padded leggings are sure to keep you toasty.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Mountaineer\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 24 armor ranks #4 of 33 entries here — one of the highest values.",
+   "On the details, it weighs 25 and has 20 durability."
+  ],
+  "verdict": "Overall Mountaineer Leggings is a Leg Armor piece best used as part of its full set to unlock \"Mountaineer\"."
+ },
+ "Mud_Waders": {
+  "lead": "Mud Waders is a Leg Armor item in Abiotic Factor. It provides 1 armor. It is Tier 1. In-game it is described as: \"A pair of waterproof waders, perfect for scrounging in the muck.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Leg Armor slot its 1 armor ranks #32 of 33 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 100 durability."
+  ],
+  "verdict": "Overall Mud Waders is a Leg Armor piece."
+ },
+ "Mushroom_Helmet": {
+  "lead": "Mushroom Helmet is a Head Armor item in Abiotic Factor. It provides 5 armor. It is Tier 3. In-game it is described as: \"A helmet made from the head of a fungal fiend.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 5 armor ranks #41 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 6 and has 25 durability."
+  ],
+  "verdict": "Overall Mushroom Helmet is a Head Armor piece."
+ },
+ "Mystagogue_Crown": {
+  "lead": "Mystagogue Crown is a Head Armor item in Abiotic Factor. It provides 20 armor. It is Tier 7. In-game it is described as: \"Head armor combining a shroud-like hood over something resembling a flight helmet.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Stabilization Matrix\"; wearing the full set upgrades it to \"Mystagogue's Gaze\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 20 armor ranks #9 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 40 durability."
+  ],
+  "verdict": "Overall Mystagogue Crown is a Head Armor piece best used as part of its full set to unlock \"Mystagogue's Gaze\"."
+ },
+ "Mystagogue_Gaskins": {
+  "lead": "Mystagogue Gaskins is a Leg Armor item in Abiotic Factor. It provides 20 armor. It is Tier 7. In-game it is described as: \"Protective legwear constructed from an unusual blend of materials.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Stabilization Matrix\"; wearing the full set upgrades it to \"Mystagogue's Gaze\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 20 armor ranks #11 of 33 entries here — above average.",
+   "On the details, it weighs 7 and has 20 durability."
+  ],
+  "verdict": "Overall Mystagogue Gaskins is a Leg Armor piece best used as part of its full set to unlock \"Mystagogue's Gaze\"."
+ },
+ "Mystagogue_Glove": {
+  "lead": "Mystagogue Glove is an Off-Hand Armament item in Abiotic Factor. It is Tier 7. In-game it is described as: \"A weighty Gatekeeper's gauntlet that allows the wielder to hurl nacreous fire from their left hand.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 5."
+  ],
+  "verdict": "Overall Mystagogue Glove is a Off-Hand Armament piece."
+ },
+ "Mystagogue_Shawl": {
+  "lead": "Mystagogue Shawl is a Chest Armor item in Abiotic Factor. It provides 20 armor. It is Tier 7. In-game it is described as: \"An amalgam of ragged cape and stole over high-grade body armor.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Stabilization Matrix\"; wearing the full set upgrades it to \"Mystagogue's Gaze\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 20 armor ranks #10 of 37 entries here — above average.",
+   "On the details, it weighs 7 and has 45 durability."
+  ],
+  "verdict": "Overall Mystagogue Shawl is a Chest Armor piece best used as part of its full set to unlock \"Mystagogue's Gaze\"."
+ },
+ "Mystagogue_Wraps": {
+  "lead": "Mystagogue Wraps is an Arm Armor item in Abiotic Factor. It provides 20 armor. It is Tier 7. In-game it is described as: \"Intricate, if heavily worn, arm defense combining aeronautic and hand-woven materials.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Stabilization Matrix\"; wearing the full set upgrades it to \"Mystagogue's Gaze\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 20 armor ranks #10 of 38 entries here — above average.",
+   "On the details, it weighs 7 and has 38 durability."
+  ],
+  "verdict": "Overall Mystagogue Wraps is a Arm Armor piece best used as part of its full set to unlock \"Mystagogue's Gaze\"."
+ },
+ "Neutrino_Lantern": {
+  "lead": "Neutrino Lantern is a Trinket item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A warm, wearable light in a cold, radiation-filled universe.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Neutrino Lantern is a Trinket piece."
+ },
+ "Night_Helmet": {
+  "lead": "Night Helmet is a Head Armor item in Abiotic Factor. It provides 14 armor. It is Tier 4. In-game it is described as: \"A helmet bearing the Sigil of the Night.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 14 armor ranks #26 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 6.6 and has 66 durability."
+  ],
+  "verdict": "Overall Night Helmet is a Head Armor piece."
+ },
+ "Night_Pass": {
+  "lead": "Night Pass is a Trinket item in Abiotic Factor. It is Tier 4. In-game it is described as: \"A GATE-authorized pass, handy for safely traveling the halls of the Facility during after-hours.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Night Pass is a Trinket piece."
+ },
+ "Nucleus_Helm": {
+  "lead": "Nucleus Helm is a Head Armor item in Abiotic Factor. It provides 26 armor. It is Tier 6. In-game it is described as: \"A helmet chiefly made of an alloy that no one really understands.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Gamma Converter\"; wearing the full set upgrades it to \"Gamma God\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 26 armor ranks #2 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 8 and has 70 durability."
+  ],
+  "verdict": "Overall Nucleus Helm is a Head Armor piece best used as part of its full set to unlock \"Gamma God\"."
+ },
+ "Ogre_Doll": {
+  "lead": "Ogre Doll is a Trinket item in Abiotic Factor. It is Tier 6. In-game it is described as: \"A dual-headed doll-like trinket of Gatekeeper provenance.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Ogre Doll is a Trinket piece."
+ },
+ "Order_Helmet": {
+  "lead": "Order Helmet is a Head Armor item in Abiotic Factor. It provides 4 armor. It is Tier 2. In-game it is described as: \"A helmet of military make, adorned with strange markings.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 4 armor ranks #43 of 61 entries here — on the lower end.",
+   "On the details, it weighs 7 and has 25 durability."
+  ],
+  "verdict": "Overall Order Helmet is a Head Armor piece."
+ },
+ "Peccary_Helmet": {
+  "lead": "Peccary Helmet is a Head Armor item in Abiotic Factor. It provides 3 armor. It is Tier 1. In-game it is described as: \"A helmet made from a cantankerous creature.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 3 armor ranks #45 of 61 entries here — on the lower end.",
+   "On the details, it weighs 5 and has 15 durability."
+  ],
+  "verdict": "Overall Peccary Helmet is a Head Armor piece."
+ },
+ "Pet_Rock": {
+  "lead": "Pet Rock is a Trinket item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A painted rock with googly eyes.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Pet Rock is a Trinket piece."
+ },
+ "Pilgrim_Hat": {
+  "lead": "Pilgrim Hat is a Head Armor item in Abiotic Factor. It is Tier 4. In-game it is described as: \"A modest hat from a bygone age.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 1 and has 10 durability."
+  ],
+  "verdict": "Overall Pilgrim Hat is a Head Armor piece."
+ },
+ "Plasmatic_Shield": {
+  "lead": "Plasmatic Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 6. In-game it is described as: \"An unusual but highly effective application of plasmification technology to a defensive device.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 3 and has 56 durability."
+  ],
+  "verdict": "Overall Plasmatic Shield is a Off-Hand Armament piece."
+ },
+ "Plastic_Shield": {
+  "lead": "Plastic Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A shield made from a plastic tray, reinforced with some duct tape.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 2 and has 24 durability."
+  ],
+  "verdict": "Overall Plastic Shield is a Off-Hand Armament piece."
+ },
+ "Plutonium_Keychain": {
+  "lead": "Plutonium Keychain is a Trinket item in Abiotic Factor. It is Tier 6. In-game it is described as: \"An extremely complicated bit of radioactive technology, but emitting a wonderful green glow all the same.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 2."
+  ],
+  "verdict": "Overall Plutonium Keychain is a Trinket piece."
+ },
+ "Pocket_Dimension": {
+  "lead": "Pocket Dimension is a Backpack item in Abiotic Factor. It is Tier 6. In-game it is described as: \"Some kind of anomalous backpack with impossibly large storage capacity.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 10."
+  ],
+  "verdict": "Overall Pocket Dimension is a Backpack piece."
+ },
+ "Preacher's_Hat": {
+  "lead": "Preacher's Hat is a Head Armor item in Abiotic Factor. It provides 5 armor. It is Tier 4. In-game it is described as: \"A hierophant's headdress.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 5 armor ranks #41 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 2 and has 20 durability."
+  ],
+  "verdict": "Overall Preacher's Hat is a Head Armor piece."
+ },
+ "Puffy_Coat": {
+  "lead": "Puffy Coat is a Chest Armor item in Abiotic Factor. It provides 4 armor. It is Tier 5. In-game it is described as: \"A big puffy coat with the warmth and figure of a campfire marshmallow. Made from natural insulating fibers and a little dash of science by way of thermal insulation.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 4 armor ranks #32 of 37 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 30 durability."
+  ],
+  "verdict": "Overall Puffy Coat is a Chest Armor piece."
+ },
+ "Radiation_Vest": {
+  "lead": "Radiation Vest is a Chest Armor item in Abiotic Factor. It provides 7 armor. It is Tier 3. In-game it is described as: \"A heavy laboratory vest used to block harmful radiation.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 7 armor ranks #29 of 37 entries here — on the lower end.",
+   "On the details, it weighs 15 and has 25 durability."
+  ],
+  "verdict": "Overall Radiation Vest is a Chest Armor piece."
+ },
+ "Radio_Pack": {
+  "lead": "Radio Pack is a Backpack item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A military backpack with some electronics attached.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Radio Pack is a Backpack piece."
+ },
+ "Radion_Armplates": {
+  "lead": "Radion Armplates is an Arm Armor item in Abiotic Factor. It provides 26 armor. It is Tier 6. In-game it is described as: \"Armplates of green, adorned with radioactive labelling, which prove the wearer belongs among the actinide.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Gamma Converter\"; wearing the full set upgrades it to \"Gamma God\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 26 armor ranks #1 of 38 entries here — one of the highest values.",
+   "On the details, it weighs 8 and has 70 durability."
+  ],
+  "verdict": "Overall Radion Armplates is a Arm Armor piece best used as part of its full set to unlock \"Gamma God\"."
+ },
+ "Rat_Pack": {
+  "lead": "Rat Pack is a Backpack item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A large, heavy pack that does absolutely nothing for its wearer's spine or posture.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 10."
+  ],
+  "verdict": "Overall Rat Pack is a Backpack piece."
+ },
+ "Rat_Suit": {
+  "lead": "Rat Suit is a Full Body Suit item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A hazardous environment suit adorned with odd markings. Greatly reduces radiation buildup.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Rat Suit is a Full Body Suit piece."
+ },
+ "Renovo_Armwraps": {
+  "lead": "Renovo Armwraps is an Arm Armor item in Abiotic Factor. It provides 24 armor. It is Tier 7. In-game it is described as: \"Impressive upper limb defenses contrived from unusual constituents.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 24 armor ranks #4 of 38 entries here — one of the highest values.",
+   "On the details, it weighs 3.5 and has 40 durability."
+  ],
+  "verdict": "Overall Renovo Armwraps is a Arm Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Renovo_Chestplate": {
+  "lead": "Renovo Chestplate is a Chest Armor item in Abiotic Factor. It provides 24 armor. It is Tier 7. In-game it is described as: \"High grade body armor from humble origins.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 24 armor ranks #4 of 37 entries here — one of the highest values.",
+   "On the details, it weighs 3.5 and has 52 durability."
+  ],
+  "verdict": "Overall Renovo Chestplate is a Chest Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Renovo_Helmet": {
+  "lead": "Renovo Helmet is a Head Armor item in Abiotic Factor. It provides 24 armor. It is Tier 7. In-game it is described as: \"Heavy duty head armor augmented by myriad found materials.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 24 armor ranks #4 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 3.5 and has 47 durability."
+  ],
+  "verdict": "Overall Renovo Helmet is a Head Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Renovo_Legwraps": {
+  "lead": "Renovo Legwraps is a Leg Armor item in Abiotic Factor. It provides 24 armor. It is Tier 7. In-game it is described as: \"Greatly improved, if still ad hoc leg protection.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Employee of the Week\"; wearing the full set upgrades it to \"Employee of the Month\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 24 armor ranks #4 of 33 entries here — one of the highest values.",
+   "On the details, it weighs 3.5 and has 40 durability."
+  ],
+  "verdict": "Overall Renovo Legwraps is a Leg Armor piece best used as part of its full set to unlock \"Employee of the Month\"."
+ },
+ "Research_Pack": {
+  "lead": "Research Pack is a Backpack item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A large research pack, for transporting samples from other worlds.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 6."
+  ],
+  "verdict": "Overall Research Pack is a Backpack piece."
+ },
+ "Riot_Shield": {
+  "lead": "Riot Shield is an Off-Hand Armament item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A heavy-duty shield originally designed for crowd-control.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall Riot Shield is a Off-Hand Armament piece."
+ },
+ "Rook_Helmet": {
+  "lead": "Rook Helmet is a Head Armor item in Abiotic Factor. It provides 17 armor. It is Tier 5. In-game it is described as: \"Heavy-duty head protection from a highly aggressive attacker.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 17 armor ranks #18 of 61 entries here — above average.",
+   "On the details, it weighs 10 and has 25 durability."
+  ],
+  "verdict": "Overall Rook Helmet is a Head Armor piece."
+ },
+ "Sagittarii_Leggings": {
+  "lead": "Sagittarii Leggings is a Leg Armor item in Abiotic Factor. It provides 16 armor. It is Tier 6. In-game it is described as: \"Composite leg armor acquired from an Order Sagittarii.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Assiduity\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 16 armor ranks #22 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 32 durability."
+  ],
+  "verdict": "Overall Sagittarii Leggings is a Leg Armor piece best used as part of its full set to unlock \"Assiduity\"."
+ },
+ "Sagittarii_Stabilizers": {
+  "lead": "Sagittarii Stabilizers is an Arm Armor item in Abiotic Factor. It provides 16 armor. It is Tier 6. In-game it is described as: \"Composite arm protection emblazoned with with ancient Gnostic symbols.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Assiduity\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 16 armor ranks #22 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 32 durability."
+  ],
+  "verdict": "Overall Sagittarii Stabilizers is a Arm Armor piece best used as part of its full set to unlock \"Assiduity\"."
+ },
+ "Sagittarii_Stealth_Plate": {
+  "lead": "Sagittarii Stealth Plate is a Chest Armor item in Abiotic Factor. It provides 16 armor. It is Tier 5. In-game it is described as: \"Composite body armor adorned with sigils of a recondite sect.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Assiduity\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 16 armor ranks #22 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 36 durability."
+  ],
+  "verdict": "Overall Sagittarii Stealth Plate is a Chest Armor piece best used as part of its full set to unlock \"Assiduity\"."
+ },
+ "Santa_Hat": {
+  "lead": "Santa Hat is a Head Armor item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A festive hat from a jolly man who has no respect for the laws of physics.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Santa Hat is a Head Armor piece."
+ },
+ "Sapper_Suit": {
+  "lead": "Sapper Suit is a Full Body Suit item in Abiotic Factor. It is Tier 6. In-game it is described as: \"A hazmat suit that has seen better days, and likely no longer does the job very well. However, it seems to have a substantial amount of explosive residue coating the surface. Best to avoid open flames.\"",
+  "body": [
+   "A full-body suit covers multiple hitboxes at once, which makes it efficient when you expect sustained hazards rather than a single damage type.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Sapper Suit is a Full Body Suit piece."
+ },
+ "Scarab_Gauntlets": {
+  "lead": "Scarab Gauntlets is an Arm Armor item in Abiotic Factor. It provides 20 armor. It is Tier 5. In-game it is described as: \"Laminar arm protection that augments a hard-wearing chittin analogue with some stuff that was lying around.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 20 armor ranks #10 of 38 entries here — above average.",
+   "On the details, it weighs 7 and has 30 durability."
+  ],
+  "verdict": "Overall Scarab Gauntlets is a Arm Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Scarab_Helm": {
+  "lead": "Scarab Helm is a Head Armor item in Abiotic Factor. It provides 20 armor. It is Tier 5. In-game it is described as: \"Hardened full-face armor that melds alien exoskeletal remains and a handful of more domestic elements.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 20 armor ranks #9 of 61 entries here — one of the highest values.",
+   "On the details, it weighs 7 and has 35 durability."
+  ],
+  "verdict": "Overall Scarab Helm is a Head Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Scarab_Plackart": {
+  "lead": "Scarab Plackart is a Chest Armor item in Abiotic Factor. It provides 20 armor. It is Tier 5. In-game it is described as: \"Combines the resilience of various extraterrestrial offcuts and several material reinforcements into a formidable body armor.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 20 armor ranks #10 of 37 entries here — above average.",
+   "On the details, it weighs 7 and has 45 durability."
+  ],
+  "verdict": "Overall Scarab Plackart is a Chest Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Scarab_Sabatons": {
+  "lead": "Scarab Sabatons is a Leg Armor item in Abiotic Factor. It provides 20 armor. It is Tier 5. In-game it is described as: \"Heavily reinforced leg defenses that combine the bone-like remains of several anteverse creatures.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Prickly\"; wearing the full set upgrades it to \"Thorns\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 20 armor ranks #11 of 33 entries here — above average.",
+   "On the details, it weighs 7 and has 30 durability."
+  ],
+  "verdict": "Overall Scarab Sabatons is a Leg Armor piece best used as part of its full set to unlock \"Thorns\"."
+ },
+ "Security_Arm_Guards": {
+  "lead": "Security Arm Guards is an Arm Armor item in Abiotic Factor. It provides 19 armor. It is Tier 4. In-game it is described as: \"Standard-issue arm protection worn by the GATE Defense Team.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defender\"; wearing the full set upgrades it to \"Hold The Line\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 19 armor ranks #13 of 38 entries here — above average.",
+   "On the details, it weighs 20 and has 20 durability."
+  ],
+  "verdict": "Overall Security Arm Guards is a Arm Armor piece best used as part of its full set to unlock \"Hold The Line\"."
+ },
+ "Security_Cap": {
+  "lead": "Security Cap is a Head Armor item in Abiotic Factor. It provides 1 armor. It is Tier 0. In-game it is described as: \"Standard-issue cap worn by the GATE Defense Team.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 1 armor ranks #55 of 61 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 15 durability."
+  ],
+  "verdict": "Overall Security Cap is a Head Armor piece."
+ },
+ "Security_Helmet": {
+  "lead": "Security Helmet is a Head Armor item in Abiotic Factor. It provides 19 armor. It is Tier 4. In-game it is described as: \"Standard-issue armored helmet worn by the GATE Defense Team.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defender\"; wearing the full set upgrades it to \"Hold The Line\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 19 armor ranks #13 of 61 entries here — above average.",
+   "On the details, it weighs 20 and has 40 durability."
+  ],
+  "verdict": "Overall Security Helmet is a Head Armor piece best used as part of its full set to unlock \"Hold The Line\"."
+ },
+ "Security_Leg_Protectors": {
+  "lead": "Security Leg Protectors is a Leg Armor item in Abiotic Factor. It provides 19 armor. It is Tier 4. In-game it is described as: \"Standard-issue leg protection worn by the GATE Defense Team.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defender\"; wearing the full set upgrades it to \"Hold The Line\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 19 armor ranks #14 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 20 and has 20 durability."
+  ],
+  "verdict": "Overall Security Leg Protectors is a Leg Armor piece best used as part of its full set to unlock \"Hold The Line\"."
+ },
+ "Security_Pack": {
+  "lead": "Security Pack is a Backpack item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A backpack worn by the GATE Defense Team.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 4."
+  ],
+  "verdict": "Overall Security Pack is a Backpack piece."
+ },
+ "Security_Vest": {
+  "lead": "Security Vest is a Chest Armor item in Abiotic Factor. It provides 19 armor. It is Tier 4. In-game it is described as: \"An armored vest worn by the GATE Defense Team.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: with 2+ pieces of the set you gain \"Defender\"; wearing the full set upgrades it to \"Hold The Line\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 19 armor ranks #13 of 37 entries here — above average.",
+   "On the details, it weighs 20 and has 40 durability."
+  ],
+  "verdict": "Overall Security Vest is a Chest Armor piece best used as part of its full set to unlock \"Hold The Line\"."
+ },
+ "Sensory_Companion": {
+  "lead": "Sensory Companion is a Trinket item in Abiotic Factor. It is Tier 4. In-game it is described as: \"This multitude of eyes set amidst a fleshy red glow gives the wearer awareness in all directions.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Sensory Companion is a Trinket piece."
+ },
+ "Shifu_Adornments": {
+  "lead": "Shifu Adornments is a Chest Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"Ornate ceramic body armor, reworked to more closely mimic the inhabitants of Anteverse 1.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 17 armor ranks #18 of 37 entries here — a mid-pack value.",
+   "On the details, it weighs 3 and has 40 durability."
+  ],
+  "verdict": "Overall Shifu Adornments is a Chest Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Shifu_Casque": {
+  "lead": "Shifu Casque is a Head Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"A helmet reconstructed to resemble finely etched porcelain.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Head Armor slot its 17 armor ranks #18 of 61 entries here — above average.",
+   "On the details, it weighs 3 and has 35 durability."
+  ],
+  "verdict": "Overall Shifu Casque is a Head Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Shifu_Greaves": {
+  "lead": "Shifu Greaves is a Leg Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"Otherworldly leg protection, less fragile than it once was.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 17 armor ranks #18 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 3 and has 24 durability."
+  ],
+  "verdict": "Overall Shifu Greaves is a Leg Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Shifu_Vambraces": {
+  "lead": "Shifu Vambraces is an Arm Armor item in Abiotic Factor. It provides 17 armor. It is Tier 4. In-game it is described as: \"Arm defense more robust than its porcelain-like appearance would suggest.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Symphony of String\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 17 armor ranks #18 of 38 entries here — a mid-pack value.",
+   "On the details, it weighs 3 and has 24 durability."
+  ],
+  "verdict": "Overall Shifu Vambraces is a Arm Armor piece best used as part of its full set to unlock \"Symphony of String\"."
+ },
+ "Sigil_of_the_Hearth": {
+  "lead": "Sigil of the Hearth is a Trinket item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A symbol worn by the most fanatical members of The Order, keepers of the oldest traditions.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Sigil of the Hearth is a Trinket piece."
+ },
+ "Sniper_Cowl": {
+  "lead": "Sniper Cowl is a Head Armor item in Abiotic Factor. It provides 8 armor. It is Tier 2. In-game it is described as: \"An ornate hood with a pointed crest, worn by marksmen of old, devoted traditions.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 8 armor ranks #38 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 2 and has 25 durability."
+  ],
+  "verdict": "Overall Sniper Cowl is a Head Armor piece."
+ },
+ "Snow_Gloves": {
+  "lead": "Snow Gloves is an Arm Armor item in Abiotic Factor. It provides 4 armor. It is Tier 5. In-game it is described as: \"A pair of gloves sure to keep anyone warm in the most frigid conditions, when paired with other warm clothing, that is.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 4 armor ranks #30 of 38 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 20 durability."
+  ],
+  "verdict": "Overall Snow Gloves is a Arm Armor piece."
+ },
+ "Snow_Pants": {
+  "lead": "Snow Pants is a Leg Armor item in Abiotic Factor. It provides 6 armor. It is Tier 5. In-game it is described as: \"When these pants are worn, warmth no longer becomes a need, but an entire state of being.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Leg Armor slot its 6 armor ranks #29 of 33 entries here — on the lower end.",
+   "On the details, it weighs 4.5 and has 20 durability."
+  ],
+  "verdict": "Overall Snow Pants is a Leg Armor piece."
+ },
+ "Snow_Peccary_Helmet": {
+  "lead": "Snow Peccary Helmet is a Head Armor item in Abiotic Factor. It provides 14 armor. It is Tier 7. In-game it is described as: \"A helmet made from the head of a fuzzy little guy.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 14 armor ranks #26 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 5 and has 40 durability."
+  ],
+  "verdict": "Overall Snow Peccary Helmet is a Head Armor piece."
+ },
+ "Snowman's_Gettup": {
+  "lead": "Snowman's Gettup is a Head Armor item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A dapper combination of scarf and hat from a frosty fellow in no need of warmth.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 4 and has 30 durability."
+  ],
+  "verdict": "Overall Snowman's Gettup is a Head Armor piece."
+ },
+ "Snowman's_Scarf": {
+  "lead": "Snowman's Scarf is a Head Armor item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A snug scarf sourced from a strange snowy savage.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 2 and has 25 durability."
+  ],
+  "verdict": "Overall Snowman's Scarf is a Head Armor piece."
+ },
+ "Snowman's_Top_Hat": {
+  "lead": "Snowman's Top Hat is a Head Armor item in Abiotic Factor. It is Tier 3. In-game it is described as: \"A raffish silk top hat retrieved from the physical remains of IS-0127.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 2 and has 25 durability."
+  ],
+  "verdict": "Overall Snowman's Top Hat is a Head Armor piece."
+ },
+ "Sow_Helmet": {
+  "lead": "Sow Helmet is a Head Armor item in Abiotic Factor. It provides 8 armor. It is Tier 3. In-game it is described as: \"A helmet made from the head of a purple Peccary.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 8 armor ranks #38 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 6 and has 25 durability."
+  ],
+  "verdict": "Overall Sow Helmet is a Head Armor piece."
+ },
+ "Spuddy": {
+  "lead": "Spuddy is a Trinket item in Abiotic Factor. It is Tier 2. In-game it is described as: \"A small potato with a chain on it. It is arguably the best charm.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 0.5."
+  ],
+  "verdict": "Overall Spuddy is a Trinket piece."
+ },
+ "Strange_Top_Hat": {
+  "lead": "Strange Top Hat is a Head Armor item in Abiotic Factor. It provides 0 armor. It is Tier 7. In-game it is described as: \"A top hat with an unusual property, making it less of a hat, and more of a beaver-skin cylinder.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 0 armor ranks #61 of 61 entries here — on the lower end.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Strange Top Hat is a Head Armor piece."
+ },
+ "Surgical_Mask": {
+  "lead": "Surgical Mask is a Head Armor item in Abiotic Factor. It is Tier 0. In-game it is described as: \"A cloth medical mask usually worn by doctors.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 3."
+  ],
+  "verdict": "Overall Surgical Mask is a Head Armor piece."
+ },
+ "Swamp_Hat": {
+  "lead": "Swamp Hat is a Head Armor item in Abiotic Factor. It provides 10 armor. It is Tier 6. In-game it is described as: \"A hat worn by the eldritch witches of the Gatekeeper contingent.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 10 armor ranks #33 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 5 and has 30 durability."
+  ],
+  "verdict": "Overall Swamp Hat is a Head Armor piece."
+ },
+ "Swinging_Censer": {
+  "lead": "Swinging Censer is a Trinket item in Abiotic Factor. It is Tier 6. In-game it is described as: \"An ornate censer held by a dangling chain and bound with a few technological tweaks.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Swinging Censer is a Trinket piece."
+ },
+ "Tarasque_Helmet": {
+  "lead": "Tarasque Helmet is a Head Armor item in Abiotic Factor. It provides 14 armor. It is Tier 3. In-game it is described as: \"A helmet made from the head of an enormous microbe.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 14 armor ranks #26 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 20 and has 25 durability."
+  ],
+  "verdict": "Overall Tarasque Helmet is a Head Armor piece."
+ },
+ "Triarii_Armwraps": {
+  "lead": "Triarii Armwraps is an Arm Armor item in Abiotic Factor. It provides 19 armor. It is Tier 7. In-game it is described as: \"Strengthened Order arm defenses, not quite general issue.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Sacred Path\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Arm Armor slot its 19 armor ranks #13 of 38 entries here — above average.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall Triarii Armwraps is a Arm Armor piece best used as part of its full set to unlock \"Sacred Path\"."
+ },
+ "Triarii_Chest": {
+  "lead": "Triarii Chest is a Chest Armor item in Abiotic Factor. It provides 19 armor. It is Tier 7. In-game it is described as: \"The most recent iteration of tactical body armor for the Order frontline.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Set bonuses: the full set grants \"Sacred Path\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Chest Armor slot its 19 armor ranks #13 of 37 entries here — above average.",
+   "On the details, it weighs 10 and has 45 durability."
+  ],
+  "verdict": "Overall Triarii Chest is a Chest Armor piece best used as part of its full set to unlock \"Sacred Path\"."
+ },
+ "Triarii_Legguards": {
+  "lead": "Triarii Legguards is a Leg Armor item in Abiotic Factor. It provides 19 armor. It is Tier 7. In-game it is described as: \"Basic leg protection of long-standing Order design.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Set bonuses: the full set grants \"Sacred Path\". Wearing the complete set is usually worth it over mixing single pieces.",
+   "Within the Leg Armor slot its 19 armor ranks #14 of 33 entries here — a mid-pack value.",
+   "On the details, it weighs 10 and has 40 durability."
+  ],
+  "verdict": "Overall Triarii Legguards is a Leg Armor piece best used as part of its full set to unlock \"Sacred Path\"."
+ },
+ "Voidpack": {
+  "lead": "Voidpack is a Backpack item in Abiotic Factor. It is Tier 5. In-game it is described as: \"A strange backpack with huge storage capacity.\"",
+  "body": [
+   "A backpack slot item: it is for carrying capacity and utility rather than protection.",
+   "On the details, it weighs 8."
+  ],
+  "verdict": "Overall Voidpack is a Backpack piece."
+ },
+ "Volatile_Helmet": {
+  "lead": "Volatile Helmet is a Head Armor item in Abiotic Factor. It provides 15 armor. It is Tier 6. In-game it is described as: \"A helmet refined from a volatile creature's cranium.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 15 armor ranks #24 of 61 entries here — above average.",
+   "On the details, it weighs 5 and has 30 durability."
+  ],
+  "verdict": "Overall Volatile Helmet is a Head Armor piece."
+ },
+ "Welding_Mask": {
+  "lead": "Welding Mask is a Head Armor item in Abiotic Factor. It provides 6 armor. It is Tier 2. In-game it is described as: \"A strong helmet to prevent welders from receiving injuries.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 6 armor ranks #40 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 18 and has 25 durability."
+  ],
+  "verdict": "Overall Welding Mask is a Head Armor piece."
+ },
+ "Well-worn_Security_Vest": {
+  "lead": "Well-worn Security Vest is a Chest Armor item in Abiotic Factor. It provides 3 armor. It is Tier 0. In-game it is described as: \"An armored vest worn by the GATE Defense Team.\"",
+  "body": [
+   "Chest armor is the backbone of your mitigation and the biggest single contributor to total armor.",
+   "Within the Chest Armor slot its 3 armor ranks #34 of 37 entries here — on the lower end.",
+   "On the details, it weighs 13 and has 25 durability."
+  ],
+  "verdict": "Overall Well-worn Security Vest is a Chest Armor piece."
+ },
+ "Witch_Hat": {
+  "lead": "Witch Hat is a Head Armor item in Abiotic Factor. It provides 1 armor. It is Tier 4. In-game it is described as: \"A bewitchingly whimsical hat made of matted wool and leather. A bit squashed, either by age or turmoil.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 1 armor ranks #55 of 61 entries here — on the lower end.",
+   "On the details, it weighs 2 and has 20 durability."
+  ],
+  "verdict": "Overall Witch Hat is a Head Armor piece."
+ },
+ "Work_Gloves": {
+  "lead": "Work Gloves is an Arm Armor item in Abiotic Factor. It provides 1 armor. It is Tier 0. In-game it is described as: \"Sturdy gloves typically worn by construction workers.\"",
+  "body": [
+   "Arm armor adds mitigation on top of your chest piece and counts toward set bonuses.",
+   "Within the Arm Armor slot its 1 armor ranks #34 of 38 entries here — on the lower end.",
+   "On the details, it weighs 3 and has 20 durability."
+  ],
+  "verdict": "Overall Work Gloves is a Arm Armor piece."
+ },
+ "Wreath_Crown": {
+  "lead": "Wreath Crown is a Head Armor item in Abiotic Factor. It is Tier 1. In-game it is described as: \"A wreath delicately wrought from the leaves of an evergreen laurel.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "On the details, it weighs 1."
+  ],
+  "verdict": "Overall Wreath Crown is a Head Armor piece."
+ },
+ "Yeti_Helmet": {
+  "lead": "Yeti Helmet is a Head Armor item in Abiotic Factor. It provides 10 armor. It is Tier 5. In-game it is described as: \"A helmet made from the head an abominable creature.\"",
+  "body": [
+   "Head armor covers your most vulnerable hitbox — the head takes bonus damage, so this slot matters more than its raw value suggests.",
+   "Within the Head Armor slot its 10 armor ranks #33 of 61 entries here — a mid-pack value.",
+   "On the details, it weighs 10.5 and has 25 durability."
+  ],
+  "verdict": "Overall Yeti Helmet is a Head Armor piece."
+ },
+ "Zip_Shield": {
+  "lead": "Zip Shield is a Trinket item in Abiotic Factor. It is Tier 7. In-game it is described as: \"The dense 'zip' array of micro-capacitors in this personal shield generator was designed to trade defense for faster recharge speed.\"",
+  "body": [
+   "A trinket occupies a utility slot — it grants an effect rather than raw armor, so it competes with damage and resistance pieces rather than replacing them.",
+   "On the details, it weighs 1.21."
+  ],
+  "verdict": "Overall Zip Shield is a Trinket piece."
+ }
+}

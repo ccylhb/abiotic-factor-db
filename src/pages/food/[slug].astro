@@ -1,6 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
 import food from "../../data/food.json";
+import proseMap from "../../data/prose_food.json";
 
 import Related from "../../components/Related.astro";
 export function getStaticPaths() {
@@ -11,6 +12,7 @@ export function getStaticPaths() {
 }
 
 const { item } = Astro.props;
+const prose = (proseMap as any)[item.slug];
 const title = `${item.name} – Abiotic Factor Food`;
 const desc =
   item.description || item.summary ||
@@ -36,12 +38,16 @@ const desc =
     </table>
   </div>
 
-  {item.summary && (
-    <>
-      <h2>About {item.name}</h2>
-      <p>{item.summary}</p>
-    </>
-  )}
+  <h2>About {item.name}</h2>
+  {prose ? (
+    <div class="prose">
+      <p>{prose.lead}</p>
+      {prose.body.map((p: string) => <p>{p}</p>)}
+      {prose.verdict && <p class="verdict"><strong>Verdict:</strong> {prose.verdict}</p>}
+    </div>
+  ) : item.summary ? (
+    <p>{item.summary}</p>
+  ) : null}
 
   <p class="muted">
     Managing hunger and thirst is the core survival loop in Abiotic Factor — cooked meals from a

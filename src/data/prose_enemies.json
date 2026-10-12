@@ -1,0 +1,775 @@
+{
+ "Alpha_Peccary": {
+  "lead": "Alpha Peccary is a Creature in Abiotic Factor (codename IS-0178-E), originating from Anteverse 2. It has 60 torso HP and 400 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #20 by torso health — on the squishier side.",
+   "It is weak to Blunt damage — the hardest-hitting of the 5 weapons here that deal it are Ramrod (44 dmg), Acid Mace (36 dmg), and Lodehammer (30 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Peccary Alpha Skull, Raw Peccary Chop, Milk Sac, Raw Alien Drumstick. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Alpha Peccary is a Creature in the lower half for toughness — kill it with Blunt damage."
+ },
+ "Archivist": {
+  "lead": "Archivist is a Human in Abiotic Factor (codename Order: Clericum). It has 100 torso HP and 50 head HP.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #32 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Human Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Archivist is a Human in the lower half for toughness."
+ },
+ "Armored_Exor": {
+  "lead": "Armored Exor is a Creature in Abiotic Factor (codename IS-0184-C), originating from Anteverse 2. It has 600 torso HP and 650 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #6 by torso health — above average in health.",
+   "It is weak to Acid, Electricity damage — the hardest-hitting of the 9 weapons here that deal it are Electron Grenade (75 dmg), Lodestone Crossbow (40 dmg), and Skink (Weapon) (40 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Bullet damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Raw Exor Heart, Vibrant Exor Arm, Exor Quill, Raw Alien Drumstick. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Armored Exor is a Creature in the upper half for toughness — kill it with Acid, Electricity damage."
+ },
+ "Assassin": {
+  "lead": "Assassin is a Human in Abiotic Factor (codename Order: Interfector). It has 450 torso HP and 450 head HP. Its melee attack hits for 75 Sharp damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #8 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Acid damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Interfector Sleeves, Interfector Chestwraps, Interfector Breeches, Interfector Helm. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Assassin is a Human in the upper half for toughness."
+ },
+ "Behemoth": {
+  "lead": "Behemoth is a Creature in Abiotic Factor (codename IS-0121-B), originating from Anteverse 42. It has 1250 torso HP and 2000 head HP. Its melee attack hits for 100 Large Enemy damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #3 by torso health — one of the toughest.",
+   "It is weak to Fire,Electricity damage — the hardest-hitting of the 10 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Electron Grenade (75 dmg), and Thresher (60 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Bullet,Explosive damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Smash\" — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Tarasque Ichor, Behemoth Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Behemoth is a Creature in the top tier for toughness — kill it with Fire,Electricity damage."
+ },
+ "Big_Hive_Larva": {
+  "lead": "Big Hive Larva is a Creature in Abiotic Factor (codename A299 D), originating from The Hive. It has 250 head HP. Its melee attack hits for 35 Acid Burn damage.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Acid damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Raw Larva Meat, Big Larva Figurine. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Big Hive Larva is a Creature."
+ },
+ "Big_Larva": {
+  "lead": "Big Larva is a Creature in Abiotic Factor (codename A299 C), originating from The Hive. It has 150 head HP. Its melee attack hits for 35 Sharp damage.",
+  "body": [
+   "It is weak to Fire damage — the hardest-hitting of the 5 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Thresher (60 dmg), and Grinder (45 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Acid damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Raw Larva Meat, Big Larva Figurine. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Big Larva is a Creature — kill it with Fire damage."
+ },
+ "Bigfoot": {
+  "lead": "Bigfoot is a Creature in Abiotic Factor (codename IS-0255). It has 1900 head HP. Its melee attack hits for 100 Heavy Blunt damage.",
+  "body": [
+   "It is weak to Fire,Holy damage — the hardest-hitting of the 8 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Thresher (60 dmg), and Grinder (45 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Electricity,Bullet damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Smash\" — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Yeti Fur, Tech Scrap, Carbon Plating, Frozen Essence. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Bigfoot is a Creature — kill it with Fire,Holy damage."
+ },
+ "Bigogi": {
+  "lead": "Bigogi is a Creature in Abiotic Factor (codename IS-0307), originating from Royal Range, Space Queen. It has 80 torso HP and 80 head HP. Its melee attack hits for 100 Blunt damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #16 by torso health — a mid-pack enemy.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall Bigogi is a Creature in the lower half for toughness."
+ },
+ "Bogman": {
+  "lead": "Bogman is a Creature in Abiotic Factor (codename IS-0422), originating from Unknown, possibly Anteverse 33. It has 600 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "It is weak to Fire damage — the hardest-hitting of the 5 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Thresher (60 dmg), and Grinder (45 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Bullet, Electricity damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Dead Plant, Leather Scrap, Lodestone Fragment. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Bogman is a Creature — kill it with Fire damage."
+ },
+ "Bombogi": {
+  "lead": "Bombogi is a Creature in Abiotic Factor (codename IS-0307), originating from Royal Range, Space Queen. It has 80 torso HP and 80 head HP. Its melee attack hits for 300 Explosive damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #16 by torso health — a mid-pack enemy.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall Bombogi is a Creature in the lower half for toughness."
+ },
+ "Breacher": {
+  "lead": "Breacher is a Human in Abiotic Factor (codename Order: Exulum). It has 200 torso HP and 150 head HP. Its melee attack hits for 60 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #16 by torso health — above average in health.",
+   "It is weak to Acid,Electricity damage — the hardest-hitting of the 9 weapons here that deal it are Electron Grenade (75 dmg), Lodestone Crossbow (40 dmg), and Skink (Weapon) (40 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt,Sharp,Bullet damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Breacher is a Human in the upper half for toughness — kill it with Acid,Electricity damage."
+ },
+ "Captain": {
+  "lead": "Captain is a Human in Abiotic Factor (codename Order: Legate). It has 200 torso HP and 150 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #16 by torso health — above average in health.",
+   "It is weak to Sharp damage — the hardest-hitting of the 18 weapons here that deal it are Hypercross Magbow (170 dmg), Magbow (120 dmg), and Laser Katana (60 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Captain is a Human in the upper half for toughness — kill it with Sharp damage."
+ },
+ "Carbuncle": {
+  "lead": "Carbuncle is a Creature in Abiotic Factor (codename IS-0171-A), originating from Anteverse 2. It has 25 head HP.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Raw Carbuncle. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Carbuncle is a Creature."
+ },
+ "Chieftain": {
+  "lead": "Chieftain is a Human in Abiotic Factor (codename The Spear). It has 450 torso HP and 350 head HP. Its melee attack hits for 85 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #8 by torso health — above average in health.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Chieftain Skull, Human Arm (Military), Kevlar Scrap. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Chieftain is a Human in the upper half for toughness — kill it with Acid damage."
+ },
+ "Close-Quarters_Combatant": {
+  "lead": "Close-Quarters Combatant is a Human in Abiotic Factor (codename Order: MISSING CODENAME). It has 150 torso HP and 100 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #25 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Mountaineer Armguards, Mountaineer Chestplate, Mountaineer Leggings. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Close-Quarters Combatant is a Human in the lower half for toughness."
+ },
+ "Composer": {
+  "lead": "Composer is a Creature in Abiotic Factor (codename IS-0064), originating from Anteverse 1. Its melee attack hits for 250 Blunt damage.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Watch for its special attack, \"Grab\" (10000 damage) — break line of sight or dodge rather than trading hits through it."
+  ],
+  "verdict": "Overall Composer is a Creature."
+ },
+ "Containment_Bot": {
+  "lead": "Containment Bot is a Robot in Abiotic Factor (codename G.A.I.A. (GATE Automated Immurement Automaton)). It has 400 torso HP and 400 head HP. Its melee attack hits for 40 Blunt damage.",
+  "body": [
+   "Among the 4 Robot enemies tracked here it ranks #3 by torso health — a mid-pack enemy.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Door Bash damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Metal Scrap, Glass Scrap, Tech Scrap, Coil, Robot Oil. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Containment Bot is a Robot."
+ },
+ "Corpsewalker": {
+  "lead": "Corpsewalker is a Creature in Abiotic Factor.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall Corpsewalker is a Creature."
+ },
+ "Corrupted_Bot": {
+  "lead": "Corrupted Bot is a Robot in Abiotic Factor (codename G.E.A.R (GATE Expedition Assistant Robot)). It has 550 torso HP and 550 head HP. Its melee attack hits for 100 Blunt damage.",
+  "body": [
+   "Among the 4 Robot enemies tracked here it ranks #1 by torso health — above average in health.",
+   "It is weak to Holy damage — the hardest-hitting of the 5 weapons here that deal it are Thresher (60 dmg), Grinder (45 dmg), and Lodestone Crossbow (40 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Tech Scrap, Robot Oil, Arcane Scrap, GATE Defense Rune. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Corrupted Bot is a Robot — kill it with Holy damage."
+ },
+ "Coworker": {
+  "lead": "Coworker is a Creature in Abiotic Factor (codename IS-0223), originating from Unknown, possibly Anteverse 24. It has 1000 torso HP and 1000 head HP.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #5 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall Coworker is a Creature in the upper half for toughness."
+ },
+ "Darkwater_Beast": {
+  "lead": "Darkwater Beast is a Creature in Abiotic Factor (codename IS-0023), originating from Anteverse 42.",
+  "body": [
+   "It is weak to X-Ray Field damage. Bring the matching damage type and it dies fast.",
+   "Watch for its special attack, \"Eat\" (10000 damage) — break line of sight or dodge rather than trading hits through it."
+  ],
+  "verdict": "Overall Darkwater Beast is a Creature — kill it with X-Ray Field damage."
+ },
+ "Defense_Bot": {
+  "lead": "Defense Bot is a Robot in Abiotic Factor (codename G.A.D.D. (GATE Automated Defense Droid)). It has 500 torso HP and 500 head HP. Its melee attack hits for 100 Blunt damage.",
+  "body": [
+   "Among the 4 Robot enemies tracked here it ranks #2 by torso health — above average in health.",
+   "It is weak to Acid,Laser damage — the hardest-hitting of the 16 weapons here that deal it are Hardlight Sledge (150 dmg), Hardlight Saber (75 dmg), and Plasma Flail (65 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Door Bash damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Tech Scrap, Coil Winding, Transformer Bushing, Coil, Robot Oil, Toroidal Power Transformer, Human Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Defense Bot is a Robot — kill it with Acid,Laser damage."
+ },
+ "Electro-Pest": {
+  "lead": "Electro-Pest is a Creature in Abiotic Factor (codename IS-0173-B), originating from Anteverse 2. It has 60 head HP. Its melee attack hits for 70 Electric damage.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Bullet damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Shock Ring\" (30 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Capacitor, Tech Scrap, Raw Pest, Raw Pest Rump, Bio Scrap. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Electro-Pest is a Creature."
+ },
+ "Exor": {
+  "lead": "Exor is a Creature in Abiotic Factor (codename IS-0184-A), originating from Anteverse 2. It has 175 torso HP and 350 head HP. Its melee attack hits for 70 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #11 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Raw Exor Heart, Exor Arm, Exor Quill, Raw Alien Drumstick. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Exor is a Creature in the upper half for toughness."
+ },
+ "Exor_Cha": {
+  "lead": "Exor Cha is a Creature in Abiotic Factor (codename IS-0184-D), originating from Anteverse 2. It has 600 torso HP and 700 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #6 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Electricity damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Exor Skull, Raw Alien Drumstick, Milk Sac. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Exor Cha is a Creature in the upper half for toughness."
+ },
+ "Exor_Monk": {
+  "lead": "Exor Monk is a Creature in Abiotic Factor (codename IS-0184-B), originating from Anteverse 2. It has 85 torso HP and 140 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #15 by torso health — a mid-pack enemy.",
+   "It is weak to Blunt damage — the hardest-hitting of the 5 weapons here that deal it are Ramrod (44 dmg), Acid Mace (36 dmg), and Lodehammer (30 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Raw Exor Heart, Raw Alien Drumstick. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Exor Monk is a Creature in the lower half for toughness — kill it with Blunt damage."
+ },
+ "Farmer": {
+  "lead": "Farmer is a Human in Abiotic Factor (codename Canaanite). It has 131 torso HP and 145 head HP. Its melee attack hits for 75 Sharp damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #31 by torso health — on the squishier side.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Human Skull, Pilgrim Hat. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Farmer is a Human in the lower half for toughness — kill it with Acid damage."
+ },
+ "Flame_Rat": {
+  "lead": "Flame Rat is a Human in Abiotic Factor (codename Order: Purgati). It has 800 torso HP and 1000 head HP. Its melee attack hits for 60 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #1 by torso health — one of the toughest.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Bullet damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Kamikaze\" (1200 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), High Inquisitor Suit. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Flame Rat is a Human in the top tier for toughness."
+ },
+ "Furfur": {
+  "lead": "Furfur is a Creature in Abiotic Factor.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall Furfur is a Creature."
+ },
+ "Garage_Rat": {
+  "lead": "Garage Rat is a Human in Abiotic Factor (codename Order: Inquisitor). It has 300 torso HP and 200 head HP. Its melee attack hits for 65 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #12 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Rat Suit. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Garage Rat is a Human in the upper half for toughness."
+ },
+ "Giant_Power_Leech": {
+  "lead": "Giant Power Leech is a Creature in Abiotic Factor (codename IS-0211). It has 2000 torso HP and 2000 head HP.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #2 by torso health — one of the toughest.",
+   "It is weak to Blunt damage — the hardest-hitting of the 5 weapons here that deal it are Ramrod (44 dmg), Acid Mace (36 dmg), and Lodehammer (30 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Sharp, Fire damage, so avoid leaning on those types even if your best weapon uses one."
+  ],
+  "verdict": "Overall Giant Power Leech is a Creature in the top tier for toughness — kill it with Blunt damage."
+ },
+ "Grunt": {
+  "lead": "Grunt is a Human in Abiotic Factor (codename Order: Triarii). It has 200 torso HP and 175 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #16 by torso health — above average in health.",
+   "It is weak to Sharp damage — the hardest-hitting of the 18 weapons here that deal it are Hypercross Magbow (170 dmg), Magbow (120 dmg), and Laser Katana (60 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Grunt is a Human in the upper half for toughness — kill it with Sharp damage."
+ },
+ "Guard": {
+  "lead": "Guard is a Human in Abiotic Factor (codename Canaanite). It has 170 torso HP and 170 head HP. Its melee attack hits for 100 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #24 by torso health — a mid-pack enemy.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Human Skull, Pilgrim Hat. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Guard is a Human in the lower half for toughness — kill it with Acid damage."
+ },
+ "Guard_Grunt": {
+  "lead": "Guard Grunt is a Human in Abiotic Factor (codename Order: Triarii). It has 190 torso HP and 150 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #22 by torso health — a mid-pack enemy.",
+   "It is weak to Sharp damage — the hardest-hitting of the 18 weapons here that deal it are Hypercross Magbow (170 dmg), Magbow (120 dmg), and Laser Katana (60 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Guard Grunt is a Human in the lower half for toughness — kill it with Sharp damage."
+ },
+ "Guardian_of_the_Fallow": {
+  "lead": "Guardian of the Fallow is a Human in Abiotic Factor (codename The Abyssal). It has 550 torso HP and 550 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #2 by torso health — one of the toughest.",
+   "It is weak to Electricity damage — the hardest-hitting of the 5 weapons here that deal it are Electron Grenade (75 dmg), Lodestone Crossbow (40 dmg), and Industrial Crossbow (32 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Laser damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Choke\" (50 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Bio Scrap, Mystagogue's Head, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Guardian of the Fallow is a Human in the top tier for toughness — kill it with Electricity damage."
+ },
+ "Hive_Larva": {
+  "lead": "Hive Larva is a Creature in Abiotic Factor (codename A299 B), originating from The Hive. It has 75 head HP. Its melee attack hits for 35 Acid Burn damage.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Acid damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Raw Larva Meat, Larva Figurine. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Hive Larva is a Creature."
+ },
+ "IS-0139": {
+  "lead": "IS-0139 is a Creature in Abiotic Factor (codename IS-0139), originating from Unknown. It has 100 torso HP and 50 head HP. Its melee attack hits for 40 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #13 by torso health — a mid-pack enemy.",
+   "It is weak to Sharp,Blunt damage — the hardest-hitting of the 23 weapons here that deal it are Hypercross Magbow (170 dmg), Magbow (120 dmg), and Laser Katana (60 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Bullet,Electricity damage, so avoid leaning on those types even if your best weapon uses one."
+  ],
+  "verdict": "Overall IS-0139 is a Creature in the lower half for toughness — kill it with Sharp,Blunt damage."
+ },
+ "Jotun": {
+  "lead": "Jotun is a Human in Abiotic Factor (codename The Bulwark). It has 550 torso HP and 550 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #2 by torso health — one of the toughest.",
+   "It is weak to Holy,Acid damage — the hardest-hitting of the 9 weapons here that deal it are Thresher (60 dmg), Grinder (45 dmg), and Lodestone Crossbow (40 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt,Fire,Sharp,Bullet,Laser damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Head of a Giant, Kevlar Scrap, Giant's Pack. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Jotun is a Human in the top tier for toughness — kill it with Holy,Acid damage."
+ },
+ "Jotun_of_the_Fallow": {
+  "lead": "Jotun of the Fallow is a Human in Abiotic Factor (codename The Bulwark). It has 550 torso HP and 550 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #2 by torso health — one of the toughest.",
+   "It is weak to Holy,Acid damage — the hardest-hitting of the 9 weapons here that deal it are Thresher (60 dmg), Grinder (45 dmg), and Lodestone Crossbow (40 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt,Fire,Sharp,Bullet,Laser damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Head of a Giant, Kevlar Scrap, Giant's Pack. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Jotun of the Fallow is a Human in the top tier for toughness — kill it with Holy,Acid damage."
+ },
+ "Krasue": {
+  "lead": "Krasue is a Creature in Abiotic Factor (codename IS-0091-B), originating from Anteverse 33. Its melee attack hits for 100 Sharp damage.",
+  "body": [
+   "It is weak to X-Ray Field damage. Bring the matching damage type and it dies fast."
+  ],
+  "verdict": "Overall Krasue is a Creature — kill it with X-Ray Field damage."
+ },
+ "Lab_Rat": {
+  "lead": "Lab Rat is a Human in Abiotic Factor (codename Order: Inquisitor). It has 200 torso HP and 120 head HP. Its melee attack hits for 65 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #16 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Rat Suit. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Lab Rat is a Human in the upper half for toughness."
+ },
+ "Lamogi": {
+  "lead": "Lamogi is a Creature in Abiotic Factor (codename IS-0307-A), originating from Royal Range, Space Queen. It has 80 torso HP and 80 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #16 by torso health — a mid-pack enemy.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall Lamogi is a Creature in the lower half for toughness."
+ },
+ "Larva": {
+  "lead": "Larva is a Creature in Abiotic Factor (codename A299 A), originating from The Hive. It has 50 head HP. Its melee attack hits for 35 Sharp damage.",
+  "body": [
+   "It is weak to Fire damage — the hardest-hitting of the 5 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Thresher (60 dmg), and Grinder (45 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Acid damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Raw Larva Meat, Larva Figurine. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Larva is a Creature — kill it with Fire damage."
+ },
+ "Leyak": {
+  "lead": "Leyak is a Creature in Abiotic Factor (codename IS-0091), originating from Anteverse 33. Its melee attack hits for 100 Sharp damage.",
+  "body": [
+   "It is weak to X-Ray Field damage. Bring the matching damage type and it dies fast."
+  ],
+  "verdict": "Overall Leyak is a Creature — kill it with X-Ray Field damage."
+ },
+ "Lodeite": {
+  "lead": "Lodeite is a Human in Abiotic Factor (codename Canaanite). It has 475 torso HP and 475 head HP. Its melee attack hits for 80 \"Holy\" damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #7 by torso health — above average in health.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Human Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Lodeite is a Human in the upper half for toughness — kill it with Acid damage."
+ },
+ "Medic": {
+  "lead": "Medic is a Human in Abiotic Factor (codename Order: Exsurgo). It has 150 torso HP and 120 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #25 by torso health — on the squishier side.",
+   "It is weak to Sharp damage — the hardest-hitting of the 18 weapons here that deal it are Hypercross Magbow (170 dmg), Magbow (120 dmg), and Laser Katana (60 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Exsurgo Armwraps, Exsurgo Tactical Plate, Exsurgo Shinguards. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Medic is a Human in the lower half for toughness — kill it with Sharp damage."
+ },
+ "Mother_of_the_Fallow": {
+  "lead": "Mother of the Fallow is a Human in Abiotic Factor (codename The Hexan). It has 250 torso HP and 250 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #14 by torso health — above average in health.",
+   "It is weak to Fire damage — the hardest-hitting of the 5 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Thresher (60 dmg), and Grinder (45 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Laser damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Witch Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Mother of the Fallow is a Human in the upper half for toughness — kill it with Fire damage."
+ },
+ "Mountaineer": {
+  "lead": "Mountaineer is a Human in Abiotic Factor (codename Order: MISSING CODENAME). It has 150 torso HP and 100 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #25 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Mountaineer Armguards, Mountaineer Chestplate, Mountaineer Leggings. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Mountaineer is a Human in the lower half for toughness."
+ },
+ "Mushroom_Carbuncle": {
+  "lead": "Mushroom Carbuncle is a Creature in Abiotic Factor (codename IS-0171-B), originating from Anteverse 2. It has 40 head HP.",
+  "body": [
+   "It is weak to Fire,Plasma damage — the hardest-hitting of the 10 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Hardlight Sledge (150 dmg), and Hardlight Saber (75 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Raw Carbuncle, Carbuncle Mushroom. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Mushroom Carbuncle is a Creature — kill it with Fire,Plasma damage."
+ },
+ "Mushroom_Peccary": {
+  "lead": "Mushroom Peccary is a Creature in Abiotic Factor (codename IS-0178-B), originating from Anteverse 2. It has 150 torso HP and 225 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #12 by torso health — a mid-pack enemy.",
+   "It is weak to Fire,Plasma damage — the hardest-hitting of the 10 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Hardlight Sledge (150 dmg), and Hardlight Saber (75 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Blunt,Bullet damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Raw Peccary Chop, Carbuncle Mushroom, Raw Alien Drumstick, Mushroom Peccary Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Mushroom Peccary is a Creature in the lower half for toughness — kill it with Fire,Plasma damage."
+ },
+ "Mystagogue": {
+  "lead": "Mystagogue is a Human in Abiotic Factor (codename The Abyssal). It has 550 torso HP and 550 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #2 by torso health — one of the toughest.",
+   "It is weak to Electricity damage — the hardest-hitting of the 5 weapons here that deal it are Electron Grenade (75 dmg), Lodestone Crossbow (40 dmg), and Industrial Crossbow (32 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Laser damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Choke\" (50 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Bio Scrap, Mystagogue's Head, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Mystagogue is a Human in the top tier for toughness — kill it with Electricity damage."
+ },
+ "Mystagogue_Eye": {
+  "lead": "Mystagogue Eye is a Robot in Abiotic Factor. It has 10 head HP.",
+  "body": [
+   "It is weak to Electricity damage — the hardest-hitting of the 5 weapons here that deal it are Electron Grenade (75 dmg), Lodestone Crossbow (40 dmg), and Industrial Crossbow (32 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Sharp damage, so avoid leaning on those types even if your best weapon uses one."
+  ],
+  "verdict": "Overall Mystagogue Eye is a Robot — kill it with Electricity damage."
+ },
+ "Neophyte": {
+  "lead": "Neophyte is a Human in Abiotic Factor (codename The Tested). It has 300 torso HP and 250 head HP. Its melee attack hits for 100 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #12 by torso health — above average in health.",
+   "It is weak to Acid,Blunt,Sharp damage — the hardest-hitting of the 25 weapons here that deal it are Hypercross Magbow (170 dmg), Magbow (120 dmg), and Laser Katana (60 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Human Arm (Military), Kevlar Scrap, Human Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Neophyte is a Human in the upper half for toughness — kill it with Acid,Blunt,Sharp damage."
+ },
+ "Niketas": {
+  "lead": "Niketas is a Human in Abiotic Factor (codename Canaanite). It has 500 torso HP and 625 head HP. Its melee attack hits for 100 \"Holy\" damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #6 by torso health — one of the toughest.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Human Skull, Tech Scrap, Preacher's Hat. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Niketas is a Human in the top tier for toughness — kill it with Acid damage."
+ },
+ "Nyth": {
+  "lead": "Nyth is a Creature in Abiotic Factor (codename A299 E), originating from The Hive. It has 2500 head HP. Its melee attack hits for 100 Sharp damage.",
+  "body": [
+   "It is weak to Explosive damage — the hardest-hitting of the 5 weapons here that deal it are Rocket Launcher (1150 dmg), Megaton Flask (600 dmg), and Frag Grenade (400 dmg). Bring the matching damage type and it dies fast."
+  ],
+  "verdict": "Overall Nyth is a Creature — kill it with Explosive damage."
+ },
+ "Patriarch_of_the_Fallow": {
+  "lead": "Patriarch of the Fallow is a Human in Abiotic Factor (codename The Spear). It has 450 torso HP and 350 head HP. Its melee attack hits for 85 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #8 by torso health — above average in health.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Chieftain Skull, Human Arm (Military), Kevlar Scrap. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Patriarch of the Fallow is a Human in the upper half for toughness — kill it with Acid damage."
+ },
+ "Peccary": {
+  "lead": "Peccary is a Creature in Abiotic Factor (codename IS-0178-A), originating from Anteverse 2. It has 80 torso HP and 80 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #16 by torso health — a mid-pack enemy.",
+   "It is weak to Blunt damage — the hardest-hitting of the 5 weapons here that deal it are Ramrod (44 dmg), Acid Mace (36 dmg), and Lodehammer (30 dmg). Bring the matching damage type and it dies fast.",
+   "Watch for its special attack, \"Headbutt\" (75 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Bio Scrap, Raw Peccary Chop, Raw Alien Drumstick, Peccary Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Peccary is a Creature in the lower half for toughness — kill it with Blunt damage."
+ },
+ "Peccary_Sow": {
+  "lead": "Peccary Sow is a Creature in Abiotic Factor (codename IS-0178-F), originating from Anteverse 2. It has 100 torso HP and 150 head HP. Its melee attack hits for 65 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #13 by torso health — a mid-pack enemy.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Raw Peccary Chop, Milk Sac, Leather Scrap, Raw Alien Drumstick, Sow Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Peccary Sow is a Creature in the lower half for toughness."
+ },
+ "Pest": {
+  "lead": "Pest is a Creature in Abiotic Factor (codename IS-0173-A), originating from Anteverse 2. It has 25 head HP. Its melee attack hits for 35 Sharp damage.",
+  "body": [
+   "It is weak to Blunt damage — the hardest-hitting of the 5 weapons here that deal it are Ramrod (44 dmg), Acid Mace (36 dmg), and Lodehammer (30 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Raw Pest Rump, Raw Pest. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Pest is a Creature — kill it with Blunt damage."
+ },
+ "Power_Leech": {
+  "lead": "Power Leech is a Creature in Abiotic Factor (codename IS-0211). It has 25 torso HP and 25 head HP.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #22 by torso health — on the squishier side.",
+   "It is weak to Blunt damage — the hardest-hitting of the 5 weapons here that deal it are Ramrod (44 dmg), Acid Mace (36 dmg), and Lodehammer (30 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Sharp, Fire damage, so avoid leaning on those types even if your best weapon uses one."
+  ],
+  "verdict": "Overall Power Leech is a Creature in the lower half for toughness — kill it with Blunt damage."
+ },
+ "Reaper": {
+  "lead": "Reaper is a Creature in Abiotic Factor (codename IS-0059). Its melee attack hits for 175 Heavy Sharp damage.",
+  "body": [
+   "It is weak to Laser, X-Ray Field, Holy damage — the hardest-hitting of the 14 weapons here that deal it are Hardlight Sledge (150 dmg), Hardlight Saber (75 dmg), and Plasma Flail (65 dmg). Bring the matching damage type and it dies fast."
+  ],
+  "verdict": "Overall Reaper is a Creature — kill it with Laser, X-Ray Field, Holy damage."
+ },
+ "Rook": {
+  "lead": "Rook is a Human in Abiotic Factor (codename Order: Opprimo). It has 150 torso HP and 100 head HP. Its melee attack hits for 75 Generic damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #25 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Mountaineer Armguards, Mountaineer Chestplate, Mountaineer Leggings. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Rook is a Human in the lower half for toughness."
+ },
+ "Sapper": {
+  "lead": "Sapper is a Human in Abiotic Factor (codename Order: Saboter). It has 400 torso HP and 240 head HP. Its melee attack hits for 95 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #11 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Explosive,Laser damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Kamikaze\" (1200 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military), Sapper Suit. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Sapper is a Human in the upper half for toughness."
+ },
+ "Security_Bot": {
+  "lead": "Security Bot is a Robot in Abiotic Factor (codename G.A.S.S. (GATE Automated Security Sentience)). It has 180 torso HP and 180 head HP. Its melee attack hits for 100 Blunt Stun damage.",
+  "body": [
+   "Among the 4 Robot enemies tracked here it ranks #4 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Door Bash damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Metal Scrap, Glass Scrap, Tech Scrap, Coil, Robot Oil. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Security Bot is a Robot."
+ },
+ "Shield_Trooper": {
+  "lead": "Shield Trooper is a Human in Abiotic Factor (codename Order: Opprimo). It has 200 torso HP and 150 head HP. Its melee attack hits for 75 Generic damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #16 by torso health — above average in health.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Shield Trooper is a Human in the upper half for toughness."
+ },
+ "Shock_Trooper": {
+  "lead": "Shock Trooper is a Human in Abiotic Factor. It has 150 torso HP and 100 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #25 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Shock Trooper is a Human in the lower half for toughness."
+ },
+ "Skink": {
+  "lead": "Skink is a Creature in Abiotic Factor (codename IS-0128), originating from Anteverse 21. It has 200 head HP. Its melee attack hits for 35 Sharp damage.",
+  "body": [
+   "It is weak to Electricity damage — the hardest-hitting of the 5 weapons here that deal it are Electron Grenade (75 dmg), Lodestone Crossbow (40 dmg), and Industrial Crossbow (32 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Fire damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Skink Skull, Raw Skink Meat, Green Fish Liver, Fish Bones, Radfish. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Skink is a Creature — kill it with Electricity damage."
+ },
+ "Sniper": {
+  "lead": "Sniper is a Human in Abiotic Factor (codename Order: Sagittarii). It has 90 torso HP and 60 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #33 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Human Arm (Military), Sniper Skull, Sagittarii Stealth Plate, Sagittarii Leggings, Sagittarii Stabilizers. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Sniper is a Human in the lower half for toughness."
+ },
+ "Snow_Peccary": {
+  "lead": "Snow Peccary is a Creature in Abiotic Factor (codename IS-0178-H), originating from Anteverse 2. It has 300 torso HP and 400 head HP. Its melee attack hits for 85 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #9 by torso health — above average in health.",
+   "It is weak to Blunt damage — the hardest-hitting of the 5 weapons here that deal it are Ramrod (44 dmg), Acid Mace (36 dmg), and Lodehammer (30 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Cold damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Raw Alien Drumstick, Raw Peccary Chop, Yeti Fur, Snow Peccary Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Snow Peccary is a Creature in the upper half for toughness — kill it with Blunt damage."
+ },
+ "Snow_Pest": {
+  "lead": "Snow Pest is a Creature in Abiotic Factor (codename IS-0173-I), originating from Anteverse 2. It has 200 head HP. Its melee attack hits for 100 Sharp damage.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Bullet,Cold damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Raw Pest, Raw Pest Rump, Yeti Fur. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Snow Pest is a Creature."
+ },
+ "Symphonist": {
+  "lead": "Symphonist is a Creature in Abiotic Factor (codename IS-0407), originating from Anteverse 1. It has 1100 head HP. Its melee attack hits for 30 Sharp damage.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall Symphonist is a Creature."
+ },
+ "Tainted_Carbuncle": {
+  "lead": "Tainted Carbuncle is a Creature in Abiotic Factor (codename IS-0171), originating from Anteverse 2. It has 35 head HP. Its melee attack hits for 15 Acid damage.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "It resists Fire damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Raw Carbuncle. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Tainted Carbuncle is a Creature."
+ },
+ "Tarasque": {
+  "lead": "Tarasque is a Creature in Abiotic Factor (codename IS-0121), originating from Anteverse 42. It has 300 torso HP and 2000 head HP. Its melee attack hits for 100 Large Enemy damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #9 by torso health — above average in health.",
+   "It is weak to Fire,Electricity,Plasma damage — the hardest-hitting of the 15 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Hardlight Sledge (150 dmg), and Electron Grenade (75 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Bullet,Explosive damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Smash\" — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Tarasque Ichor, Tarasque Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Tarasque is a Creature in the upper half for toughness — kill it with Fire,Electricity,Plasma damage."
+ },
+ "The_Moving_Box": {
+  "lead": "The Moving Box is a Creature in Abiotic Factor (codename IS-0247), originating from Anteverse 1.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall The Moving Box is a Creature."
+ },
+ "The_Snowman_(Enemy)": {
+  "lead": "The Snowman (Enemy) is a Creature in Abiotic Factor (codename IS-0127). It has 550 torso HP and 2000 head HP. Its melee attack hits for 150 Large Enemy damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #8 by torso health — above average in health.",
+   "It is weak to Fire,Plasma damage — the hardest-hitting of the 10 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Hardlight Sledge (150 dmg), and Hardlight Saber (75 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Bullet,Explosive damage, so avoid leaning on those types even if your best weapon uses one."
+  ],
+  "verdict": "Overall The Snowman (Enemy) is a Creature in the upper half for toughness — kill it with Fire,Plasma damage."
+ },
+ "The_Wayseeker_(Enemy)": {
+  "lead": "The Wayseeker (Enemy) is a Creature in Abiotic Factor (codename IS-0117), originating from Anteverse 2. It has 3000 torso HP and 500 head HP.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #1 by torso health — one of the toughest.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer."
+  ],
+  "verdict": "Overall The Wayseeker (Enemy) is a Creature in the top tier for toughness."
+ },
+ "Torchbearer": {
+  "lead": "Torchbearer is a Human in Abiotic Factor (codename Canaanite). It has 180 torso HP and 220 head HP. Its melee attack hits for 85 \"Holy\" damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #23 by torso health — a mid-pack enemy.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Human Skull, Pilgrim Hat. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Torchbearer is a Human in the lower half for toughness — kill it with Acid damage."
+ },
+ "Trooper": {
+  "lead": "Trooper is a Human in Abiotic Factor. It has 150 torso HP and 100 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #25 by torso health — on the squishier side.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Harvestable from it: Bio Scrap, Human Skull, Human Arm (Military). Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Trooper is a Human in the lower half for toughness."
+ },
+ "Volatile_Exor": {
+  "lead": "Volatile Exor is a Creature in Abiotic Factor (codename IS-0184-E), originating from Anteverse 2. It has 1100 torso HP and 1100 head HP. Its melee attack hits for 50 Sharp damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #4 by torso health — one of the toughest.",
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Watch for its special attack, \"Explosion\" (150 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Bio Scrap, Plutonic Blood, Exor Quill, Plutonic Carapace, Volatile Exor Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Volatile Exor is a Creature in the top tier for toughness."
+ },
+ "Volatile_Pest": {
+  "lead": "Volatile Pest is a Creature in Abiotic Factor (codename IS-0173-C), originating from Anteverse 2. It has 200 head HP.",
+  "body": [
+   "No elemental weakness is recorded for it, so a high-damage weapon of any type is the straightforward answer.",
+   "Watch for its special attack, \"Explosion\" (150 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Bio Scrap, Plutonic Carapace, Raw Pest Rump, Raw Pest. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Volatile Pest is a Creature."
+ },
+ "Witch": {
+  "lead": "Witch is a Human in Abiotic Factor (codename The Hexan). It has 250 torso HP and 250 head HP. Its melee attack hits for 50 Blunt damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #14 by torso health — above average in health.",
+   "It is weak to Fire damage — the hardest-hitting of the 5 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Thresher (60 dmg), and Grinder (45 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Laser damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Harvestable from it: Bio Scrap, Witch Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Witch is a Human in the upper half for toughness — kill it with Fire damage."
+ },
+ "Woodsman": {
+  "lead": "Woodsman is a Human in Abiotic Factor (codename Canaanite). It has 200 torso HP and 280 head HP. Its melee attack hits for 120 Heavy Sharp/Acid Burn damage.",
+  "body": [
+   "Among the 33 Human enemies tracked here it ranks #16 by torso health — above average in health.",
+   "It is weak to Acid damage — the hardest-hitting of the 7 weapons here that deal it are Lodestone Crossbow (40 dmg), Skink (Weapon) (40 dmg), and Quill Rifle (35 dmg). Bring the matching damage type and it dies fast.",
+   "Harvestable from it: Bio Scrap, Human Skull. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Woodsman is a Human in the upper half for toughness — kill it with Acid damage."
+ },
+ "Yeti": {
+  "lead": "Yeti is a Creature in Abiotic Factor (codename IS-0134-A). It has 2200 head HP. Its melee attack hits for 100 Sharp damage.",
+  "body": [
+   "It is weak to Fire damage — the hardest-hitting of the 5 weapons here that deal it are Magma Skink (Weapon) (180 dmg), Thresher (60 dmg), and Grinder (45 dmg). Bring the matching damage type and it dies fast.",
+   "It resists Bullet, Electricity damage, so avoid leaning on those types even if your best weapon uses one.",
+   "Watch for its special attack, \"Smash\" — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Yeti Skull, Yeti Fur. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Yeti is a Creature — kill it with Fire damage."
+ },
+ "Zombie": {
+  "lead": "Zombie is a Creature in Abiotic Factor. It has 35 torso HP and 35 head HP. Its melee attack hits for 100 Blunt damage.",
+  "body": [
+   "Among the 22 Creature enemies tracked here it ranks #21 by torso health — on the squishier side.",
+   "It is weak to Electricity,Shotgun,Holy damage — the hardest-hitting of the 28 weapons here that deal it are Ice X Rifle (150 dmg), Rail Rifle (120 dmg), and Manomin Magnum (115 dmg). Bring the matching damage type and it dies fast.",
+   "Watch for its special attack, \"Bite\" (100 damage) — break line of sight or dodge rather than trading hits through it.",
+   "Harvestable from it: Human Skull, Bio Scrap. Bring the tools to collect these or you lose the drop."
+  ],
+  "verdict": "Overall Zombie is a Creature in the lower half for toughness — kill it with Electricity,Shotgun,Holy damage."
+ }
+}
