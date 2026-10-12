@@ -3436,7 +3436,7 @@
   "slug": "Cooked_Porkchop",
   "description": "A chunk of tasty porkchop meat.",
   "flavor": "",
-  "category": "Food and Cooking}}",
+  "category": "Food and Cooking",
   "weight": "1.25",
   "stack": "4",
   "tier": "",
@@ -3454,7 +3454,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Porkchop is a consumable food item in Abiotic Factor.",
+  "summary": "Cooked Porkchop is a food item in Abiotic Factor.",
   "icon": ""
  },
  {

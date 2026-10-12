@@ -1696,7 +1696,7 @@
   "resistance": "",
   "drops": "",
   "harvest": "Human Skull, Bio Scrap",
-  "summary": "Zombie is a hostile creature found in the Containment Block Helmholtz and in the Furniture Store.",
+  "summary": "Zombie is a hostile creature found in the Containment Block Helmholtz, the Furniture Store and Hydroplant.",
   "icon": "/icons/Zombie.png"
  }
 ]
