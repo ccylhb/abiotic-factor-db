@@ -1,5 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
+import { cl, stats, desc as mkDesc, best } from "../../lib/seo";
 import food from "../../data/food.json";
 import proseMap from "../../data/prose_food.json";
 
@@ -17,9 +18,22 @@ const title = `${item.name} – Abiotic Factor Food`;
 const desc =
   item.description || item.summary ||
   `${item.name} is a food item in Abiotic Factor. See hunger, thirst and sanity restore values, weight and how to cook it.`;
+
+const description =
+  mkDesc(
+    `Abiotic Factor ${item.name}:`,
+    stats(
+      cl(item.hunger) && `hunger +${cl(item.hunger)}`,
+      cl(item.thirst) && `thirst +${cl(item.thirst)}`,
+      cl(item.cookingStage) && cl(item.cookingStage) !== "Tool" && `${cl(item.cookingStage)}`,
+      cl(item.weight) && `weight ${cl(item.weight)}`
+    ),
+    "Hunger, thirst and sanity values, and how to cook it."
+  ) || best(prose?.lead, `${item.name} is an Abiotic Factor food item.`);
+
 ---
 
-<Base title={title} description={`Abiotic Factor ${item.name}: hunger, thirst and sanity effects, weight, cooking stage and how to obtain it. ${desc.slice(0, 100)}`}>
+<Base title={title} description={description}>
   <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
     <a href="/">Home</a> › <a href="/food/">Food & Cooking</a> › <span>{item.name}</span>
   </nav>

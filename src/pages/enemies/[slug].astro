@@ -1,5 +1,6 @@
 ---
 import Base from "../../layouts/Base.astro";
+import { cl, stats, desc as mkDesc, best } from "../../lib/seo";
 import enemies from "../../data/enemies.json";
 import proseMap from "../../data/prose_enemies.json";
 
@@ -21,9 +22,23 @@ const title = `${enemy.name} – Abiotic Factor Enemy`;
 const desc =
   enemy.summary ||
   `${enemy.name} is ${/^[aeiou]/i.test(enemy.type || "") ? "an" : "a"} ${enemy.type || "enemy"} in Abiotic Factor. See health, weaknesses, resistances and drops.`;
+
+const description =
+  mkDesc(
+    `Abiotic Factor ${enemy.name}:`,
+    stats(
+      cl(enemy.healthHead) && `${cl(enemy.healthHead)} head HP`,
+      cl(enemy.healthTorso) && `${cl(enemy.healthTorso)} torso HP`,
+      cl(enemy.meleeDamage) && `${cl(enemy.meleeDamage)} melee damage`,
+      cl(enemy.weakness) && `weak to ${cl(enemy.weakness)}`
+    ),
+    cl(enemy.drops) && `Drops ${cl(enemy.drops)}.`,
+    "Weaknesses, resistances and where to find it."
+  ) || best(prose?.lead, `${enemy.name} is an Abiotic Factor enemy.`);
+
 ---
 
-<Base title={title} description={`Abiotic Factor ${enemy.name}: head and torso health, melee and special attacks, weaknesses, resistances, drops and where to find it. ${desc.slice(0, 100)}`}>
+<Base title={title} description={description}>
   <nav class="muted" style="font-size:0.9rem;margin-bottom:1rem">
     <a href="/">Home</a> › <a href="/enemies/">Enemies</a> ›
     <a href={`/enemies/type/${typeSlug}/`}>{enemy.type || "Other"}</a> ›
