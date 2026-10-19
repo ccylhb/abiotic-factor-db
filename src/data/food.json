@@ -4,7 +4,7 @@
   "slug": "A&L_Mega-Stew",
   "description": "It cost something an arm and a leg.",
   "flavor": "",
-  "category": "Food and Cooking}}",
+  "category": "Food and Cooking",
   "weight": "1",
   "stack": "1",
   "tier": "",
@@ -22,7 +22,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "A&L Mega-Stew is an item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
+  "summary": "A&L Mega-Stew is a food item in Abiotic Factor, it can be placed down and 4 portions can be taken.",
   "icon": ""
  },
  {
@@ -282,7 +282,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Antejuice Sac is a consumable item in Abiotic Factor.",
+  "summary": "Antejuice Sac is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -314,27 +314,27 @@
  {
   "name": "Antepasta",
   "slug": "Antepasta",
-  "description": "",
-  "flavor": "",
-  "category": "",
-  "weight": "",
-  "stack": "",
+  "description": "This proto-pasta awaits cooking.",
+  "flavor": "Gluten free, oddly enough.",
+  "category": "Food and Cooking",
+  "weight": "1",
+  "stack": "4",
   "tier": "",
   "durability": "",
   "weaponType": "",
   "weaponDamage": "",
   "weaponDamageType": "",
-  "hunger": "",
+  "hunger": "16.5",
   "thirst": "",
   "sanity": "",
-  "cookingStage": "",
+  "cookingStage": "Raw",
   "gearSlot": "",
   "gearArmor": "",
   "gearHeatResist": "",
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "",
+  "summary": "Antepasta is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -802,7 +802,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burned Alien Drumstick is a consumable item in Abiotic Factor.",
+  "summary": "Burned Alien Drumstick is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -958,7 +958,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burned Carbuncle is a consumable item in Abiotic Factor.",
+  "summary": "Burned Carbuncle is a food item in Abiotic Factor.",
   "icon": "/icons/Burned_Carbuncle.png"
  },
  {
@@ -1114,7 +1114,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burned Fries is an item in Abiotic Factor.",
+  "summary": "Burned Fries is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -1140,7 +1140,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burned Glimmering Meat Steak is a consumable item in Abiotic Factor.",
+  "summary": "Burned Glimmering Meat Steak is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -1686,7 +1686,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Antefish Filet is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt Antefish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -1764,7 +1764,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Chordfish Filet is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt Chordfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -1842,7 +1842,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Darkwater Fish Filet is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt Darkwater Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -1946,7 +1946,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Frigid Queenfish Filet is a consumable Item in Abiotic Factor. Unlike most burned food, this one does not give negative thirst.",
+  "summary": "Burnt Frigid Queenfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -1972,7 +1972,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt IS-0098 Tentacles is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt IS-0098 Tentacles is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -1998,7 +1998,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Inkfish Filet is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt Inkfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2024,7 +2024,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Moon Fish Filet is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt Moon Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2102,7 +2102,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Penumbra Filet is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt Penumbra Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2128,7 +2128,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Portal Fish Filet is a consumable Item in Abiotic Factor.",
+  "summary": "Burnt Portal Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2258,7 +2258,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Burnt Stuffed Peppers Tray is an item in Abiotic Factor.",
+  "summary": "Burnt Stuffed Peppers Tray is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2336,7 +2336,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Canned Peas is a consumable item in Abiotic Factor.",
+  "summary": "Canned Peas is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2414,7 +2414,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Carbuncle Mushroom is a consumable item in Abiotic Factor.",
+  "summary": "Carbuncle Mushroom is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2622,7 +2622,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cold Apple Cider is a consumable item in Abiotic Factor.",
+  "summary": "Cold Apple Cider is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2648,7 +2648,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cold Pumpkin Splice Latte is a consumable item in Abiotic Factor.",
+  "summary": "Cold Pumpkin Splice Latte is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2674,7 +2674,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cold Vanilla Latte is a consumable item in Abiotic Factor.",
+  "summary": "Cold Vanilla Latte is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2752,7 +2752,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Alien Drumstick is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Alien Drumstick is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2778,7 +2778,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Antefish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Antefish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2856,7 +2856,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Carbuncle is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Carbuncle is a food item in Abiotic Factor.",
   "icon": "/icons/Cooked_Carbuncle.png"
  },
  {
@@ -2908,7 +2908,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Chordfish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Chordfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -2960,7 +2960,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Darkwater Fish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Darkwater Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3116,7 +3116,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Frigid Queenfish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Frigid Queenfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3142,7 +3142,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Glimmering Meat Steak is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Glimmering Meat Steak is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3220,7 +3220,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked IS-0098 Tentacles is a consumable item in Abiotic Factor.",
+  "summary": "Cooked IS-0098 Tentacles is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3246,7 +3246,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Inkfish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Inkfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3272,7 +3272,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Moon Fish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Moon Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3350,7 +3350,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Penumbra Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Penumbra Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3480,7 +3480,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cooked Portal Fish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Cooked Portal Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -3818,7 +3818,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Cosmato Salad Wrap is an item in Abiotic Factor. Once the Leyak and variants have been contained within Containment Unit: 91, Cosmato Salad Wrap will be one of the best food sources available due to its high hunger & thirst fill combination and due to the fact that all three ingredients can easily be farmed in large amounts.",
+  "summary": "Cosmato Salad Wrap is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -4286,7 +4286,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "A small container of a sparkling, crystalline powder. This sugar-like substance is used as a crafting ingredient.",
+  "summary": "Gem Sugar is a food item in [[Abiotic Factor.",
   "icon": ""
  },
  {
@@ -4442,7 +4442,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Gooey Tulip Salad is an item in Abiotic Factor.",
+  "summary": "Gooey Tulip Salad is a food item in Abiotic Factor.",
   "icon": "/icons/Gooey_Tulip_Salad.png"
  },
  {
@@ -4494,7 +4494,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Green Fish Liver is a consumable item in Abiotic Factor.",
+  "summary": "Green Fish Liver is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -4624,7 +4624,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Gusto Goo is a consumable item in Abiotic Factor.",
+  "summary": "Gusto Goo is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -4910,7 +4910,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Hot Apple Cider is a consumable drink in Abiotic Factor. Increases warmth and increases healing for a while.",
+  "summary": "Hot Apple Cider is a food item in Abiotic Factor. Increases warmth and increases healing for a while.",
   "icon": ""
  },
  {
@@ -5378,7 +5378,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Military M.R.E. (Meal Ready to Eat) is a consumable item in Abiotic Factor.",
+  "summary": "Military M.R.E. (Meal Ready to Eat) is a food item in Abiotic Factor.",
   "icon": "/icons/Military_M_R_E.png"
  },
  {
@@ -5456,7 +5456,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Mug of Cold Coffee is a consumable item in Abiotic Factor.",
+  "summary": "Mug of Cold Coffee is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -5482,7 +5482,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Murkweed is a consumable item in Abiotic Factor.",
+  "summary": "Murkweed is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -5560,7 +5560,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Nachos is a consumable item in Abiotic Factor.",
+  "summary": "=== Office Sector === * At level 2, in the Security Office, up on the balcony by the gun range, sitting on a couch chair. * At level 3, behind the Tier 2 Keypad on the balcony.",
   "icon": ""
  },
  {
@@ -5586,7 +5586,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "PLT Sandwich is an item in Abiotic Factor.",
+  "summary": "PLT Sandwich is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6080,7 +6080,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Salvaging a Pumpkin at a Repair and Salvage Station yields the following: setName=Pumpkin image= baseItem=Pumpkin type=Salvaging lootItems= setName=Pumpkin name=Bio Scrap quantityMin=1 quantityMax=1 chance=1 setName=Pumpkin name=Pumpkin Seed quantityMin=0 quantityMax=1 chance=0.25 setName=Pumpkin name=Orange Antelight Seed quantityMin=0 quantityMax=1 chance=0.05 setName=Pumpkin",
+  "summary": "Pumpkin is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6288,7 +6288,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Pumpkin Splice Latte is a consumable drink in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
+  "summary": "Pumpkin Splice Latte is a food item in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
   "icon": ""
  },
  {
@@ -6392,7 +6392,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Alien Drumstick is a consumable item in Abiotic Factor.",
+  "summary": "Raw Alien Drumstick is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6444,7 +6444,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Antefish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Antefish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6496,7 +6496,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Carbuncle is a consumable item in Abiotic Factor.",
+  "summary": "Raw Carbuncle is a food item in Abiotic Factor.",
   "icon": "/icons/Raw_Carbuncle.png"
  },
  {
@@ -6626,7 +6626,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Chordfish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Chordfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6730,7 +6730,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Darkwater Fish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Darkwater Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6860,7 +6860,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "The makings of fries.",
+  "summary": "Raw Fries is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6886,7 +6886,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Frigid Queenfish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Frigid Queenfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -6912,7 +6912,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Glimmering Meat Steak is a consumable item in Abiotic Factor.",
+  "summary": "Raw Glimmering Meat Steak is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7016,7 +7016,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw IS-0098 Tentacles is a consumable item in Abiotic Factor.",
+  "summary": "Raw IS-0098 Tentacles is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7042,7 +7042,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Inkfish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Inkfish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7094,7 +7094,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Moon Fish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Moon Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7224,7 +7224,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Penumbra Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Penumbra Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7354,7 +7354,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Portal Fish Filet is a consumable item in Abiotic Factor.",
+  "summary": "Raw Portal Fish Filet is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7718,7 +7718,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Raw Stuffed Peppers Tray is a consumable food item in Abiotic Factor.",
+  "summary": "Raw Stuffed Peppers Tray is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7926,7 +7926,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Roasted Nori Snack is a Consumable item in Abiotic Factor.",
+  "summary": "Roasted Nori Snack is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -7978,7 +7978,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Roasted Stuffed Pepper is a consumable food item in Abiotic Factor.",
+  "summary": "Roasted Stuffed Pepper is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -8940,7 +8940,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Soup Bowl is a consumable item in Abiotic Factor. It is used to scoop a portion of cooked soup from a pot. The soup can either be consumed or poured out. It holds two servings of soup.",
+  "summary": "Soup Bowl is a food container in Abiotic Factor.",
   "icon": "/icons/Soup_Bowl.png"
  },
  {
@@ -8992,7 +8992,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Space Lettuce, is an item and anomalous subject in Abiotic Factor.",
+  "summary": "Space Lettuce is a food item and anomalous subject in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -9148,7 +9148,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Super Tomato is an item in Abiotic Factor.",
+  "summary": "Super Tomato is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -9252,7 +9252,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Taco is a consumable item in Abiotic Factor.",
+  "summary": "A flavorful hard-shell taco.",
   "icon": ""
  },
  {
@@ -9304,7 +9304,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Tomato is a consumable item in Abiotic Factor.",
+  "summary": "Bet you didn't know was a fruit. Look it up in an encyclopedia.",
   "icon": ""
  },
  {
@@ -9390,7 +9390,7 @@
   "slug": "Uncooked_A&L_Mega-Stew",
   "description": "All the raw goodness of limbs and organs.",
   "flavor": "",
-  "category": "Food and Cooking}}",
+  "category": "Food and Cooking",
   "weight": "1",
   "stack": "1",
   "tier": "",
@@ -9408,7 +9408,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Uncooked A&L Mega-Stew is an item in Abiotic Factor.",
+  "summary": "Uncooked A&L Mega-Stew is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -10682,7 +10682,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Vanilla Latte is a consumable drink in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
+  "summary": "Vanilla Latte is a food item in Abiotic Factor. Increases warmth and gives the Caffeinated effect.",
   "icon": ""
  },
  {
@@ -10760,7 +10760,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Vibrant Exor Arm is a consumable item in Abiotic Factor.",
+  "summary": "Vibrant Exor Arm is a item in Abiotic Factor.",
   "icon": ""
  },
  {
@@ -10838,7 +10838,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Water Bottle is a consumable item in Abiotic Factor.",
+  "summary": "Water Bottle is a food item in Abiotic Factor.",
   "icon": ""
  },
  {
