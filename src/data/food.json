@@ -5118,7 +5118,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Kitchen Stove is an Interactable Object in Abiotic Factor.",
+  "summary": "Kitchen Stove is an repairable and interactable object in Abiotic Factor.",
   "icon": "/icons/Kitchen_Stove.png"
  },
  {
@@ -8446,7 +8446,7 @@
   "gearRadResist": "",
   "setBonusHalf": "",
   "setBonusFull": "",
-  "summary": "Single Penumbra Maki is a consumable food item in Abiotic Factor.",
+  "summary": "Single Penumbra Maki is a food item in Abiotic Factor.",
   "icon": ""
  },
  {

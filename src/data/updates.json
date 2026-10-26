@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-10-26",
+    "text": "Wiki sync: Kitchen Stove, Single Penumbra Maki, Magma Skink and IS-0139 descriptions refreshed",
+    "href": "/items/"
+  },
+  {
     "date": "2026-10-19",
     "text": "Wiki sync: 72 food entries refreshed with corrected summaries and complete stats for new raw foods",
     "href": "/food/"
@@ -33,10 +38,5 @@
     "date": "2026-09-06",
     "text": "Enemy HP and damage rankings refreshed",
     "href": "/rankings/"
-  },
-  {
-    "date": "2026-09-06",
-    "text": "Food planner now totals hunger and thirst across dishes",
-    "href": "/food-planner/"
   }
 ]
